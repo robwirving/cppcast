@@ -1,0 +1,18 @@
+<% currentYear = "" %>
+<% for document in @collection.toJSON(): %>
+    <% date = @moment(document.date) %>
+    <% year = date.format("YYYY") %>
+    <div class="abstract">
+        <% if year isnt currentYear: %>
+        <div class="abstract-year"><%= year %></div>
+            <% currentYear = year %>
+        <% end %>
+        <div class="abstract-date"><%= date.format("MMM D") %></div>
+        <div class="abstract-title"><a href="<%= document.url %>"><%= document.title %></a></div>
+        <% if document.tags?: %>
+        <div class="abstract-tags">
+            Posted In: <%- ("<a href='#{@getTagUrl(tag)}'>#{tag}</a>" for tag in document.tags).join(', ') %>
+        </div>
+        <% end %>
+    </div>
+<% end %>

@@ -1,0 +1,2 @@
+<% for document in @getCollection('posts').toJSON(): %>http://www.ytechie.com<%= @getOldUrl(document.url)%>, http://www.ytechie.com<%= document.url %>
+<% end %>

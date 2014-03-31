@@ -1,0 +1,9 @@
+---
+layout: page
+title: Blog Archives
+priority: 0.3
+menu: Archives
+menuOrder: 1
+---
+
+<%- @partial('abstract-list', {collection: @getCollection('posts')}) %>

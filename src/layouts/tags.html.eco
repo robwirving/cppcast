@@ -1,0 +1,7 @@
+---
+layout: page
+---
+
+<% @document.title = @document.tag %>
+<div class="tag-title"><span class="tag-tagname"><%= @document.tag %></span> Posts</div>
+<%- @partial('abstract-list', { collection: @getCollection('posts').findAll({tags: '$in': @document.tag}) }) %>

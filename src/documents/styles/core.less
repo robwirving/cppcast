@@ -1,0 +1,160 @@
+body {
+}
+
+a {
+  font-weight: bold;
+}
+
+h1, h2, h3, h4, h5 {
+  font-weight: bold;
+  margin-top: (@line-height-computed / 2);
+}
+
+p + h1, p + h2, p + h3, p + h4, p + h5 {
+  margin-top: (@line-height-computed );
+}
+
+h1 {
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 16px;
+  a {
+    font-weight: inherit;
+  }
+}
+
+h2 {
+  font-size: 18px;
+}
+
+h3 {
+  font-size: 17px;
+}
+
+h4 {
+  font-size: 16px;
+  font-weight: normal;
+  font-style: italic;
+}
+
+h5 {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.navbar {
+  font-weight: 300;
+
+  .navbar-form {
+    font-weight: normal;
+    width: 180px;
+  }
+
+  .navbar-brand {
+    font-weight: normal;
+    font-size: 24px;
+    @media (min-width: 768px) {
+      font-size: 28px;
+    }
+  }
+
+  .nav {
+    @horizontal-padding: 15px;
+    a {
+      font-weight: normal;
+      text-transform: uppercase;
+      @media (min-width: 768px) {
+        padding-left: @horizontal-padding;
+        padding-right: @horizontal-padding;
+      }
+    }
+
+    .rss, .github, .twitter {
+      font-size: 18px;
+      display: inline-block;
+      padding-left: 6px;
+      padding-right: 6px;
+
+      @media (min-width: 768px) {
+        padding-left: 6px;
+        padding-right: 6px;
+      }
+    }
+
+    .twitter:hover {
+      color: #00bef6;
+    }
+
+    .rss {
+      padding-left: 15px;
+      @media (min-width: 768px) {
+        padding-left: @horizontal-padding;
+      }
+      &:hover {
+        color: #FF6600;
+      }
+    }
+
+    .github {
+      padding-right: 15px;
+      @media (min-width: 768px) {
+        padding-right: @horizontal-padding;
+      }
+      &:hover {
+        color: #000;
+      }
+    }
+  }
+}
+
+.navbar-footer {
+  min-height: 30px;
+  margin-top: 40px;
+  margin-bottom: 0;
+  border-top: 1px solid @seperator-color;
+
+  .navbar-center {
+    display: block;
+    width: 100%;
+    text-align: center;
+  }
+
+  .navbar-text {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #aaa;
+  }
+}
+
+#me {
+  background-color: #eee;
+  padding: 20px;
+  margin-top: 20px;
+
+  img {
+    float: right;
+    padding-left: 20px;
+  }
+}
+
+.tag-title {
+  font-size: 22px;
+  color: #555;
+  font-weight: normal;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid @seperator-color;
+  @media (min-width: 768px) {
+    font-size: 32px;
+  }
+}
+
+.tag-tagname {
+  font-weight: bold;
+}
+
+.googleplus-hidden {
+  position: absolute;
+  top: -1000em;
+  left: -1000em;
+}
