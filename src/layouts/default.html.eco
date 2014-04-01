@@ -5,7 +5,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
 
-    <meta name="description" content="Productive software development using Windows Azure, C#, and related technologies" />
+    <meta name="description" content="THE podcast for Microsoft developers. Jason and Carl talk about the latest in developer news covering topics such as the cloud and cross-platform development using the Microsoft platform." />
 
     <title><%= @getPreparedTitle() %></title>
     <meta name="author" content="<%= @site.author %>">
@@ -37,7 +37,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/"><span class="text-primary"><%= @site.title %></span></a>
+            <a class="navbar-brand" href="/"><img src="/images/logo@2x.png" /></a>
         </div>
         <div class="collapse navbar-collapse navbar-right">
             <ul class="nav navbar-nav">
@@ -47,15 +47,13 @@
                 <% end %>
                 <li class="hidden-xs">
                     <a href="/feed/" class="rss"><span class="icon icon-feed"></span></a>
-                    <a href="http://twitter.com/ytechie" class="twitter"><span class="icon icon-twitter"></span></a>
-                    <a href="https://github.com/ytechie" class="github"><span class="icon icon-github"></span></a>
                 </li>
             </ul>
             <form class="navbar-form navbar-right hidden-xs" role="search" action="http://google.com/search"
                   method="get">
                 <div class="form-group">
                     <input type="search" name="q" class="form-control" placeholder="Search">
-                    <input type="hidden" name="q" value="site:www.ytechie.com">
+                    <input type="hidden" name="q" value="site:msdevshow.com">
                 </div>
             </form>
         </div>
@@ -64,17 +62,14 @@
 <%- @content %>
 <div class="container">
     <div class="navbar navbar-footer">
-        <p class="navbar-center navbar-text">Content copyright &copy; 2013 Jason Young</p>
+        <p class="navbar-center navbar-text">Content copyright &copy; 2014 Jason Young &amp; Carl Schweitzer</p>
     </div>
 </div>
 
 
 <%- @getBlock('scripts').toHTML() %>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.pack.js"></script>
-<script src="/scripts/vendor/highlight.pack.js"></script>
-<!--<script src="//cdnjs.cloudflare.com/ajax/libs/coffee-script/1.6.3/coffee-script.min.js"></script>-->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
 <script src="/scripts/site.js"></script>
 
 <script>

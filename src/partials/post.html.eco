@@ -9,6 +9,7 @@ cacheable: false
     <h1><a href='<%= @url %>'><%= @title %></a></h1>
     <% end %>
     <div class="post-content">
+        <%- @partial('podcast', { audioUrl: @audioUrl }) if @audioUrl %>
         <%- @fixLinks(@content, @url) %>
     </div>
     <% if @tags?: %>

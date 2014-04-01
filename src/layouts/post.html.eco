@@ -4,7 +4,7 @@ layout: default
 <div class="container">
     <div class="row">
         <div class="col-sm-12 col-md-10">
-            <%- @partial('post', {title: @document.title, url: @document.url, tags: @document.tags, date: @document.date, content: @content, individualPost: true }) %>
+            <%- @partial('post', {title: @document.title, url: @document.url, tags: @document.tags, date: @document.date, content: @content, individualPost: true, audioUrl: @document.audioUrl }) %>
             <%- @partial('me', false) %>
             <%- @partial('disqus') if @disqusShortName %>
         </div>
