@@ -10,7 +10,7 @@
     <title><%= @getPreparedTitle() %></title>
     <meta name="author" content="<%= @site.author %>">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="/feed/" rel="alternate" title="YTECHIE.com" type="application/atom+xml">
+    <link href="<%= @rssFeedUrl %>" rel="alternate" title="MS Dev Show Podcast" type="application/atom+xml">
     <link href="/favicon.ico?v=2" rel="shortcut icon">
 
     <!-- Bootstrap -->
@@ -46,7 +46,7 @@
                     <li><a href="<%= document.url %>"><%= document.menu %></a></li>
                 <% end %>
                 <li class="hidden-xs">
-                    <a href="/feed/" class="rss"><span class="icon icon-feed"></span></a>
+                    <a href="<%= @rssFeedUrl %>" class="rss"><span class="icon icon-feed"></span></a>
                 </li>
             </ul>
             <form class="navbar-form navbar-right hidden-xs" role="search" action="http://google.com/search"

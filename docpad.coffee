@@ -76,6 +76,9 @@ docpadConfig = {
 		# Google+ settings
 		#googlePlusId: '105512648454315380048'
 
+		# RSS Feed
+		rssFeedUrl: 'http://msdevshow.libsyn.com/rss'
+
 	collections:
 		posts: ->
 			@getCollection("html").findAllLive({layout: 'post'},[{date:-1}])
