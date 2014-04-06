@@ -49,7 +49,7 @@
                     <a href="<%= @rssFeedUrl %>" class="rss"><span class="icon icon-feed"></span></a>
                 </li>
             </ul>
-            <form class="navbar-form navbar-right hidden-xs" role="search" action="http://google.com/search"
+            <form class="navbar-form navbar-right hidden-xs" role="search" action="http://bing.com/search"
                   method="get">
                 <div class="form-group">
                     <input type="search" name="q" class="form-control" placeholder="Search">
