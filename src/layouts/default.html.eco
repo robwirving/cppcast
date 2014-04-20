@@ -45,6 +45,8 @@
                 <% for document in @getCollection('menuPages').toJSON(): %>
                     <li><a href="<%= document.url %>"><%= document.menu %></a></li>
                 <% end %>
+                <li><a href="http://ytechie.com">Jason</a></li>
+                <li><a href="http://wpdevguy.com">Carl</a></li>
                 <li class="hidden-xs">
                     <a href="<%= @rssFeedUrl %>" class="rss"><span class="icon icon-feed"></span></a>
                 </li>
