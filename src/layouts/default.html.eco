@@ -50,6 +50,9 @@
                 <li class="hidden-xs">
                     <a href="<%= @rssFeedUrl %>" class="rss"><span class="icon icon-feed"></span></a>
                 </li>
+                <li class="visible-xs">
+                    <a href="<%= @rssFeedUrl %>" class="rss">RSS Feed</a>
+                </li>
             </ul>
             <form class="navbar-form navbar-right hidden-xs" role="search" action="http://bing.com/search"
                   method="get">
