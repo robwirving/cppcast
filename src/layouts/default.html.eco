@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
 
     <meta name="description" content="THE podcast for Microsoft developers. Jason and Carl talk about the latest in developer news covering topics such as the cloud and cross-platform development using the Microsoft platform." />
+    <meta name="application-name" content="MS Dev Show"/>
 
     <title><%= @getPreparedTitle() %></title>
     <meta name="author" content="<%= @site.author %>">
