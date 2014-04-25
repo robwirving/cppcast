@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title><%= @site.title %></title>
+    <link href="<%= @site.url %>/feed/" rel="self"/>
+    <link href="<%= @site.url %>"/>
+    <updated><%= @site.date.toISOString() %></updated>
+    <id><%= @site.url %>/</id>
+    <author>
+        <name><%= @site.author %></name>
+        <email><%= @site.email %></email>
+    </author>
+
+    <% for document in @getCollection('posts').toJSON()[0..9]: %>
+    <entry>
+        <title><%= document.title %></title>
+        <link href="<%= @site.url %><%= document.url %>"/>
+        <updated><%= document.date.toISOString() %></updated>
+        <id><%= @getIdForDocument(document) %></id>
+        <content type="html"><![CDATA[<%- @fixLinks(document.contentRenderedWithoutLayouts, @site.url + document.url) %>]]></content>
+    </entry>
+    <% end %>
+</feed>
