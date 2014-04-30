@@ -5,8 +5,10 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
 
-    <meta name="description" content="THE podcast for Microsoft developers. Jason and Carl talk about the latest in developer news covering topics such as the cloud and cross-platform development using the Microsoft platform." />
+    <meta name="description" content=" The Ms Dev show is THE podcast for Microsoft developers. Jason and Carl talk about the latest in developer news covering topics such as the cloud and cross-platform development using the Microsoft platform." />
+	<meta name="keywords" content="Ms Dev Show,Ms Dev Show Podcast,podcast,Microsoft Dev Show,Microsoft Developer Show,Microsoft" />
     <meta name="application-name" content="MS Dev Show"/>
+	<meta name="twitter.site" content="@msdevshow" />
 
     <title><%= @getPreparedTitle() %></title>
     <meta name="author" content="<%= @site.author %>">
