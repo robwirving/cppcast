@@ -19,12 +19,12 @@ title: "The Microsoft Developer Show Podcast"
 
 <div class="page-nav">
     <% if @hasNextPage(): %>
-    <a class="page-nav-older" href="<%= @getNextPage() %>"><span class="icon icon-arrow-left-2"></span> Older</a>
+    <a class="page-nav-older" href="<%= @getNextPage() %>"><span class="icon icon-arrow-left-2"></span> Previous Episode</a>
     <% end %>
     <% if @hasPrevPage(): %>
-    <a class="page-nav-newer" href="<%= @getPrevPage() %>">Newer <span class="icon icon-arrow-right-2"></span></a>
+    <a class="page-nav-newer" href="<%= @getPrevPage() %>">Newer Episode <span class="icon icon-arrow-right-2"></span></a>
     <% end %>
-    <div class="page-nav-archives"><a href="/archives/">- Blog Archives -</a></div>
+    <div class="page-nav-archives"><a href="/archives/">- Podcast Archives -</a></div>
 </div>
 
 <%- @partial('me') %>
