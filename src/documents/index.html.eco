@@ -5,7 +5,7 @@ priority: 0.8
 referencesOthers: true
 isPaged: true
 pagedCollection: posts
-pageSize: 3
+pageSize: 1
 pagePathPrefix: page
 title: "The Microsoft Developer Show Podcast"
 ---
