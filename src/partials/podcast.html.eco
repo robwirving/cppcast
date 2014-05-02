@@ -3,7 +3,7 @@ cacheable: false
 ---
 <audio id="audioplayer" preload="auto" controls style="width:100%;" >
     <source src="<%= @audioUrl %>" type="audio/mp3">
-        Your browser doesn't support the HTML audio tag. You can still download the show, though!
+        Your browser doesn't support the HTML audio tag. You can still <a href="<%= @audioUrl %>">download the show</a>, though!
 </audio>
     <p id="audioplayer_1"></p>
 <script type="text/javascript">
