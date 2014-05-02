@@ -7,7 +7,7 @@ isPaged: true
 pagedCollection: posts
 pageSize: 3
 pagePathPrefix: page
-title: "MS Dev Show"
+title: "The Microsoft Developer Show Podcast"
 ---
 
 <%- @partial('lead') %>
