@@ -50,8 +50,16 @@
                 <% end %>
                 <li><a href="http://ytechie.com">Jason</a></li>
                 <li><a href="http://wpdevguy.com">Carl</a></li>
+                
+                <li class="hidden-xs">
+                    <a href="http://twitter.com/msdevshow" class="twitter"><span class="icon icon-twitter"></span></a>
+                </li>
                 <li class="hidden-xs">
                     <a href="<%= @rssFeedUrl %>" class="rss"><span class="icon icon-feed"></span></a>
+                </li>
+                
+                <li class="visible-xs">
+                    <a href="http://twitter.com/msdevshow">Twitter</a>
                 </li>
                 <li class="visible-xs">
                     <a href="<%= @rssFeedUrl %>" class="rss">RSS Feed</a>
