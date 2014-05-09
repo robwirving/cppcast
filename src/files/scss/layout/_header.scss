@@ -100,16 +100,9 @@ $header-height: em(146);
 						}
 						text-transform: uppercase;
 						letter-spacing: 1px;
-						border-top: solid 3px $header-top-navigation-border-color;
-						border-bottom: solid 3px $header-top-navigation-border-color;
 
 						&, &:visited, &:hover, &:active, &:focus {
 							text-decoration: none;
-						}
-
-						&:hover {
-							border-top-color: $header-top-navigation-hover-border-color;
-							border-bottom-color: $header-top-navigation-hover-border-color;
 						}
 
 						@include media($tablet) {
