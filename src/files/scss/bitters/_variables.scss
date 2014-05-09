@@ -56,8 +56,6 @@ $success-color: $light-green;
 // Patterns
 $dark-gray-noise-background: url('_/images/dark-gray-noise-background.png') $dark-gray;
 $dark-blue-noise-background: url('_/images/dark-blue-noise-background.png') $dark-blue;
-$pixelated-noise-background: url('images/banner.jpg');
-$dark-pixelated-noise-background: url('images/footer-bg.jpg');
 
 
 // Sections
@@ -67,7 +65,7 @@ $dark-pixelated-noise-background: url('images/footer-bg.jpg');
 $body-background: $white;
 
 // Header
-$header-background: $pixelated-noise-background;
+$header-background: $white;//$pixelated-noise-background;
 $header-top-navigation-color: $medium-gray;
 $header-top-navigation-border-color: transparent;
 $header-top-navigation-hover-border-color: $light-gray;
@@ -78,6 +76,6 @@ $header-top-navigation-selected-color: $dark-gray;
 // Content
 
 // Footer
-$footer-container-background: $pixelated-noise-background;
-$footer-background: $dark-pixelated-noise-background;
+$footer-container-background: $white;//$pixelated-noise-background;
+$footer-background: $white;//$dark-pixelated-noise-background;
 $footer-text-color: $light-gray;
