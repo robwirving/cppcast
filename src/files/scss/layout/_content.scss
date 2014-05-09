@@ -1,0 +1,138 @@
+#content-container {
+	#content {
+		@include outer-container;
+
+		// Generic Posts/Pages
+		//////////////////////////////////////////////
+
+		.post, .page {
+
+			h1, h2 {
+				text-align: center;
+			}
+
+			h2 {
+				font-style: italic;
+			}
+		}
+
+		// Sliders
+		//////////////////////////////////////////////
+
+		.slider-container {
+			&.small {
+				@include span-columns(4);
+			}
+
+			header {
+				margin-bottom: em(20);
+				h1 {
+					text-align: center;
+					font-size: 1.4em;
+				}
+			}
+			
+			.slider {
+				position: relative;
+				width: 100%;
+
+				.slide {
+					img {
+						position: relative;
+						border: 0;
+						padding: 0;
+						margin: 0 0 0.5em 0;
+						width: 100%;
+						height: auto;
+						display: block;
+					}
+
+					h1.title {
+						font-size: 1em;
+						text-align: center;
+					}
+				}
+			}
+		}
+
+		// Clients and Services
+		//////////////////////////////////////////////
+
+		.clients, .services {
+			@include span-columns(12);
+			padding: 0;
+			margin: 1em 0;
+
+			@include clearfix();
+		}
+
+		.client, .service {
+			.featured-image {
+				width: 100%;
+				height: auto;
+				margin-bottom: 0.5em;
+
+				img {
+					border: 0;
+					padding: 0;
+					margin: 0;
+					width: 100%;
+					height: auto;
+				}
+			}
+		}
+
+		.services {
+			.service {
+				@include span-columns(12 of 12);
+				margin-bottom: 1em;
+
+				.featured-image {
+					@include span-columns(4 of 12);
+				}
+
+				.content {
+					@include span-columns(8 of 12);
+					@include omega();
+				}
+			}
+		}
+
+		.clients {
+			.client {
+				@include span-columns(3 of 12);
+				@include omega(4n);
+				margin-bottom: 3em;
+
+				header {
+					h1 {
+						font-size: 1em;
+						text-align: center;
+					}
+				}
+			}
+		}
+
+		// Contact
+		//////////////////////////////////////////////
+		.contact {
+			@include clearfix();
+			margin-bottom: 1em;
+
+			.contact-image {
+				@include span-columns(2);
+
+				img {
+					width: 100%;
+					height: auto;
+				}
+			}
+
+			.contact-details {
+				@include span-columns(9);
+				@include shift(1);
+				@include omega();
+			}
+		}
+	}
+}

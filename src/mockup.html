@@ -3,13 +3,13 @@
 	<head>
 		<title>The Microsoft Developer Show | msdevshow.com</title>
 	</head>
-	<link rel="stylesheet" href="style.css" type="text.scss" />
+	<link rel="stylesheet" href="files/style.css" type="text.scss" />
 	<body>
 		<div id="header-container">
 			<header id="header">
 				<div id="logo">
 					<a href="/" title="The Microsoft Developer Show">
-						<img src="/images/logo@2x.png" />
+						<img src="files/images/logo@2x.png" />
 					</a>
 				</div>
 				<nav id="top-navigation">
@@ -22,62 +22,64 @@
 				</nav>
 			</header>
 		</div>
-		<div id="content">
-			<article class="post">
-				<div class="post-date">Apr 24th, 2014</div>
+		<div id="content-container">
+			<section id="content">
+				<article class="post">
+					<div class="post-date">Apr 24th, 2014</div>
 
-				<h1><a href="/2014/04/april-25-2014/">April 25th, 2014</a></h1>
+					<h1><a href="/2014/04/april-25-2014/">April 25th, 2014</a></h1>
 
-				<div class="post-content">
-				<audio id="audioplayer" preload="auto" controls="" style="width:100%;">
-				<source src="http://traffic.libsyn.com/msdevshow/msdevshow_0003.mp3" type="audio/mp3">
-				Your browser doesn't support the HTML audio tag. You can still <a href="http://traffic.libsyn.com/msdevshow/msdevshow_0003.mp3">download the show</a>, though!
-				</audio>
-				<p id="audioplayer_1"></p>
-				<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="/primus/primus.js"></script><script type="text/javascript">
-				var audioTag = document.createElement('audio');
-				/* Do we not support MP3 audio? If not, dynamically made a Flash SWF player.  */
-				if (!(!!(audioTag.canPlayType) && ("no" != audioTag.canPlayType("audio/mpeg")) && ("" != audioTag.canPlayType("audio/mpeg")))) {
-				AudioPlayer.embed("audioplayer_1", {soundFile: "http://traffic.libsyn.com/msdevshow/msdevshow_0003.mp3", transparentpagebg: "yes"});
-				$( '#audioplayer').hide();
-				}
-				else /* Ok, we do support MP3 audio, style the audio tag into a touch-friendly player */
-				{
-				/* If we didn't do the "if mp3 supported" check above, this call would prompt Firefox install quicktime! */
-				$( '#audioplayer' ).audioPlayer(); 
-				}
-				</script>
-				<a href="http://traffic.libsyn.com/msdevshow/msdevshow_0003.mp3">Direct Download (right-click &amp; save)</a>
-				<br><br>
-				<p>Carl goes to <a href="http://dvlup.com">Chicago DVLUP Day</a>, embracing a hackfest culture, new sound setup, Nokia acquisition complete, MsDevShow.com is now pinnable, and Azure storage options</p>
-				<ul>
-				<li>Whats up with Carl<ul>
-				<li><a href="http://www.windowsphone.com/s?appid=80a358b4-ff12-416f-9104-2f6080bd6818">JSON Viewer Pro</a></li>
-				<li><a href="http://wpdevguy.com/2014/04/22/preparing-live-tiles-for-8-1/">Prepping for Windows Phone 8.1 Live Tiles</a></li>
-				</ul>
-				</li>
-				<li>Jason<ul>
-				<li><a href="http://blogs.msdn.com/b/johnshews_blog/">Blog of Jason's Boss</a></li>
-				<li><a href="https://soundcloud.com/ytechie/headset-vs-heil-pr40-sound-check">Sound comparison of Jason's headset versus pro mic</a></li>
-				</ul>
-				</li>
-				<li>Mobile News<ul>
-				<li><a href="http://wmpoweruser.com/change-of-guard-nokias-sign-goes-down-and-microsofts-goes-up/">Nokia is now Microsoft, even the signs on their buildings</a></li>
-				<li><a href="http://blogs.windows.com/windows_phone/b/windowsphone/archive/2014/04/23/remote-desktop-preview-app-now-available-for-windows-phone-8-1.aspx">Remote Desktop Preview app for Windows Phone</a></li>
-				<li><a href="http://download.microsoft.com/download/A/2/7/A271EFFF-6C9E-4E9B-9259-0F72FDEDD153/ProjectMyScreenApp.msi">Project my screen desktop app</a><ul>
-				<li><a href="http://www.monkeyslaps.com/projecting-your-windows-phone-screen-to-a-pc/">Troubleshooting directions</a></li>
-				</ul>
-				</li>
-				</ul>
-				</li>
-				<li><a href="http://www.buildmypinnedsite.com/">Instructions to pin your website in Win8 and WP8.1</a></li>
-				<li><a href="http://www.zdnet.com/microsoft-realigns-its-sql-azure-cloud-database-line-up-7000028752/#ftag=RSS0966a21">New Azure Database tiers</a></li>
-				<li>App of the Week - <a href="http://www.windowsphone.com/s?appid=186e506c-0393-4d35-bcb3-2aaf49b3e479">Melodia</a></li>
-				</ul>
+					<div class="post-content">
+					<audio id="audioplayer" preload="auto" controls="" style="width:100%;">
+					<source src="http://traffic.libsyn.com/msdevshow/msdevshow_0003.mp3" type="audio/mp3">
+					Your browser doesn't support the HTML audio tag. You can still <a href="http://traffic.libsyn.com/msdevshow/msdevshow_0003.mp3">download the show</a>, though!
+					</audio>
+					<p id="audioplayer_1"></p>
+					<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="/primus/primus.js"></script><script type="text/javascript">
+					var audioTag = document.createElement('audio');
+					/* Do we not support MP3 audio? If not, dynamically made a Flash SWF player.  */
+					if (!(!!(audioTag.canPlayType) && ("no" != audioTag.canPlayType("audio/mpeg")) && ("" != audioTag.canPlayType("audio/mpeg")))) {
+					AudioPlayer.embed("audioplayer_1", {soundFile: "http://traffic.libsyn.com/msdevshow/msdevshow_0003.mp3", transparentpagebg: "yes"});
+					$( '#audioplayer').hide();
+					}
+					else /* Ok, we do support MP3 audio, style the audio tag into a touch-friendly player */
+					{
+					/* If we didn't do the "if mp3 supported" check above, this call would prompt Firefox install quicktime! */
+					$( '#audioplayer' ).audioPlayer(); 
+					}
+					</script>
+					<a href="http://traffic.libsyn.com/msdevshow/msdevshow_0003.mp3">Direct Download (right-click &amp; save)</a>
+					<br><br>
+					<p>Carl goes to <a href="http://dvlup.com">Chicago DVLUP Day</a>, embracing a hackfest culture, new sound setup, Nokia acquisition complete, MsDevShow.com is now pinnable, and Azure storage options</p>
+					<ul>
+					<li>Whats up with Carl<ul>
+					<li><a href="http://www.windowsphone.com/s?appid=80a358b4-ff12-416f-9104-2f6080bd6818">JSON Viewer Pro</a></li>
+					<li><a href="http://wpdevguy.com/2014/04/22/preparing-live-tiles-for-8-1/">Prepping for Windows Phone 8.1 Live Tiles</a></li>
+					</ul>
+					</li>
+					<li>Jason<ul>
+					<li><a href="http://blogs.msdn.com/b/johnshews_blog/">Blog of Jason's Boss</a></li>
+					<li><a href="https://soundcloud.com/ytechie/headset-vs-heil-pr40-sound-check">Sound comparison of Jason's headset versus pro mic</a></li>
+					</ul>
+					</li>
+					<li>Mobile News<ul>
+					<li><a href="http://wmpoweruser.com/change-of-guard-nokias-sign-goes-down-and-microsofts-goes-up/">Nokia is now Microsoft, even the signs on their buildings</a></li>
+					<li><a href="http://blogs.windows.com/windows_phone/b/windowsphone/archive/2014/04/23/remote-desktop-preview-app-now-available-for-windows-phone-8-1.aspx">Remote Desktop Preview app for Windows Phone</a></li>
+					<li><a href="http://download.microsoft.com/download/A/2/7/A271EFFF-6C9E-4E9B-9259-0F72FDEDD153/ProjectMyScreenApp.msi">Project my screen desktop app</a><ul>
+					<li><a href="http://www.monkeyslaps.com/projecting-your-windows-phone-screen-to-a-pc/">Troubleshooting directions</a></li>
+					</ul>
+					</li>
+					</ul>
+					</li>
+					<li><a href="http://www.buildmypinnedsite.com/">Instructions to pin your website in Win8 and WP8.1</a></li>
+					<li><a href="http://www.zdnet.com/microsoft-realigns-its-sql-azure-cloud-database-line-up-7000028752/#ftag=RSS0966a21">New Azure Database tiers</a></li>
+					<li>App of the Week - <a href="http://www.windowsphone.com/s?appid=186e506c-0393-4d35-bcb3-2aaf49b3e479">Melodia</a></li>
+					</ul>
 
-				</div>
+					</div>
 
-				</article>
+					</article>
+			</section>
 		</div>
 		<div id="footer-container">
 			<footer id="footer">

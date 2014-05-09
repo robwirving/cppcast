@@ -1,0 +1,134 @@
+$header-height: em(146);
+#header-container {
+	background: $header-background;
+	height: $header-height;
+
+	#header {
+		height: $header-height;
+
+		#logo {
+			@include span-columns(5);
+			@include display(flex);
+			@include flex-flow(row nowrap);
+			@include justify-content(flex-start);
+			@include align-items(center);
+			@include align-content(center);
+
+			height: 100%;
+
+			@include media($tablet) {
+				@include span-columns(4);
+				@include display(flex);
+			}
+
+			@include media($mobile) {
+				@include span-columns(1);
+				@include display(flex);
+				@include flex-flow(column nowrap);
+				@include justify-content(center);
+			}
+
+			a {
+				display: block;
+				width: auto;
+				height: auto;
+				margin: auto auto auto 0.5em;
+				@include media($mobile) {
+					width: 90%;
+					margin-left: auto;
+				}
+
+				img {
+					width: auto;
+					height: em(100);
+					max-width: none;
+
+					@include media($non-desktop) {
+						width: 100%;
+						height: auto;
+					}
+
+					
+				}
+			}
+		}
+
+		#top-navigation {
+			@include span-columns(7);
+			color: $header-top-navigation-color;
+			height: 100%;
+			overflow: hidden;
+
+			@include media($tablet) {
+				@include span-columns(8);
+			}
+
+			@include media($mobile) {
+				display: none;
+			}
+
+			ul {
+				@include display(flex);
+				@include flex-flow(row nowrap);
+				@include justify-content(flex-end);
+				@include align-items(center);
+				@include align-content(center);
+				height: 100%;
+				width: 100%;
+				margin: 0;
+				padding: 0;
+
+				li {
+					display: block;
+					margin: auto 0.25em;
+					text-align: center;
+
+					a {
+						// Positioning
+						display: block;
+						padding: 0 1.2em;
+						height: 64px;
+						line-height: 60px;
+						vertical-align: middle;
+						white-space: nowrap;
+
+						// Style
+						color: $header-top-navigation-color;
+						font: {
+							weight: bold;
+							size: 0.8em;
+						}
+						text-transform: uppercase;
+						letter-spacing: 1px;
+						border-top: solid 3px $header-top-navigation-border-color;
+						border-bottom: solid 3px $header-top-navigation-border-color;
+
+						&, &:visited, &:hover, &:active, &:focus {
+							text-decoration: none;
+						}
+
+						&:hover {
+							border-top-color: $header-top-navigation-hover-border-color;
+							border-bottom-color: $header-top-navigation-hover-border-color;
+						}
+
+						@include media($tablet) {
+							margin: auto 0.15em;
+							padding: 0 0.75em;
+							font-size: 0.7em;
+						}
+					}
+
+					&.current-menu-item, &.current_page_parent, &.current_page_item {
+						a {
+							border-top-color: $header-top-navigation-selected-border-color;
+							border-bottom-color: $header-top-navigation-selected-border-color;
+							background: $header-top-navigation-selected-background;
+							color: $header-top-navigation-selected-color;
+						}
+					}
+				}
+			}
+		}
+	}
+}

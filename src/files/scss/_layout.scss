@@ -1,0 +1,8 @@
+body {
+	background: $body-background;
+}
+
+// Not putting the following under "body" so that I can do things like body.single & mySelector
+@import "layout/header";
+@import "layout/content";
+@import "layout/footer";

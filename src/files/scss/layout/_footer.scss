@@ -1,0 +1,19 @@
+#footer-container {
+	background: $footer-container-background;
+	padding-top: em(15);
+	width: 100%;
+
+	#footer {
+		background: $footer-background;
+		color: $footer-text-color;
+		font-size: 0.9em;
+		text-align: center;
+		padding: 50px 0;
+
+		a {
+			color: $footer-text-color;
+		}
+
+
+	}
+}
