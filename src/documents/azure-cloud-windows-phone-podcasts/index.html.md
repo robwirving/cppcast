@@ -20,4 +20,5 @@ To promote podcasts with similar topics, we're trying to compile a list here. Le
 
 Criteria for Addition:
 
-* The podcast must have had a new episode in the past 60 days 
+* The podcast must have had a new episode in the past 60 days
+* The podcast must have a major theme overlap with our core topics of Azure, Windows, and Windows Phone.
