@@ -71,7 +71,7 @@ docpadConfig = {
 			title.replace("'", "\\'")
 
 		# Discus.com settings
-		#disqusShortName: 'ytechie'
+		disqusShortName: 'msdevshow'
 
 		# Google+ settings
 		#googlePlusId: '105512648454315380048'
