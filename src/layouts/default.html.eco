@@ -13,7 +13,7 @@
     <title><%= @getPreparedTitle() %></title>
     <meta name="author" content="<%= @site.author %>">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="<%= @rssFeedUrl %>" rel="alternate" title="MS Dev Show Podcast" type="application/atom+xml">
+    <link rel="alternate" type="application/rss+xml" title="The MS Dev Show Podcast" href="<%= @rssFeedUrl %>" />
     <link href="/favicon.ico?v=2" rel="shortcut icon">
 
     <!-- Bootstrap -->
