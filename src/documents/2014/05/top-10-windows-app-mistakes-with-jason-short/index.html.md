@@ -23,7 +23,8 @@ This week we talk to Jason Short about the top mistakes developers make when bui
  - [MarkedUp Analytics](https://markedup.com/)
 
 **Jason Short**
- 
+
+ - [**Top 10 Windows 8 App Mistakes**](http://blogs.msdn.com/b/jason_short/archive/2014/02/26/top-10-windows-8-app-mistakes.aspx) 
  - [@InfiniteCodex](https://twitter.com/infinitecodex)
  - [http://infinitecodex.com/](http://infinitecodex.com/) 
 
