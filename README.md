@@ -1,1 +1,1 @@
-MS Dev Show Podcast website source
+[MS Dev Show Podcast](http://msdevshow.com) website source
