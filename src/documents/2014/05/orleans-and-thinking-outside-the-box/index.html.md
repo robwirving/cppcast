@@ -28,3 +28,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0007.mp3
 ### Tip of the Week
 
 [2-Finger Notification Clear](http://wmpoweruser.com/did-you-know-you-can-hide-all-notifications-in-the-action-center-by-swiping-with-two-fingers/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+WmPowerUser+%28WMPowerUser%29)
+
+###ThatConference
+
+Going to be in the midwest in August? Might as well stop by and check out that conference. Which conference? **[ThatConference](http://ThatConference.com)!**
