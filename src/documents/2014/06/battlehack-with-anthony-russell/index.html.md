@@ -4,7 +4,6 @@ title: BattleHack! with Anthony Russell
 date: 2014-06-08
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0008.mp3
 ---
-# BattleHack! with Anthony Russell #
 
 Welcome to the MS Dev Show, episode \#8. This week we talk with Windows Phone developer Anthony Russell about BattleHack, DVLUP Ambassadors, and Windows Phone development. Also, Apple's recent WWDC announcements, optimizing SQL Server for Azure, and Azure Service Bus relay.
 
