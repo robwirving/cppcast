@@ -81,7 +81,7 @@ docpadConfig = {
 
 	collections:
 		posts: ->
-			@getCollection("html").findAllLive({layout: 'post'},[{date:-1}])
+			@getCollection("html").findAllLive({layout: 'post', draft: $exists: false},[{date:-1}])
 		menuPages: ->
 			@getCollection("html").findAllLive({menu: $exists: true},[{menuOrder:1}])
 
