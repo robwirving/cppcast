@@ -3,7 +3,6 @@ layout: post
 title: Azure with Eric D. Boyd
 date: 2014-06-27
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0011.mp3
-draft: true
 ---
 
 ###News
