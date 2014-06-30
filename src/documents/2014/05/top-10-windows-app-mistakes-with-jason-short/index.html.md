@@ -3,6 +3,7 @@ layout: post
 title: Top 10 Windows App Mistakes with Jason Short
 date: 2014-05-24
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0006.mp3
+guestImage: jason-short.jpg
 ---
 
 This week we talk to Jason Short about the top mistakes developers make when building Windows apps, and we talk about the new Surface Pro 3.
