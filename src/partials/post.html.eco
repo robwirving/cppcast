@@ -8,6 +8,11 @@ cacheable: false
     <% else: %>
     <h1><a href='<%= @url %>'><%= @title %></a></h1>
     <% end %>
+
+    <% if @guestImage: %>
+    <img class="guestImage" src="<%= @url + @guestImage %>"></img>
+    <% end %>
+
     <div class="post-content">
         <%- @partial('podcast', { audioUrl: @audioUrl }) if @audioUrl %>
         <%- @fixLinks(@content, @url) %>

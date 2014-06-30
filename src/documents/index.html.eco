@@ -14,7 +14,7 @@ title: "The Microsoft Developer Show Podcast"
 
 
 <% for document in @getCollection('posts').toJSON()[@document.page.startIdx...@document.page.endIdx]: %>
-    <%- @partial('post', {title: document.title, url: document.url, tags: document.tags, date: document.date, content: document.contentRenderedWithoutLayouts, audioUrl: document.audioUrl }) %>
+    <%- @partial('post', {title: document.title, url: document.url, tags: document.tags, date: document.date, content: document.contentRenderedWithoutLayouts, audioUrl: document.audioUrl, guestImage: document.guestImage }) %>
 <% end %>
 
 <div class="page-nav">
