@@ -12,6 +12,7 @@ cacheable: false
         <%- @partial('podcast', { audioUrl: @audioUrl }) if @audioUrl %>
         <%- @fixLinks(@content, @url) %>
     </div>
+    See a mistake? <a href="https://github.com/ytechie/msdevshow/edit/master/src/documents<%= @url %>index.html.md">Edit this post!</a>
     <% if @tags?: %>
     <div class="post-tags">
         Posted In: <%- ("<a href='#{@getTagUrl(tag)}'>#{tag}</a>" for tag in @tags).join(', ') %>
