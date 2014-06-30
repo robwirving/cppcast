@@ -71,7 +71,7 @@ docpadConfig = {
 			title.replace("'", "\\'")
 
 		# Discus.com settings
-		#disqusShortName: 'ytechie'
+		disqusShortName: 'msdevshow'
 
 		# Google+ settings
 		#googlePlusId: '105512648454315380048'
@@ -81,7 +81,7 @@ docpadConfig = {
 
 	collections:
 		posts: ->
-			@getCollection("html").findAllLive({layout: 'post'},[{date:-1}])
+			@getCollection("html").findAllLive({layout: 'post', draft: $exists: false},[{date:-1}])
 		menuPages: ->
 			@getCollection("html").findAllLive({menu: $exists: true},[{menuOrder:1}])
 

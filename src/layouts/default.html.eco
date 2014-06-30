@@ -5,7 +5,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
 
-    <meta name="description" content=" The Ms Dev Show is THE podcast for Microsoft developers. Jason and Carl talk about the latest in developer news covering topics such as the cloud and cross-platform development using the Microsoft platform." />
+    <meta name="description" content="The MS Dev Show is THE podcast for Microsoft developers covering news and topics such as Azure (cloud), Windows, and cross-platform development using MS tools" />
 	<meta name="keywords" content="Ms Dev Show,Ms Dev Show Podcast,podcast,Microsoft Dev Show,Microsoft Developer Show,Microsoft" />
     <meta name="application-name" content="MS Dev Show"/>
 	<meta name="twitter.site" content="@msdevshow" />
@@ -13,11 +13,13 @@
     <title><%= @getPreparedTitle() %></title>
     <meta name="author" content="<%= @site.author %>">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="<%= @rssFeedUrl %>" rel="alternate" title="MS Dev Show Podcast" type="application/atom+xml">
+    <link rel="alternate" type="application/rss+xml" title="The MS Dev Show Podcast" href="<%= @rssFeedUrl %>" />
     <link href="/favicon.ico?v=2" rel="shortcut icon">
 
     <!-- Bootstrap -->
     <link href="/styles/site.css" rel="stylesheet" media="screen">
+
+    <meta http-equiv="content-language" content="en-us">
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -40,7 +42,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/"><img src="/images/logo@2x.png" /></a>
+            <a class="navbar-brand" href="/"><img src="/images/logo@2x.png" alt="MS Dev Show" /></a>
         </div>
         <div class="collapse navbar-collapse navbar-right">
             <ul class="nav navbar-nav">
