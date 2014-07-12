@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nitrogen.io and IoT with Tim Park
+title: Nitrogen and IoT with Tim Park
 date: 2014-07-11
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0013.mp3
 guestImage: tim-park.jpg
