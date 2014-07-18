@@ -21,7 +21,7 @@ guestImage: clark-sell.jpg
  - [http://www.csell.net/](http://www.csell.net/)
  - [@csell5](https://twitter.com/csell5)
  - [https://www.thatconference.com/](https://www.thatconference.com/)
- - [http://platform.telerick.com](http://platform.telerick.com)
+ - [http://www.telerik.com/platform](http://www.telerik.com/platform)
  ----------
  - [App Feedback](http://www.telerik.com/appfeedback)
 
