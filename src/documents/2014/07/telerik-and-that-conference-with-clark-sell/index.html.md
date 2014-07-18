@@ -4,7 +4,6 @@ title: Telerik and That Conference with Clark Sell
 date: 2014-07-18
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0014.mp3
 guestImage: clark-sell.jpg
-draft: true
 ---
 
 
