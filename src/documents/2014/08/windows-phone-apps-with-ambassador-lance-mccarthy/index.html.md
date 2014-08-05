@@ -12,7 +12,7 @@ guestImage: lance-mccarthy.jpg
  - [Windows Phone 8.1 Update and Emulators](http://www.microsoft.com/en-us/download/details.aspx?id=43719)
  - [Visual Studio 2013 Update 3, Azure SDK 2.4, Windows Phone 8.1 Update and Apache Cordova Tools CTP 2](http://blogs.msdn.com/b/somasegar/archive/2014/07/18/visual-studio-2013-update-3.aspx)
  - [NuGet Package MarkdownLog makes log files much prettier](http://www.hanselman.com/blog/NuGetPackageOfTheWeekMarkdownLogMakesLogFilesMuchPrettier.aspx)
- - [Enhancing Debugging with the Debugger Display Attributes](http://msdn.microsoft.com/en-us/library/ms228992(v=vs.110).aspx)
+ - [Enhancing Debugging with the Debugger Display Attributes](http://msdn.microsoft.com/en-us/library/ms228992)
  - [The Mobile Web should just work for everyone](http://blogs.msdn.com/b/ie/archive/2014/07/31/the-mobile-web-should-just-work-for-everyone.aspx)
  - [ReSharper 9: first look at C\# 6.0 support](http://blog.jetbrains.com/dotnet/2014/07/30/resharper9-first-look-at-csharp6-support/)
  - [The Descent to C](http://www.chiark.greenend.org.uk/~sgtatham/cdescent/?HN_20140803)
