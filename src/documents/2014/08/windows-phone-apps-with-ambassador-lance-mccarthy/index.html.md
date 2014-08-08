@@ -26,6 +26,8 @@ guestImage: lance-mccarthy.jpg
  ----------
  - [Windows Phone 8.1 development for absolute beginners](http://channel9.msdn.com/Series/Windows-Phone-8-1-Development-for-Absolute-Beginners)
  - [Build 2013 Hackathon Winner](http://channel9.msdn.com/posts/Build-2013-Hackathon-Winners)
+ - [Developer Ambassadors](https://www.dvlup.com/ambassadors)
+ - [App Studio](http://appstudio.windows.com/)
 
 ###Azure pick of the week
  - [Free eBook: Building Cloud Apps with Microsoft Azure](http://weblogs.asp.net/scottgu/free-ebook-building-cloud-apps-with-microsoft-azure)
