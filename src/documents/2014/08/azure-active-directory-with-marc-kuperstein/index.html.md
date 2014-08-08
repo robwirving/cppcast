@@ -19,7 +19,7 @@ guestImage: marc-kuperstein.jpg
 -   [Blog](http://blogs.msdn.com/b/marckuperstein/)
 
 ###Azure pick of the week
- - AAD
+ - Azure Active Directory
   -   [http://azure.microsoft.com/en-us/services/active-directory/](http://azure.microsoft.com/en-us/services/active-directory/)
   -   [http://azure.microsoft.com/en-us/documentation/services/active-directory/](http://azure.microsoft.com/en-us/documentation/services/active-directory/)
   -   [http://azure.microsoft.com/en-us/documentation/articles/,active-directory-whatis/](http://azure.microsoft.com/en-us/documentation/articles/,active-directory-whatis/)
