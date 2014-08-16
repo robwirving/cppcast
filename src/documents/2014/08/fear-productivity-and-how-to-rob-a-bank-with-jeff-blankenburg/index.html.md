@@ -4,7 +4,6 @@ title:	Fear, Productivity, and How to Rob a Bank with Jeff Blankenburg
 date: 2014-08-15
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0018.mp3
 guestImage: jeff-blankenburg.jpg
-draft: true
 ---
 
 ###News
