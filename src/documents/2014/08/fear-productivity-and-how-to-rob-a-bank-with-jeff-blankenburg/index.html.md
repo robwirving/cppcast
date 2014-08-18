@@ -17,6 +17,8 @@ guestImage: jeff-blankenburg.jpg
  - [CSS Guidlines](http://cssguidelin.es/)
  - [Should Holiday mail be deleted?](http://www.bbc.com/news/magazine-23547802)
 
+ - [Quick Change on Netflix](http://dvd.netflix.com/Movie/Quick-Change/70036931?trkid=222336)
+
 ###Jeff Blankenburg
 -   [https://twitter.com/jeffblankenburg](https://twitter.com/jeffblankenburg)
 -   [http://jeffblankenburg.com/](http://jeffblankenburg.com/)
@@ -27,5 +29,5 @@ guestImage: jeff-blankenburg.jpg
  - [http://batterybarpro.com/](http://batterybarpro.com/)
 
 ###Promo
- - Retweet any one of our apps for a chance at one of two $5 Microsoft gift cards!
+ - Retweet any one of our tweets for a chance at one of two $5 Microsoft gift cards!
 	 - US residents only :'(
