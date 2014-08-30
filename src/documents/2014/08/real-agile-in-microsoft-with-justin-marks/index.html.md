@@ -4,7 +4,6 @@ title:	Real Agile in Microsoft with Justin Marks
 date: 2014-08-29
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0020.mp3
 guestImage: justin-marks.jpg
-draft:true
 ---
 
 
