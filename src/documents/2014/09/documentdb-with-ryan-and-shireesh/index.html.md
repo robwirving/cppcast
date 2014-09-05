@@ -23,7 +23,8 @@ Please rate us in iTunes, Stitcher, or wherever you get your podcast. This helps
   -  [http://about.me/ryancrawcour](http://about.me/ryancrawcour)
  - Shireesh Thota
   -   [https://twitter.com/ShireeshThota](http://twitter.com/ShireeshThota)
- - [DocumentDB Team](https://twitter.com/documentdb)
+ - DocumentDB Team
+  - [https://twitter.com/documentdb](https://twitter.com/documentdb)
 
 ----------
  -   [http://blogs.msdn.com/b/documentdb/archive/2014/08/22/introducing-azure-documentdb-microsoft-s-fully-managed-nosql-document-database-service.aspx](http://blogs.msdn.com/b/documentdb/archive/2014/08/22/introducing-azure-documentdb-microsoft-s-fully-managed-nosql-document-database-service.aspx)
