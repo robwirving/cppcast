@@ -8,6 +8,7 @@ guestImage: ryan-crawcour.jpg
 
 ###News
  - [Coding Blocks](http://www.codingblocks.net/)
+  - Are you a developer who likes podcasts? Then you *NEED* to listen to these guys. A regular, in-depth dive into the topic of the week by three veteran developers.  
  - [Google 'discourages' users of old browsers](http://www.bbc.com/news/technology-29012038)
  - [Standard Markdown](http://standardmarkdown.com/)
   -  [Standard Markdown is now Common Markdown](http://blog.codinghorror.com/standard-markdown-is-now-common-markdown/)
