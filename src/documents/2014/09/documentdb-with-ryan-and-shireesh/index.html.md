@@ -3,7 +3,7 @@ layout: post
 title: DocumentDB with Ryan and Shireesh
 date: 2014-09-05
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0021.mp3
-guestImage: ryan-crawcrou.jpg
+guestImage: ryan-crawcour.jpg
 ---
 
 ###News
