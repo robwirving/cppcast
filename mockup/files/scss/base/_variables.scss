@@ -2,7 +2,7 @@
 $sans-serif: $helvetica;
 $serif: $georgia;
 $base-font-family: $sans-serif;
-$header-font-family: $base-font-family;
+$header-font-family: #{$minecrafter-font-family},#{$base-font-family};
 
 // Sizes
 $base-font-size: 1em;
