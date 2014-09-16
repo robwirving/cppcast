@@ -3,6 +3,7 @@ layout: post
 title: Enterprise Store Apps with Greg Levenhagen
 date: 2014-06-13
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0009.mp3
+guestImage: greg-levenhagen.jpg
 ---
 
 We talk with Greg Levenhagen about enterprise development. We take a look at a comparison between Swift and C#, The Share Icon that no one agrees on, Docker on Azure, and Windows is being used on the Mac Pro production line?

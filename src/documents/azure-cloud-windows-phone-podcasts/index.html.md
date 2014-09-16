@@ -18,6 +18,9 @@ To promote podcasts with similar topics, we're trying to compile a list here. Le
 ## Windows Phone
 * [Windows Developer Show](http://windowsdevelopershow.com/) 
 
+## Programming
+* [Coding Blocks](http://www.codingblocks.net/)
+
 Criteria for Addition:
 
 * The podcast must have had a new episode in the past 60 days

@@ -3,6 +3,7 @@ layout: post
 title: Mobile Development with Jeff Weber
 date: 2014-05-09
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0004.mp3
+guestImage: jeff-weber.jpg
 ---
 
 This week we discuss the stats Jeff published recently regarding his success in the iOS store. We also talk about Azure websites, Windows Phone news, [That Conference](http://thatconference.com), and congratulate Jeff and Jason on being selected as speakers.

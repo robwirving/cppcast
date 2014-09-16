@@ -9,6 +9,7 @@
 	<meta name="keywords" content="Ms Dev Show,Ms Dev Show Podcast,podcast,Microsoft Dev Show,Microsoft Developer Show,Microsoft" />
     <meta name="application-name" content="MS Dev Show"/>
 	<meta name="twitter.site" content="@msdevshow" />
+	<meta property="twitter:account_id" content="4503599629427918" />
 
     <title><%= @getPreparedTitle() %></title>
     <meta name="author" content="<%= @site.author %>">

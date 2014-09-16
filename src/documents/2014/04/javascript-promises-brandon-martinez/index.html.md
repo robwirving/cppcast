@@ -3,6 +3,7 @@ layout: post
 title: JavaScript Promises with Brandon Martinez
 date: 2014-04-18
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0002.mp3
+guestImage: brandon-martinez.jpg
 ---
 
 We talk about why we started the show. Jason gets excited about new hardware, and talks about setting up the show.
