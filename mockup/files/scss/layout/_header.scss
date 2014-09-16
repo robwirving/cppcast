@@ -9,8 +9,11 @@
 
 	#site-header {
 		@include outer-container();
+		@include clearfix();
+		position: relative;
+
 		#header-logo {
-			@include span-columns(4);
+			@include span-columns(6);
 			a {
 				img {
 				}
@@ -18,14 +21,39 @@
 		}
 
 		.top-navigation {
-			@include span-columns(4);
+			@include span-columns(3);
+			height: 100%;
 
-			#top-navigation-left {
+			ul {
+				@include clearfix();
 
-			}
+				white-space: nowrap;
+				font-weight: bold;
+				height: 100%;
 
-			#top-navigation-right {
+				li {
+					display: inline-block;
+					height: 100%;
+					line-height: 100%;
+					z-index: 1;
+					position: relative;
 
+					ul {
+						display: none;
+						position: absolute;
+						top: 100%;
+						left: 0;
+
+						li {
+							display: block;
+							width: 100%;
+						}
+					}
+
+					&:hover > ul {
+						display: block;
+					}
+				}
 			}
 		}
 	}
