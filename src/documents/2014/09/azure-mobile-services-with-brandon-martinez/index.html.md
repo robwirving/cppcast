@@ -4,7 +4,6 @@ title: Azure Mobile Services with Brandon Martinez
 date: 2014-09-15
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0022.mp3
 guestImage: brandon-martinez.jpg
-draft: true
 ---
 
 ###News
