@@ -1,0 +1,32 @@
+#site-header-container {
+	background: $header-background;
+	color: $header-font-color;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 9999999;
+
+	#site-header {
+		@include outer-container();
+		#header-logo {
+			@include span-columns(4);
+			a {
+				img {
+				}
+			}
+		}
+
+		.top-navigation {
+			@include span-columns(4);
+
+			#top-navigation-left {
+
+			}
+
+			#top-navigation-right {
+
+			}
+		}
+	}
+}

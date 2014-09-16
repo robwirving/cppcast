@@ -2,7 +2,18 @@ body {
 	background: $body-background;
 }
 
-// Not putting the following under "body" so that I can do things like body.single & mySelector
-@import "layout/header";
-@import "layout/content";
-@import "layout/footer";
+#container {
+	min-height: 100%;
+	position: relative;
+	width: 100%;
+
+	@include media($mobile) {
+		padding-bottom: 0;
+	}
+
+	// Not putting the following under "body" so that I can do things like body.single & mySelector
+	@import "layout/header";
+	@import "layout/content";
+	@import "layout/footer";
+}
+
