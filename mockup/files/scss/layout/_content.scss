@@ -15,15 +15,53 @@
 		@include span-columns(8);
 		background: $container-background;
 		padding: 1em 2em;
+
+		.show-notes {
+			p {
+				margin-bottom: 1.5em;
+			}
+
+			ul {
+				margin: 1em 0 2em;
+
+				li {
+					list-style: disc;
+					list-style-position: inside;
+				}
+			}
+		}
 	}
 
 	#site-sidebar {
 		@include span-columns(4);
-		background: $sidebar-background;
+		//background: $sidebar-background;
 
 		header {
 			background: $sidebar-header-background;
 			color: $sidebar-header-color;
+			padding: 1.2em 0.5em 0 0.5em;
+		}
+
+		nav {
+			margin-top: 1em;
+			background: $sidebar-background;
+
+			h2 {
+				background: $sidebar-nav-header-background;
+				color: $sidebar-header-color;
+				padding: 0.6em 0.5em 0 0.5em;
+			}
+
+			ul {
+				margin: 0;
+				padding: 0;
+
+				li {
+					padding: 0.5em;
+					font-size: 1.2em;
+					line-height: 1.4em;
+				}
+			}
 		}
 	}
 }
