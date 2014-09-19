@@ -13,6 +13,7 @@ body {
 
 	// Not putting the following under "body" so that I can do things like body.single & mySelector
 	@import "layout/header";
+	@import "layout/banner";
 	@import "layout/content";
 	@import "layout/footer";
 }

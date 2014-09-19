@@ -1,0 +1,22 @@
+#site-content-container {
+	@include outer-container();
+	@include clearfix();
+
+	margin-top: em(-150);
+
+	#site-content-header {
+		background: $container-background;
+		padding: 1.5em 1.5em 0 1.5em;
+		display: inline-block;
+	}
+
+	#site-content {
+		background: $container-background;
+		padding: 2em;
+	}
+
+	#site-sidebar {
+		background: $container-background;
+		padding: 1em;
+	}
+}

@@ -1,0 +1,63 @@
+#site-banner-container {
+	padding: em(30) 0 em(150) 0;
+	@include background-image(linear-gradient(to bottom, $banner-background-top-gradient-color $banner-background-top-gradient-stop, $banner-background-bottom-gradient-color $banner-background-bottom-gradient-stop), $banner-background-image);
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: cover;
+
+	.banner {
+
+		.banner-inner {
+			@include outer-container;
+			@include clearfix;
+			padding: 3em;
+			margin: auto;
+			text-align: center;
+			color: $banner-color;
+
+			.banner-logo {
+				img {
+					width: auto;
+					height: 15em;
+					margin-bottom: 2em;
+				}
+			}
+
+			.banner-copy {
+				text-align: center;
+				text-shadow: 0px 1px 5px $dark-gray;
+				
+				h1 {
+					font-size: 1.5em;
+					margin-bottom: .2em;
+
+					@include media($desktop) {
+						font-size: 2em;
+					}
+				}
+
+				p {
+					margin: auto;
+					margin-bottom: 1em;
+					font-size: 1.2em;
+
+					@include media($desktop) {
+						font-size: 1.4em;
+						max-width: 40%;
+					}
+				}
+
+				a {
+					&, &:visited, &:active, &:focus, &:hover {
+						color: $white;
+						font-weight: bold;
+					}
+
+					&:hover {
+						text-decoration: underline;
+					}
+				}
+			}
+		}
+	}
+}

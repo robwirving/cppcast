@@ -21,8 +21,15 @@ $light-red: #FBE3E4;
 $light-yellow: #FFF6BF;
 $light-green: #E6EFC2;
 
+$msdevshow-blue: #329fd9;
+$msdevshow-blue-light: lighten($msdevshow-blue, 20%);
+$msdevshow-blue-dark: darken($msdevshow-blue, 40%);
+$msdevshow-red: #ef9587;
+$msdevshow-red-light: lighten($msdevshow-red, 20%);
+$msdevshow-red-dark: darken($msdevshow-red, 20%);
+
 // Background Color
-$base-background-color: white;
+$base-background-color: $white;
 
 // Font Colors
 $base-font-color: $dark-gray;
@@ -56,8 +63,19 @@ $form-font-family: $base-font-family;
 // Design Variables
 
 // Body
-$body-background: $white;
+$body-background: $msdevshow-blue-dark;
 
 // Site Header
-$header-background: url(../files/images/site-header-background.jpg);
+$header-background: $msdevshow-blue-dark;
 $header-font-color: $white;
+
+// Site Banner
+$banner-background-top-gradient-color: rgba(255, 255, 255, 0);
+$banner-background-top-gradient-stop: 50%;
+$banner-background-bottom-gradient-color: $msdevshow-blue-dark;
+$banner-background-bottom-gradient-stop: 100%;
+$banner-background-image: url('../files/images/site-banner-background.jpg');
+$banner-color: $white;
+
+// Site Content
+$container-background: $white;

@@ -1,11 +1,8 @@
 #site-header-container {
 	background: $header-background;
 	color: $header-font-color;
-	position: fixed;
-	top: 0;
-	left: 0;
-	right: 0;
-	z-index: 9999999;
+	width: 100%;
+	padding: 0.5em;
 
 	#site-header {
 		@include outer-container();
@@ -23,6 +20,10 @@
 		.top-navigation {
 			@include span-columns(3);
 			height: 100%;
+
+			* {
+				visibility: hidden;
+			}
 
 			ul {
 				@include clearfix();
