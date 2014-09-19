@@ -15,11 +15,17 @@
 			text-align: center;
 			color: $banner-color;
 
-			.banner-logo {
-				img {
+			.banner-media {
+				.avatar {
 					width: auto;
 					height: 15em;
-					margin-bottom: 2em;
+					margin-top: 0.5em;
+					margin-bottom: 1.0em;
+				}
+
+				.podcast-audio {
+					width: 15em;
+					margin-bottom: 3em;
 				}
 			}
 
@@ -28,34 +34,7 @@
 				text-shadow: 0px 1px 5px $dark-gray;
 				
 				h1 {
-					font-size: 1.5em;
 					margin-bottom: .2em;
-
-					@include media($desktop) {
-						font-size: 2em;
-					}
-				}
-
-				p {
-					margin: auto;
-					margin-bottom: 1em;
-					font-size: 1.2em;
-
-					@include media($desktop) {
-						font-size: 1.4em;
-						max-width: 40%;
-					}
-				}
-
-				a {
-					&, &:visited, &:active, &:focus, &:hover {
-						color: $white;
-						font-weight: bold;
-					}
-
-					&:hover {
-						text-decoration: underline;
-					}
 				}
 			}
 		}
