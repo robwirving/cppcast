@@ -1,7 +1,7 @@
 ---
 cacheable: false
 ---
-<article class="post">
+<article class="show-notes">
     <div class="post-date"><%=  @moment(@date).format('MMM Do, YYYY') %></div>
     <% if @individualPost: %>
     <h1><%= @title %></h1>
