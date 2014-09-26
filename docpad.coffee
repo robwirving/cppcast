@@ -102,7 +102,6 @@ docpadConfig = {
 			trailingSlashes: true
 		sass:
 			compass: false
-			outputStyle: 'compressed'
 			sourcemap: true
 }
 

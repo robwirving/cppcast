@@ -1,8 +1,3 @@
-//************************************************************************//
-// Background property for adding multiple backgrounds using shorthand
-// notation.
-//************************************************************************//
-
 @mixin background($backgrounds...) {
   $webkit-backgrounds: ();
   $spec-backgrounds: ();

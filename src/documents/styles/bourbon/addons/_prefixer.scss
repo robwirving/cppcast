@@ -1,8 +1,3 @@
-//************************************************************************//
-// Example: @include prefixer(border-radius, $radii, webkit ms spec);
-//************************************************************************//
-// Variables located in /settings/_prefixer.scss
-
 @mixin prefixer ($property, $value, $prefixes) {
   @each $prefix in $prefixes {
     @if $prefix == webkit {
