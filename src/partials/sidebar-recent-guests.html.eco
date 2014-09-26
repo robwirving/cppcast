@@ -3,7 +3,7 @@ cacheable: false
 ---
 <ul>
 <% currentYear = "" %>
-<% for document in @collection.toJSON(): %>
+<% for document in @collection.toJSON().slice(0, 5): %>
     <li>
         <a href="<%= document.url %>">
             <img src="<%= document.url + document.guestImage %>" />
