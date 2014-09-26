@@ -7,7 +7,8 @@ cacheable: false
                         <a href="<%= @url %>"><img src="<%= @url + @guestImage %>"alt="Latest Guest" title="<%= @title %>" /></a>
                     </div>
                     <div class="banner-copy">
-                        <h1><a href="<%= @url %>"><%= @title %></a></h1>
+                        <!--<h1><a href="<%= @url %>"><%= @title %></a></h1>-->
+                        <h1><%= @title %></h1>
                         <aside>
                             <div class="post-date"><%=  @moment(@date).format('MMM Do, YYYY') %></div>
                         </aside>
@@ -22,7 +23,7 @@ cacheable: false
                 <section id="site-content">
                     <article class="show-notes">
                         <%- @fixLinks(@content, @url) %>
-                        
+
                         See a mistake? <a href="https://github.com/ytechie/msdevshow/edit/master/src/documents<%= @url %>index.html.md">Edit this post!</a>
                         <% if @tags?: %>
                         <div class="post-tags">
