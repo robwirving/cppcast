@@ -3,6 +3,7 @@
 	@include clearfix();
 
 	margin-top: em(-150);
+	margin-bottom: 3em;
 
 	#site-content-header {
 		@include span-columns(5);

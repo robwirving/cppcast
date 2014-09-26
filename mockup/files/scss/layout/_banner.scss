@@ -1,4 +1,5 @@
 #site-banner-container {
+	@include clearfix();
 	padding: em(30) 0 em(150) 0;
 	@include background-image(linear-gradient(to bottom, $banner-background-top-gradient-color $banner-background-top-gradient-stop, $banner-background-bottom-gradient-color $banner-background-bottom-gradient-stop), $banner-background-image);
 	background-repeat: no-repeat;
@@ -6,36 +7,35 @@
 	background-size: cover;
 
 	.banner {
+		@include outer-container();
+		@include clearfix();
+		text-align: center;
+		color: $banner-color;
 
-		.banner-inner {
-			@include outer-container;
-			@include clearfix;
-			padding: 3em;
-			margin: auto;
+		.banner-media {
+			@include span-columns(4 of 12);
+
+			img {
+				width: auto;
+				height: 12em;
+				margin-top: 0.5em;
+				margin-bottom: 1.0em;
+				border: $banner-media-avatar-border;
+			}
+		}
+
+		.banner-copy {
+			@include span-columns(8 of 12);
+			padding-top: 1.5em;
 			text-align: center;
-			color: $banner-color;
-
-			.banner-media {
-				.avatar {
-					width: auto;
-					height: 15em;
-					margin-top: 0.5em;
-					margin-bottom: 1.0em;
-				}
-
-				.podcast-audio {
-					width: 15em;
-					margin-bottom: 3em;
-				}
+			text-shadow: 0px 1px 5px $dark-gray;
+			
+			h1 {
+				margin-bottom: .2em;
 			}
 
-			.banner-copy {
-				text-align: center;
-				text-shadow: 0px 1px 5px $dark-gray;
-				
-				h1 {
-					margin-bottom: .2em;
-				}
+			.podcast-audio {
+				width: 100%;
 			}
 		}
 	}

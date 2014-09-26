@@ -76,6 +76,7 @@ $banner-background-bottom-gradient-color: $msdevshow-blue-dark;
 $banner-background-bottom-gradient-stop: 100%;
 $banner-background-image: url('../files/images/site-banner-background.jpg');
 $banner-color: $white;
+$banner-media-avatar-border: $white 0.5em solid;
 
 // Site Content
 $container-background: $white;
@@ -85,3 +86,6 @@ $sidebar-background: $white;
 $sidebar-header-background: $msdevshow-blue;
 $sidebar-header-color: $white;
 $sidebar-nav-header-background: $msdevshow-red;
+
+// Site Footer
+$footer-background: $banner-background-image;

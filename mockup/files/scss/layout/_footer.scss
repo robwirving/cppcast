@@ -1,0 +1,74 @@
+#site-footer-container {
+	color: $header-font-color;
+	width: 100%;
+	padding: 3em 0.5em 0.5em 0.5em;
+	position: relative;
+	@include background-image(linear-gradient(to top, $banner-background-top-gradient-color $banner-background-top-gradient-stop, $banner-background-bottom-gradient-color $banner-background-bottom-gradient-stop), $banner-background-image);
+
+	&:after {
+	    content: ' ';
+	    position: absolute;
+	    left: 0;
+	    right: 0;
+	    top: 0;
+	    bottom: 0;
+	    background: $footer-background;
+	    z-index: -1;
+	    opacity: 0.1;
+	}
+
+	#site-footer {
+		@include outer-container();
+		@include clearfix();
+		position: relative;
+
+		#header-logo {
+			@include span-columns(6);
+			a {
+				img {
+				}
+			}
+		}
+
+		.top-navigation {
+			@include span-columns(3);
+			height: 100%;
+
+			* {
+				visibility: hidden;
+			}
+
+			ul {
+				@include clearfix();
+
+				white-space: nowrap;
+				font-weight: bold;
+				height: 100%;
+
+				li {
+					display: inline-block;
+					height: 100%;
+					line-height: 100%;
+					z-index: 1;
+					position: relative;
+
+					ul {
+						display: none;
+						position: absolute;
+						top: 100%;
+						left: 0;
+
+						li {
+							display: block;
+							width: 100%;
+						}
+					}
+
+					&:hover > ul {
+						display: block;
+					}
+				}
+			}
+		}
+	}
+}
