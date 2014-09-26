@@ -1,0 +1,14 @@
+---
+cacheable: false
+---
+<ul>
+<% currentYear = "" %>
+<% for document in @collection.toJSON(): %>
+    <li>
+        <a href="<%= document.url %>">
+            <img src="<%= document.url + document.guestImage %>" />
+            <%= document.title %>
+        </a>
+    </li>
+<% end %>
+</ul>

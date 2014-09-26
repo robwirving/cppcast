@@ -102,13 +102,7 @@
                     </header>
                     <nav class="sidebar-nav" id="latest-shows-nav">
                         <h2>Latest Shows</h2>
-                        <ul>
-                        <li><a href="#" title="">September 5: DocumentDB with Ryan and Shireesh</a></li>
-                        <li><a href="#" title="">August 29: Real Agile in Microsoft with Justin Marks</a></li>
-                        <li><a href="#" title="">August 26: Azure Search with Liam Cavanagh</a></li>
-                        <li><a href="#" title="">August 15: Fear, Productivity, and How to Rob a Bank with Jeff Blankenburg</a></li>
-                        <li><a href="#" title="">August 8: Azure Active Directory with Marc Kuperstein</a></li>
-                        </ul>
+                        <%- @partial('sidebar-recent-guests', {collection: @getCollection('posts')}) %>
                     </nav>
                 </aside>
             </div>
