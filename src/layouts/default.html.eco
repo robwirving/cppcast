@@ -70,42 +70,7 @@
                     </nav>
                 </header>
             </div>
-            <div id="site-banner-container">
-                <section id="site-banner" class="banner guest">
-                    <div class="banner-media">
-                        <img src="http://www.gravatar.com/avatar/2ac0c9d9c1e4d705da75b7ae4e59b99f.jpg?s=500"alt="Latest Guest" title="Latest Guest: Brandon Martinez" />
-                    </div>
-                    <div class="banner-copy">
-                        <h1>Azure Mobile Services</h1>
-                        <h2>with Brandon Martinez</h2>
-                        <aside>
-
-                        </aside>
-                        <audio id="audioplayer" preload="auto" controls="" class="podcast-audio">
-                            <source src="http://traffic.libsyn.com/msdevshow/msdevshow_0022.mp3" type="audio/mp3">
-                                Your browser doesn't support the HTML audio tag. You can still <a href="http://traffic.libsyn.com/msdevshow/msdevshow_0022.mp3">download the show</a>, though!
-                        </audio> 
-                        <a href="http://traffic.libsyn.com/msdevshow/msdevshow_0023.mp3" class="button">Direct Download</a>
-                    </div>
-                </section>
-            </div>
-            <div id="site-content-container">
-                <header id="site-content-header">
-                    <h1>Show Notes</h1>
-                </header>
-                <section id="site-content">
-                    <%- @content %>
-                </section>
-                <aside id="site-sidebar">
-                    <header>
-                        <h1>Dev Bar</h1>
-                    </header>
-                    <nav class="sidebar-nav" id="latest-shows-nav">
-                        <h2>Latest Shows</h2>
-                        <%- @partial('sidebar-recent-guests', {collection: @getCollection('posts')}) %>
-                    </nav>
-                </aside>
-            </div>
+            <%- @content %>
             <div id="site-footer-container">
                 <footer id="site-footer">
                     <section id="footer-colophon">

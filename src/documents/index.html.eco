@@ -1,5 +1,5 @@
 ---
-layout: narrow-page
+layout: default
 changefreq: daily
 priority: 0.8
 referencesOthers: true
@@ -10,11 +10,8 @@ pagePathPrefix: page
 title: "The Microsoft Developer Show Podcast"
 ---
 
-<%- @partial('lead') %>
-
-
 <% for document in @getCollection('posts').toJSON()[@document.page.startIdx...@document.page.endIdx]: %>
-    <%- @partial('post', {title: document.title, url: document.url, tags: document.tags, date: document.date, content: document.contentRenderedWithoutLayouts, audioUrl: document.audioUrl, guestImage: document.guestImage }) %>
+    <%- @partial('_post', {title: document.title, url: document.url, tags: document.tags, date: document.date, content: document.contentRenderedWithoutLayouts, audioUrl: document.audioUrl, guestImage: document.guestImage }) %>
 <% end %>
 
 <div class="page-nav">

@@ -1,7 +1,7 @@
 ---
 cacheable: false
 ---
-<audio id="audioplayer" preload="auto" controls style="width:100%;" >
+<audio id="audioplayer" preload="auto" controls style="width:100%;" class="podcast-audio" >
     <source src="<%= @audioUrl %>" type="audio/mp3">
         Your browser doesn't support the HTML audio tag. You can still <a href="<%= @audioUrl %>">download the show</a>, though!
 </audio>
@@ -20,4 +20,3 @@ cacheable: false
     }
 </script>
 <a href="<%= @audioUrl %>">Direct Download (right-click &amp; save)</a>
-<br /><br />

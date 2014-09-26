@@ -1,0 +1,43 @@
+---
+cacheable: false
+---
+            <div id="site-banner-container">
+                <section id="site-banner" class="banner guest">
+                    <div class="banner-media">
+                        <a href="<%= @url %>"><img src="<%= @url + @guestImage %>"alt="Latest Guest" title="<%= @title %>" /></a>
+                    </div>
+                    <div class="banner-copy">
+                        <h1><a href="<%= @url %>"><%= @title %></a></h1>
+                        <aside>
+                            <div class="post-date"><%=  @moment(@date).format('MMM Do, YYYY') %></div>
+                        </aside>
+                        <%- @partial('podcast', { audioUrl: @audioUrl }) if @audioUrl %>
+                    </div>
+                </section>
+            </div>
+            <div id="site-content-container">
+                <header id="site-content-header">
+                    <h1>Show Notes</h1>
+                </header>
+                <section id="site-content">
+                    <article class="show-notes">
+                        <%- @fixLinks(@content, @url) %>
+                        
+                        See a mistake? <a href="https://github.com/ytechie/msdevshow/edit/master/src/documents<%= @url %>index.html.md">Edit this post!</a>
+                        <% if @tags?: %>
+                        <div class="post-tags">
+                            Posted In: <%- ("<a href='#{@getTagUrl(tag)}'>#{tag}</a>" for tag in @tags).join(', ') %>
+                        </div>
+                        <% end %>
+                    </article>
+                </section>
+                <aside id="site-sidebar">
+                    <header>
+                        <h1>Dev Bar</h1>
+                    </header>
+                    <nav class="sidebar-nav" id="latest-shows-nav">
+                        <h2>Latest Shows</h2>
+                        <%- @partial('sidebar-recent-guests', {collection: @getCollection('posts')}) %>
+                    </nav>
+                </aside>
+            </div>
