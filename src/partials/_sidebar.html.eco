@@ -1,0 +1,21 @@
+---
+cacheable: true
+---
+<aside id="site-sidebar">
+    <header>
+        <h1>Dev Bar</h1>
+    </header>
+    <nav class="sidebar-nav" id="latest-shows-nav">
+        <h2>Latest Shows</h2>
+        <ul>
+<% for guestDocument in @getCollection('guests').toJSON()[0..4]:%>
+			    <li>
+			        <a href="<%= guestDocument.url %>">
+			            <img src="<%= guestDocument.url + guestDocument.guestImage %>" />
+			            <%= guestDocument.title %> with <%= guestDocument.guest %>
+			        </a>
+			    </li>
+<% end %>
+		</ul>
+    </nav>
+</aside>

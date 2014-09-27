@@ -2,13 +2,18 @@
 cacheable: false
 ---
             <div id="site-banner-container">
-                <section id="site-banner" class="banner guest">
+                <section id="site-banner" class="banner<% if @guestImage: %> guest<% end %>">
+                    <% if @guestImage: %> 
                     <div class="banner-media">
                         <a href="<%= @url %>"><img src="<%= @url + @guestImage %>"alt="Latest Guest" title="<%= @title %>" /></a>
                     </div>
+                    <% end %>
                     <div class="banner-copy">
                         <!--<h1><a href="<%= @url %>"><%= @title %></a></h1>-->
                         <h1><%= @title %></h1>
+                        <% if @guest: %> 
+                        <h2><small>with</small> <%= @guest %></h2>
+                        <% end %>
                         <aside>
                             <div class="post-date"><%=  @moment(@date).format('MMM Do, YYYY') %></div>
                         </aside>
@@ -32,13 +37,5 @@ cacheable: false
                         <% end %>
                     </article>
                 </section>
-                <aside id="site-sidebar">
-                    <header>
-                        <h1>Dev Bar</h1>
-                    </header>
-                    <nav class="sidebar-nav" id="latest-shows-nav">
-                        <h2>Latest Shows</h2>
-                        <%- @partial('sidebar-recent-guests', {collection: @getCollection('posts')}) %>
-                    </nav>
-                </aside>
+                <%- @partial('_sidebar') %>
             </div>
