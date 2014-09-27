@@ -1,6 +1,7 @@
 ---
 layout: post
-title: JavaScript Promises with Brandon Martinez
+title: JavaScript Promises
+guest: Brandon Martinez
 date: 2014-04-18
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0002.mp3
 guestImage: brandon-martinez.jpg

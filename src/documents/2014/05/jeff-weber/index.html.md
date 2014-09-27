@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Mobile Development with Jeff Weber
+title: Mobile Development
+guest: Jeff Weber
 date: 2014-05-09
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0004.mp3
 guestImage: jeff-weber.jpg

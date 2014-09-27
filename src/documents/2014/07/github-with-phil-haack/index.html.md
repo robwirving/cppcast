@@ -1,6 +1,7 @@
 ---
 layout: post
-title: GitHub with Phil Haack
+title: GitHub
+guest: Phil Haack
 date: 2014-07-04
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0012.mp3
 guestImage: phil-haack.jpg
