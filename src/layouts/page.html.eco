@@ -1,7 +1,4 @@
 ---
 layout: default
 ---
-<div class="container">
-    <%- @content %>
-    <%- @partial('disqus') if @disqusShortName && @document.enablePageComments %>
-</div>
+<%- @partial('_page', {document:@document,content:@content}) %>
