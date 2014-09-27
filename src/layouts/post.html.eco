@@ -1,6 +1,4 @@
 ---
 layout: default
 ---
-<%- @partial('_post', {title: @document.title, url: @document.url, tags: @document.tags, date: @document.date, content: @content, individualPost: true, audioUrl: @document.audioUrl, guest: @document.guest, guestImage: @document.guestImage }) %>
-
-<%- @partial('disqus') if @disqusShortName %>
+<%- @partial('_post', {document:@document,content:@content}) %>
