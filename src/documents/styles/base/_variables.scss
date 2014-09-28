@@ -23,7 +23,7 @@ $light-green: #E6EFC2;
 
 $msdevshow-blue: #329fd9;
 $msdevshow-blue-light: lighten($msdevshow-blue, 20%);
-$msdevshow-blue-dark: darken($msdevshow-blue, 30%);
+$msdevshow-blue-dark: darken($msdevshow-blue, 37.5%);
 $msdevshow-red: #ef9587;
 $msdevshow-red-light: lighten($msdevshow-red, 20%);
 $msdevshow-red-dark: darken($msdevshow-red, 20%);
@@ -63,7 +63,7 @@ $form-font-family: $base-font-family;
 // Design Variables
 
 // Body
-$body-background: $msdevshow-blue-light;
+$body-background: $msdevshow-blue-dark;
 
 // Site Header
 $header-background: url('/images/site-header-background.png') $msdevshow-blue-dark;
@@ -72,7 +72,7 @@ $header-font-color: $white;
 // Site Banner
 $banner-background-top-gradient-color: rgba(255, 255, 255, 0);
 $banner-background-top-gradient-stop: 50%;
-$banner-background-bottom-gradient-color: $msdevshow-blue-light;
+$banner-background-bottom-gradient-color: $msdevshow-blue-dark;
 $banner-background-bottom-gradient-stop: 100%;
 $banner-background-image: url('/images/site-banner-background.jpg');
 $banner-color: $white;
