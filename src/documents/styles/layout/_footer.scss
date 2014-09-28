@@ -1,7 +1,7 @@
 #site-footer-container {
 	color: $header-font-color;
 	width: 100%;
-	padding: 3em 0.5em 0.5em 0.5em;
+	padding: 5em 0.5em 0.5em 0.5em;
 	position: relative;
 	@include background-image(linear-gradient(to top, $banner-background-top-gradient-color $banner-background-top-gradient-stop, $banner-background-bottom-gradient-color $banner-background-bottom-gradient-stop), $footer-background);
 
@@ -22,51 +22,24 @@
 		@include clearfix();
 		position: relative;
 
-		#header-logo {
-			@include span-columns(6);
-			a {
-				img {
-				}
+		#footer-colophon {
+			margin-bottom: 2em;
+
+			h1 {
+				color: $msdevshow-blue;
+				font-size: 1.6em;
 			}
 		}
 
-		.top-navigation {
+		.footer-nav {
 			@include span-columns(3);
-			height: 100%;
 
-			* {
-				visibility: hidden;
-			}
+			h1 {
+				font-size: 1.2em;
+				color: $msdevshow-red;
 
-			ul {
-				@include clearfix();
-
-				white-space: nowrap;
-				font-weight: bold;
-				height: 100%;
-
-				li {
-					display: inline-block;
-					height: 100%;
-					line-height: 100%;
-					z-index: 1;
-					position: relative;
-
-					ul {
-						display: none;
-						position: absolute;
-						top: 100%;
-						left: 0;
-
-						li {
-							display: block;
-							width: 100%;
-						}
-					}
-
-					&:hover > ul {
-						display: block;
-					}
+				a {
+					color: $msdevshow-red;
 				}
 			}
 		}
