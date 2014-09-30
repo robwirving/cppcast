@@ -35,19 +35,21 @@
         <div id="container">
             <div id="site-header-container">
                 <header id="site-header">
-                    <nav id="top-navigation-left" class="top-navigation">
-                        <ul>
-                            <li>
-                                <a href="#" title="Subscribe!">Subscribe</a>
+                    <section class="subscribe modal">
+                        <label for="modal-1"><div class="btn js-btn">Subscribe</div></label>
+                        <div class="modal-window" id="subscribe-dialog">
+                            <div class="modal-inner">
+                                <label class="modal-close" for="modal-1"></label>
+                                <h1>Subscribe!</h1>
                                 <ul>
                                     <li><a href="#" title="Subscribe via RSS">RSS</a></li>
                                     <li><a href="#" title="Subscribe via Windows Phone">Windows Phone</a></li>
                                     <li><a href="#" title="Subscribe via iTunes">iTunes</a></li>
                                     <li><a href="#" title="Subscribe via Stitcher">Stitcher</a></li>
                                 </ul>
-                            </li>
-                        </ul>
-                    </nav>
+                            </div>
+                        </div>
+                    </section>
 
                     <aside id="header-logo">
                         <a href="/">
@@ -55,11 +57,9 @@
                         </a>
                     </aside>
 
-                    <nav id="top-navigation-right" class="top-navigation">
-                        <ul>
-                            <li><a href="#" title="Latest Show Title">Contact</a></li>
-                        </ul>
-                    </nav>
+                    <section class="search">
+
+                    </section>
                 </header>
             </div>
             <%- @content %>

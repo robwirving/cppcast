@@ -69,6 +69,13 @@ $body-background: $msdevshow-blue-dark;
 $header-background: url('/images/site-header-background.png') $msdevshow-blue-dark;
 $header-font-color: $white;
 
+// Site Modals
+$modal-padding: 3em;
+$modal-background: $base-background-color;
+$modal-close-color: $light-gray;
+$modal-image-height: 135px;
+$modal-image-width: $modal-image-height;
+
 // Site Banner
 $banner-background-top-gradient-color: rgba(255, 255, 255, 0);
 $banner-background-top-gradient-stop: 50%;
