@@ -5,7 +5,6 @@ guest: Brian Muenzenmeyer
 date: 2014-09-28
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0024.mp3
 guestImage: brian-muenzenmeyer.jpg
-draft: true
 ---
 
 ###News
