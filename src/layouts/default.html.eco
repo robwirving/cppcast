@@ -59,10 +59,13 @@
 
                     <section class="search-bar">
                         <div class="search-and-submit">
-                          <input type="search" placeholder="Enter Search" />
-                          <button type="submit">
-                            <img src="https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/search-icon.png" alt="Search Icon">
-                          </button>
+                            <form class="navbar-form navbar-right hidden-xs" role="search" action="http://bing.com/search" method="get">
+                              <input type="search" name="q" placeholder="Search" />
+                              <input type="hidden" name="q" value="site:msdevshow.com">
+                              <button type="submit">
+                                <img src="https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/search-icon.png" alt="Search Icon">
+                              </button>
+                            </form>
                         </div>
                     </section>
                 </header>
