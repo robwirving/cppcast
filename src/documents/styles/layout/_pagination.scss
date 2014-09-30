@@ -1,0 +1,46 @@
+.pagination
+{
+    text-align: center;
+    ul
+    {
+        display: inline;
+
+        text-align: center;
+        li
+        {
+            display: inline;
+            
+            a
+            {
+                padding: $gutter / 2;
+
+                color: $pagination-color;
+                border: $pagination-border;
+                border-radius: $base-border-radius;
+                background: $pagination-background;
+
+                @include transition(all .2s ease-in-out);
+                &:hover,
+                &:focus
+                {
+                    color: $base-link-color;
+                    background: $pagination-hover-background;
+                }
+                &:active
+                {
+                    background: $pagination-background;
+                }
+            }
+        }
+        ul li
+        {
+            display: inline;
+            &:nth-child(1),
+            &:nth-child(2),
+            &:nth-child(3)
+            {
+                display: inline;
+            }
+        }
+    }
+}

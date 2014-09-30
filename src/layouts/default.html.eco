@@ -37,7 +37,6 @@
                 <header id="site-header">
                     <nav id="top-navigation-left" class="top-navigation">
                         <ul>
-                            <li><a href="#" title="Latest Show Title">Latest Show</a></li>
                             <li>
                                 <a href="#" title="Subscribe!">Subscribe</a>
                                 <ul>
@@ -58,13 +57,6 @@
 
                     <nav id="top-navigation-right" class="top-navigation">
                         <ul>
-                            <li>
-                                <a href="#" title="Subscribe!">About the Hosts</a>
-                                <ul>
-                                    <li><a href="#" title="About Jason">Jason</a></li>
-                                    <li><a href="#" title="About Carl">Carl</a></li>
-                                </ul>
-                            </li>
                             <li><a href="#" title="Latest Show Title">Contact</a></li>
                         </ul>
                     </nav>

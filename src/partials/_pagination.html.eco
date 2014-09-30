@@ -1,0 +1,15 @@
+---
+cached: false
+---
+
+<div class="pagination">
+	<ul>
+    <% if @hasNextPage(): %>
+    	<li class="page-prev"><a href="<%= @getNextPage() %>">Previous Episode</a></li>
+    <% end %>
+    <% if @hasPrevPage(): %>
+    	<li class="page-next"><a href="<%= @getPrevPage() %>">Next Episode</a></li>
+    <% end %>
+    </ul>
+    <!--<div class="page-nav-archives"><a href="/archives/" class="btn btn-primary btn-lg active" role="button">View All Previous Episodes</a></div>-->
+</div>

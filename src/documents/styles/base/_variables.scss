@@ -81,6 +81,13 @@ $banner-media-avatar-border: $white 0.5em solid;
 // Site Content
 $container-background: $white;
 
+// Site Pagination
+$pagination-border-color: $base-border-color;
+$pagination-border: 1px solid $pagination-border-color;
+$pagination-background: lighten($pagination-border-color, 10);
+$pagination-hover-background: lighten($pagination-background, 5);
+$pagination-color: $base-font-color;
+
 // Site Sidebar
 $sidebar-background: $white;
 $sidebar-header-background: $msdevshow-blue;
