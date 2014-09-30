@@ -76,6 +76,11 @@ $modal-close-color: $light-gray;
 $modal-image-height: 135px;
 $modal-image-width: $modal-image-height;
 
+// Site Header Search
+$search-bar-border-color: $base-border-color;
+$search-bar-border: 1px solid $search-bar-border-color;
+$search-bar-background: lighten($search-bar-border-color, 10);
+
 // Site Banner
 $banner-background-top-gradient-color: rgba(255, 255, 255, 0);
 $banner-background-top-gradient-stop: 50%;

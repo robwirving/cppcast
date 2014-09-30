@@ -1,31 +1,78 @@
-#site-header-container {
-	background: $header-background;
-	color: $header-font-color;
-	width: 100%;
-	padding: 0.5em;
+#site-header-container
+{
+    width: 100%;
+    padding: .5em;
 
-	#site-header {
-		@include outer-container();
-		@include clearfix();
-		position: relative;
+    color: $header-font-color;
+    background: $header-background;
+    #site-header
+    {
+        position: relative;
 
-		#header-logo {
-			@include span-columns(6);
-			a {
-				img {
-				}
-			}
-		}
+        @include outer-container;
+        @include clearfix;
+        #header-logo
+        {
+            @include span-columns(6);
+        }
+        .subscribe,
+        .search
+        {
+            @include span-columns(3);
+        }
+        .subscribe
+        {
+            a
+            {
+                text-align: center;
 
-		.subscribe, .search {
-			@include span-columns(3);
-		}
+                @include button(simple, $base-background-color);
+            }
+        }
+        .search-bar
+        {
+            position: relative;
 
-		.subscribe {
-			a {
-				text-align: center;
-				@include button(simple, $base-background-color);
-			}
-		}
-	}
+            display: inline-block;
+            input
+            {
+                display: block;
+
+                @include box-sizing(border-box);
+            }
+            .search-and-submit
+            {
+                position: relative;
+                input[type=search]
+                {
+                    font-size: .9em;
+                    font-style: italic;
+
+                    width: 100%;
+                    margin: 0;
+                    padding: .5em .8em;
+
+                    border-radius: $base-border-radius;
+
+                    @include appearance(none);
+                }
+                button[type=submit]
+                {
+                    padding: 5px 10px;
+
+                    border-top-left-radius: 0;
+                    border-bottom-left-radius: 0;
+                    outline: none;
+
+                    @include position(absolute, 0em 0em 0em 0);
+                    img
+                    {
+                        height: 12px;
+
+                        opacity: .7;
+                    }
+                }
+            }
+        }
+    }
 }
