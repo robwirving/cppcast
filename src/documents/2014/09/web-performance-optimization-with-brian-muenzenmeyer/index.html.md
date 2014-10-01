@@ -33,3 +33,9 @@ guestImage: brian-muenzenmeyer.jpg
 -   [BEM](http://bem.info/)
 -   [YSlow](http://yslow.org/)
 -   [Google PageSpeed Insights](http://developers.google.com/speed/pagespeed/insights/)
+
+###Azure pick of the week
+ - [My personal Azure FAQ on Azure Networking SLAs, bandwidth, latency, performance, SLB, DNS, DMZ, VNET, IPv6 and much more](http://blogs.msdn.com/b/igorpag/archive/2014/09/28/my-personal-azure-faq-on-azure-networking-slas-bandwidth-latency-performance-slb-dns-dmz-vnet-ipv6-and-much-more.aspx)
+###App of the Week
+ - [Run Rabbit Run](http://conversations.nokia.com/2014/09/25/make-fitness-game-run-rabbit-run/)
+  - [Store Link](http://www.windowsphone.com/s?appid=d424671c-0aed-4b7a-a05a-23875a8ead3d)
