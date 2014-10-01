@@ -17,5 +17,5 @@ cacheable: false
         </article>
         <%- @partial('disqus') if @disqusShortName && @document.enablePageComments %>
     </section>
-    <%- @partial('_sidebar') %>
+    <%- @partial('_site-sidebar') %>
 </div>

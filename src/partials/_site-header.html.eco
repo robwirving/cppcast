@@ -1,0 +1,12 @@
+---
+cacheable: true
+---
+<div id="site-header-container">
+    <header id="site-header">
+        <aside id="header-logo">
+            <a href="/">
+                <img src="/images/logo@2x.png" alt="MS Dev Show Logo" title="The Microsoft Developer Show Podcast" />
+            </a>
+        </aside>
+    </header>
+</div>

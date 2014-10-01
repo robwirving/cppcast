@@ -1,0 +1,39 @@
+---
+cacheable: true
+---
+<div id="site-footer-container">
+    <footer id="site-footer">
+        <section id="footer-colophon">
+            <h1>About the MS Dev Show</h1>
+            <p>A NEW podcast for Microsoft developers covering topics such as Azure/cloud, Windows, Windows Phone, .NET, Visual Studio, and more! Hosted by Jason Young and Carl Schweitzer.</p>
+
+            <p>Special thanks to <a href="http://www.martinezmedia.net/" target="_blank">Martinez Media</a> for creating our theme music, logo, site design, stickers, and for just being really awesome.</p>
+
+            <p>The opinions expressed in this podcast or on this site may not reflect the opinions of our employers.</p>
+        </section>
+        <nav id="footer-navigation">
+            <div class="footer-nav subscribe">
+                <h1><a href="#">Subscribe</a></h1>
+                <p>We're available everywhere; subscribe through any of these sources:</p>
+                <ul>
+                    <li>iTunes</li>
+                </ul>
+            </div>
+            <div class="footer-nav hosts">
+                <h1><a href="#">Hosts</a></h1>
+                <ul>
+                    <li>Carl</li>
+                    <li>Jason</li>
+                </ul>
+            </div>
+            <div class="footer-nav guests">
+                <h1><a href="#">Guests</a></h1>
+                <p>Want to talk on the air? Contact us!</p>
+            </div>
+            <div class="footer-nav sponsors">
+                <h1><a href="#">Sponsors</a></h1>
+                <p>We're in the beginning phases of sponsorship. If you or your company are interested, reach out to us!</p>
+            </div>
+        </nav>
+    </footer>
+</div>
