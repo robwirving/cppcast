@@ -14,81 +14,22 @@
         #header-logo
         {
             @include span-columns(6);
-        }
-        .subscribe,
-        .search
-        {
-            @include span-columns(3);
-        }
-        #header-logo,
-        .subscribe,
-        .search
-        {
-            height: em(100);
+            @include shift(3);
 
             @include display(flex);
             @include align-items(center);
             @include flex-direction(row);
             @include justify-content(center);
-        }
-        .subscribe
-        {
-            a
-            {
-                margin-bottom: 0;
 
-                @include button(simple, $base-button-background-color);
-            }
-        }
-        #header-logo {
             a {
+                margin: 0;
+                padding: 0;
+
                 img {
-                    max-width: 80%;
-                }
-            }
-        }
-        .search-bar
-        {
-            position: relative;
-
-            display: inline-block;
-            input
-            {
-                display: block;
-
-                @include box-sizing(border-box);
-            }
-            .search-and-submit
-            {
-                position: relative;
-                input[type=search]
-                {
-                    font-size: .9em;
-                    font-style: italic;
-
                     width: 100%;
+                    height: auto;
                     margin: 0;
-                    padding: .5em .8em;
-
-                    border-radius: $base-border-radius;
-
-                    @include appearance(none);
-                }
-                button[type=submit]
-                {
-                    padding: 5px 10px;
-
-                    border-top-left-radius: 0;
-                    border-bottom-left-radius: 0;
-                    outline: none;
-
-                    @include position(absolute, 0em 0em 0em 0);
-                    img
-                    {
-                        height: 12px;
-
-                        opacity: .7;
-                    }
+                    padding: 0;
                 }
             }
         }
