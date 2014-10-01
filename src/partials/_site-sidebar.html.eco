@@ -5,14 +5,23 @@ cacheable: true
     <header>
         <h1>Dev Bar</h1>
     </header>
+    <nav class="sidebar-nav" id="subscribe-nav">
+    	<h2>Subscribe!</h2>
+    	<ul>
+    	   <li><a href="#" title="Subscribe to the MS Dev Show via RSS" target="_blank">RSS</a></li>
+           <li><a href="#" title="Subscribe to the MS Dev Show via Windows Phone" target="_blank">Windows Phone</a></li>
+           <li><a href="#" title="Subscribe to the MS Dev Show via iTunes" target="_blank">iTunes</a></li>
+           <li><a href="#" title="Subscribe to the MS Dev Show via Stitcher" target="_blank">Stitcher</a></li>
+    	</ul>
+    </nav>
     <nav class="sidebar-nav" id="latest-shows-nav">
-        <h2>Latest Shows</h2>
+        <h2>Latest Guests</h2>
         <ul>
-<% for guestDocument in @getCollection('guests').toJSON()[0..4]:%>
+<% for guestDocument in @getCollection('guests').toJSON()[0..5]:%>
 			    <li>
-			        <a href="<%= guestDocument.url %>">
-			            <img src="<%= guestDocument.url + guestDocument.guestImage %>" />
-			            <%= guestDocument.title %> with <%= guestDocument.guest %>
+			        <a href="<%= guestDocument.url %>" title="<%= guestDocument.title %> with <%= guestDocument.guest %>">
+			            <img src="<%= guestDocument.url + guestDocument.guestImage %>" title="<%= guestDocument.title %> with <%= guestDocument.guest %>" />
+			            <%= guestDocument.guest %>
 			        </a>
 			    </li>
 <% end %>

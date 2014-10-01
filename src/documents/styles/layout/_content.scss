@@ -11,13 +11,17 @@
 		padding: 1.5em 1.5em 0 1.5em;
 		text-align: center;
 
+		@include media($non-desktop) {
+			@include span-columns(8);
+		}
+
 		@include media($mobile) {
 			@include span-columns(1);
 		}
 	}
 
 	#site-content {
-		@include span-columns(9);
+		@include span-columns(8);
 		background: $container-background;
 		padding: 1em 2em;
 
@@ -42,8 +46,7 @@
 	}
 
 	#site-sidebar {
-		@include span-columns(3);
-		//background: $sidebar-background;
+		@include span-columns(4);
 
 		header {
 			background: $sidebar-header-background;
@@ -73,13 +76,24 @@
 			}
 
 			&#latest-shows-nav {
-				img {
-					width: 100%;
-					height: auto;
-				}
+				ul {
+					@include clearfix();
+					li {
+						@include span-columns(2 of 4);
+						@include omega(2n);
 
-				li {
-					text-align: center;
+						@include media($non-desktop) {
+							@include span-columns(4 of 4);
+							@include omega();
+						}
+						
+						text-align: center;
+
+						img {
+							width: 100%;
+							height: auto;
+						}
+					}
 				}
 			}
 		}
