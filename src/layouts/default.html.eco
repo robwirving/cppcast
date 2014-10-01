@@ -36,7 +36,7 @@
             <div id="site-header-container">
                 <header id="site-header">
                     <section class="subscribe modal">
-                        <label for="modal-1"><div class="btn js-btn">Subscribe</div></label>
+                        <a class="btn js-btn">Subscribe</a>
                         <div class="modal-window" id="subscribe-dialog">
                             <div class="modal-inner">
                                 <label class="modal-close" for="modal-1"></label>

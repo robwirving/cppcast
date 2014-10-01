@@ -39,7 +39,8 @@
 			}
 
 			.audio-download {
-				@include button(simple, $base-button-background-color);
+				@include button(simple, $alternative-button-background-color);
+				float: right;
 			}
 		}
 	}

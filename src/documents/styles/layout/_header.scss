@@ -9,8 +9,8 @@
     {
         position: relative;
 
-        @include outer-container;
-        @include clearfix;
+        @include outer-container();
+        @include clearfix();
         #header-logo
         {
             @include span-columns(6);
@@ -20,13 +20,31 @@
         {
             @include span-columns(3);
         }
+        #header-logo,
+        .subscribe,
+        .search
+        {
+            height: em(100);
+
+            @include display(flex);
+            @include align-items(center);
+            @include flex-direction(row);
+            @include justify-content(center);
+        }
         .subscribe
         {
             a
             {
-                text-align: center;
+                margin-bottom: 0;
 
                 @include button(simple, $base-button-background-color);
+            }
+        }
+        #header-logo {
+            a {
+                img {
+                    max-width: 80%;
+                }
             }
         }
         .search-bar
