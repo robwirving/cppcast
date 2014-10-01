@@ -6,4 +6,3 @@ cacheable: false
 
     See a mistake? <a href="https://github.com/ytechie/msdevshow/edit/master/src/documents<%= @document.url %>index.html.md">Edit this post!</a>
 </article>
-<%- @partial('disqus') if @document.disqusShortName %>

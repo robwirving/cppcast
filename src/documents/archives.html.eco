@@ -6,4 +6,16 @@ menu: Archives
 menuOrder: 1
 ---
 
-<%- @partial('abstract-list', {collection: @getCollection('posts')}) %>
+<% currentYear = "" %>
+<% for document in @getCollection('posts').toJSON(): %>
+    <% date = @moment(document.date) %>
+    <% year = date.format("YYYY") %>
+    <div class="abstract">
+        <% if year isnt currentYear: %>
+        <div class="abstract-year"><%= year %></div>
+            <% currentYear = year %>
+        <% end %>
+        <div class="abstract-date"><%= date.format("MMM D") %></div>
+        <div class="abstract-title"><a href="<%= document.url %>"><%= document.title %></a></div>
+    </div>
+<% end %>

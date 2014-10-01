@@ -1,4 +1,6 @@
 ---
 layout: default
 ---
-<%- @partial('_page', {document:@document,content:@content}) %>
+<section id="site-content">
+    <%- @content %>
+</section>

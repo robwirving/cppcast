@@ -1,5 +1,6 @@
 .pagination
 {
+    margin-top: em(30);
     text-align: center;
     ul
     {
@@ -13,6 +14,12 @@
             a
             {
                 @include button(simple, $base-button-background-color);
+            }
+
+            &.page-all {
+                a {
+                    @include button(simple, $alternative-button-background-color);
+                }
             }
         }
         ul li

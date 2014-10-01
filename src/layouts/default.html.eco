@@ -36,12 +36,7 @@
             <%- @partial('_site-header') %>
             <%- @partial('_banner', {document: @document}) %>
             <div id="site-content-container">
-                <header id="site-content-header">
-                    <h1>Show Notes</h1>
-                </header>
-                <section id="site-content">
-                    <%- @content %>
-                </section>
+                <%- @content %>
                 <%- @partial('_site-sidebar') %>
             </div>
             <%- @partial('_site-footer') %>
@@ -50,11 +45,11 @@
         <!-- Scripts -->
 
         <%- @getBlock('scripts').toHTML() %>
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-        <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+        <script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
         <!--<script src="/scripts/site.js"></script>-->
 
-        <script>
+        <script type="text/javascript">
           (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
           (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
           m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)

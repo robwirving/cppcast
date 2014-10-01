@@ -1,4 +1,10 @@
 ---
 layout: default
 ---
-<%- @partial('_post', {document:@document, content:@content}) %>
+<header id="site-content-header">
+    <h1>Show Notes</h1>
+</header>
+<section id="site-content">
+    <%- @partial('_post', {document:@document, content:@content}) %>
+    <%- @partial('_post-disqus', {document:@document, disqusShortName: @disqusShortName}) if @disqusShortName %>
+</section>

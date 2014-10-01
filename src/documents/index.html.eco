@@ -9,9 +9,13 @@ pageSize: 1
 pagePathPrefix: page
 title: "The Microsoft Developer Show Podcast"
 ---
-<% for document in @getCollection('posts').toJSON()[@document.page.startIdx...@document.page.endIdx]: %>
+<header id="site-content-header">
+    <h1>Show Notes</h1>
+</header>
+<section id="site-content">
+    <% for document in @getCollection('posts').toJSON()[@document.page.startIdx...@document.page.endIdx]: %>
 	<% @document = document %>
-    <%- @partial('_post', {document: document, content: document.contentRenderedWithoutLayouts}) %>
-<% end %>
-
-<%- @partial('_pagination') %>
+	    <%- @partial('_post', {document: document, content: document.contentRenderedWithoutLayouts}) %>
+	<% end %>
+	<%- @partial('_pagination') %>
+</section>

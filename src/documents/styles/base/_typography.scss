@@ -13,6 +13,10 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
   text-rendering: optimizeLegibility; // Fix the character spacing for headings
   text-transform: lowercase;
+
+  a {
+    color: $base-font-color;
+  }
 }
 
 h1 {

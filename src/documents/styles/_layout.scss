@@ -11,8 +11,8 @@ body
     min-height: 100%;
 
     @include media($mobile) {
-    padding-bottom: 0;
-}
+        padding-bottom: 0;
+    }
 
     // Not putting the following under "body" so that I can do things like body.single & mySelector
     @import 'layout/header';
