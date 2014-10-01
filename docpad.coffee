@@ -102,9 +102,6 @@ docpadConfig = {
 			startingPageNumber: 2
 		cleanurls:
 			trailingSlashes: true
-		sass:
-			compass: false
-			sourcemap: true
 }
 
 # Export the DocPad Configuration

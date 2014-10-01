@@ -2,7 +2,7 @@
 // for writing properties like the following
 //
 // @include margin(null 0 10px);
-// ------
+//
 // margin-right: 0;
 // margin-bottom: 10px;
 // margin-left: 0;
@@ -10,11 +10,11 @@
 // - or -
 //
 // @include border-style(dotted null);
-// ------
+//
 // border-top-style: dotted;
 // border-bottom-style: dotted;
 //
-// ------
+//
 //
 // Note: You can also use false instead of null
 

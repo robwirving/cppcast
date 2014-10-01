@@ -1,6 +1,6 @@
 // Return vendor-prefixed property names if appropriate
 // Example: transition-property-names((transform, color, background), moz) -> -moz-transform, color, background
-//************************************************************************//
+//
 @function transition-property-names($props, $vendor: false) {
 	$new-props: ();
 	
