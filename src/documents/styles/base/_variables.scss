@@ -29,7 +29,7 @@ $msdevshow-red-light: lighten($msdevshow-red, 20%);
 $msdevshow-red-dark: darken($msdevshow-red, 20%);
 
 // Background Color
-$base-background-color: $white;
+$base-background-color: $msdevshow-blue-dark;
 
 // Font Colors
 $base-font-color: $dark-gray;
@@ -43,6 +43,9 @@ $hover-button-color: $hover-link-color;
 
 // Border color
 $base-border-color: $light-gray;
+
+// Button Colors
+$base-button-background-color: $msdevshow-blue;
 
 // Flash Colors
 $alert-color: $light-yellow;
@@ -63,7 +66,7 @@ $form-font-family: $base-font-family;
 // Design Variables
 
 // Body
-$body-background: $msdevshow-blue-dark;
+$body-background: $base-background-color;
 
 // Site Header
 $header-background: url('/images/site-header-background.png') $msdevshow-blue-dark;

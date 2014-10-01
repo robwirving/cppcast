@@ -16,7 +16,7 @@
 
         margin-bottom: $base-line-height;
 
-        @include button(simple, $base-background-color);
+        @include button(simple, $base-button-background-color);
     }
     .modal-open
     {
