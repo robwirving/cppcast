@@ -34,7 +34,16 @@
     <body>
         <div id="container">
             <%- @partial('_site-header') %>
-            <%- @content %>
+            <%- @partial('_banner', {document: @document}) %>
+            <div id="site-content-container">
+                <header id="site-content-header">
+                    <h1>Show Notes</h1>
+                </header>
+                <section id="site-content">
+                    <%- @content %>
+                </section>
+                <%- @partial('_site-sidebar') %>
+            </div>
             <%- @partial('_site-footer') %>
         </div>
 

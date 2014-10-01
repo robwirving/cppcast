@@ -1,4 +1,4 @@
 ---
 layout: default
 ---
-<%- @partial('_post', {document:@document,content:@content}) %>
+<%- @partial('_post', {document:@document, content:@content}) %>

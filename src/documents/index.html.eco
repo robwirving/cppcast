@@ -9,8 +9,8 @@ pageSize: 1
 pagePathPrefix: page
 title: "The Microsoft Developer Show Podcast"
 ---
-
 <% for document in @getCollection('posts').toJSON()[@document.page.startIdx...@document.page.endIdx]: %>
+	<% @document = document %>
     <%- @partial('_post', {document: document, content: document.contentRenderedWithoutLayouts}) %>
 <% end %>
 
