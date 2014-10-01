@@ -1,20 +1,23 @@
-body {
+body
+{
     background: $body-background;
 }
 
-#container {
-    min-height: 100%;
+#container
+{
     position: relative;
+
     width: 100%;
-    padding-bottom: em(30);
+    min-height: 100%;
+
     @include media($mobile) {
-        padding-bottom: 0;
-    }
+    padding-bottom: 0;
+}
 
     // Not putting the following under "body" so that I can do things like body.single & mySelector
-    @import "layout/header";
-    @import "layout/banner";
-    @import "layout/content";
-    @import "layout/pagination";
-    @import "layout/footer";
+    @import 'layout/header';
+    @import 'layout/banner';
+    @import 'layout/content';
+    @import 'layout/pagination';
+    @import 'layout/footer';
 }
