@@ -37,6 +37,10 @@
 			.podcast-audio {
 				width: 100%;
 			}
+
+			.audio-download {
+				@include button(simple, $base-background-color);
+			}
 		}
 	}
 }

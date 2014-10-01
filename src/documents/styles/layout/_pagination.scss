@@ -12,24 +12,7 @@
             
             a
             {
-                padding: $gutter / 2;
-
-                color: $pagination-color;
-                border: $pagination-border;
-                border-radius: $base-border-radius;
-                background: $pagination-background;
-
-                @include transition(all .2s ease-in-out);
-                &:hover,
-                &:focus
-                {
-                    color: $base-link-color;
-                    background: $pagination-hover-background;
-                }
-                &:active
-                {
-                    background: $pagination-background;
-                }
+                @include button(simple, $base-background-color);
             }
         }
         ul li

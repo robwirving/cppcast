@@ -19,4 +19,4 @@ cacheable: false
         $( '#audioplayer' ).audioPlayer(); 
     }
 </script>
-<a href="<%= @audioUrl %>">Direct Download (right-click &amp; save)</a>
+<a href="<%= @audioUrl %>" class="audio-download" download="download">Direct Download</a>
