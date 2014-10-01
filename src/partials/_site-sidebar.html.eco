@@ -8,10 +8,10 @@ cacheable: true
     <nav class="sidebar-nav" id="subscribe-nav">
     	<h2>Subscribe!</h2>
     	<ul>
-    	   <li><a href="#" title="Subscribe to the MS Dev Show via RSS" target="_blank">RSS</a></li>
-           <li><a href="#" title="Subscribe to the MS Dev Show via Windows Phone" target="_blank">Windows Phone</a></li>
-           <li><a href="#" title="Subscribe to the MS Dev Show via iTunes" target="_blank">iTunes</a></li>
-           <li><a href="#" title="Subscribe to the MS Dev Show via Stitcher" target="_blank">Stitcher</a></li>
+    	   <li><a href="http://msdevshow.libsyn.com/rss" title="Subscribe to the MS Dev Show via RSS" target="_blank">RSS</a></li>
+           <li><a href="http://msdevshow.com/subscribe-windows-phone/" title="Subscribe to the MS Dev Show via Windows Phone" target="_blank">Windows Phone</a></li>
+           <li><a href="https://itunes.apple.com/us/podcast/ms-dev-show/id862879925" title="Subscribe to the MS Dev Show via iTunes" target="_blank">iTunes</a></li>
+           <li><a href="http://app.stitcher.com/browse/feed/48675/details" title="Subscribe to the MS Dev Show via Stitcher" target="_blank">Stitcher</a></li>
     	</ul>
     </nav>
     <nav class="sidebar-nav" id="latest-shows-nav">
