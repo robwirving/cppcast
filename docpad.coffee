@@ -102,6 +102,10 @@ docpadConfig = {
 			startingPageNumber: 2
 		cleanurls:
 			trailingSlashes: true
+		nodesass:
+			outputStyle: 'compressed'
+			bourbon: true
+			neat: true
 }
 
 # Export the DocPad Configuration
