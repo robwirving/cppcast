@@ -14,7 +14,7 @@ title: "The Microsoft Developer Show Podcast"
 </header>
 <section id="site-content">
     <% for document in @getCollection('posts').toJSON()[@document.page.startIdx...@document.page.endIdx]: %>
-	<% @document = document %>
+		<% @document = document %>
 	    <%- @partial('_post', {document: document, content: document.contentRenderedWithoutLayouts}) %>
 	<% end %>
 	<%- @partial('_pagination') %>
