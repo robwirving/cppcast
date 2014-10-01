@@ -32,6 +32,12 @@
                     padding: 0;
                 }
             }
+
+            @include media($mobile) {
+                @include span-columns(1);
+                @include shift(0);
+                @include omega();
+            }
         }
     }
 }

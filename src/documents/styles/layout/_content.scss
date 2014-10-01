@@ -10,6 +10,10 @@
 		background: $container-background;
 		padding: 1.5em 1.5em 0 1.5em;
 		text-align: center;
+
+		@include media($mobile) {
+			@include span-columns(1);
+		}
 	}
 
 	#site-content {
@@ -30,6 +34,10 @@
 					list-style-position: inside;
 				}
 			}
+		}
+
+		@include media($mobile) {
+			@include span-columns(1);
 		}
 	}
 
@@ -74,6 +82,10 @@
 					text-align: center;
 				}
 			}
+		}
+
+		@include media($mobile) {
+			display: none;
 		}
 	}
 }

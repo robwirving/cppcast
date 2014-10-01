@@ -6,6 +6,10 @@
 	background-position: top;
 	background-size: cover;
 
+	@include media($mobile) {
+		padding: em(30) 0 em(180) 0;
+	}
+
 	.banner {
 		@include outer-container();
 		@include clearfix();
@@ -13,19 +17,23 @@
 		color: $banner-color;
 
 		.banner-media {
-			@include span-columns(4 of 12);
+			@include span-columns(4);
 
 			img {
-				width: auto;
-				height: 12em;
+				height: auto;
+				width: 12em;
 				margin-top: 0.5em;
 				margin-bottom: 1.0em;
 				border: $banner-media-avatar-border;
 			}
+
+			@include media($mobile) {
+				@include span-columns(1);
+			}
 		}
 
 		.banner-copy {
-			@include span-columns(8 of 12);
+			@include span-columns(8);
 			padding-top: 1.5em;
 			text-align: center;
 			text-shadow: 0px 1px 5px $dark-gray;
@@ -36,11 +44,23 @@
 
 			.podcast-audio {
 				width: 100%;
+
+				@include media($mobile) {
+					width: 75%;
+				}
 			}
 
 			.audio-download {
 				@include button(simple, $alternative-button-background-color);
 				float: right;
+
+				@include media($mobile) {
+					display: none;
+				}
+			}
+
+			@include media($mobile) {
+				@include span-columns(1);
 			}
 		}
 	}

@@ -6,6 +6,7 @@ body {
     min-height: 100%;
     position: relative;
     width: 100%;
+    padding-bottom: em(30);
     @include media($mobile) {
         padding-bottom: 0;
     }
@@ -15,6 +16,5 @@ body {
     @import "layout/banner";
     @import "layout/content";
     @import "layout/pagination";
-    @import "layout/modals";
     @import "layout/footer";
 }
