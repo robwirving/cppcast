@@ -27,5 +27,6 @@ cacheable: true
 			    </li>
 <% end %>
 		</ul>
+        <a href="/archives/" class="view-all">View All Episodes</a>
     </nav>
 </aside>

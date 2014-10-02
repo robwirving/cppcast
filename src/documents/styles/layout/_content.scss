@@ -132,6 +132,19 @@
 						}
 					}
 				}
+				.view-all {
+					background: $sidebar-nav-header-background;
+					color: $sidebar-header-color;
+					padding: 0.5em;
+					width: 100%;
+					display: block;
+					text-align: center;
+
+					&:hover {
+						background: $sidebar-header-background;
+					}
+				}
+
 			}
 		}
 
