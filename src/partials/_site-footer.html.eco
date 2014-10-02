@@ -26,14 +26,15 @@ cacheable: true
             </div>
             <div class="footer-nav hosts">
                 <h1><a href="#">Hosts</a></h1>
+                    <p>This show wouldn't exist without us! If you're interested in more, you can find out more about <a href="http://twitter.com/carlschweitzer" target="_blank">Carl</a> and <a href="http://twitter.com/ytechie" target="_blank">Jason</a>, in a non-stalker kind of way.</p>
                 <ul>
-                    <li><a href="http://twitter.com/carlschweitzer" target="_blank">Carl</a></li>
-                    <li><a href="http://twitter.com/carlschweitzer" target="_blank">Jason</a></li>
+                    <li></li>
+                    <li></li>
                 </ul>
             </div>
             <div class="footer-nav guests">
                 <h1><a href="#">Guests</a></h1>
-                <p>Want to talk on the air? <a href="mailto:feedback@msdevshow.com?Subject=I%20want%20to%20be%20a%20guest%20on%20the%20MS%20Dev%20Show!" title="Come speak to us on the podcast!" target="_top">Contact us!</a></p>
+                <p>Have you done something awesome lately? Is it interesting? Want to talk about it on the air? <a href="mailto:feedback@msdevshow.com?Subject=I%20want%20to%20be%20a%20guest%20on%20the%20MS%20Dev%20Show!" title="Come speak to us on the podcast!" target="_top">Contact us!</a></p>
             </div>
             <div class="footer-nav sponsors">
                 <h1><a href="#">Sponsors</a></h1>
