@@ -11,25 +11,25 @@
         <meta name="application-name" content="MS Dev Show"/>
         <meta name="twitter.site" content="@msdevshow" />
         <meta property="twitter:account_id" content="4503599629427918" />
-
-
-        <title><%= @getPreparedTitle() %></title>
         <meta name="author" content="<%= @site.author %>">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <%- @getBlock('meta').toHTML() %>
+
         <link rel="alternate" type="application/rss+xml" title="The MS Dev Show Podcast" href="http://msdevshow.libsyn.com/rss" />
         <link href="/images/favicon.png?v=2" rel="shortcut icon">
 
+        <title><%= @getPreparedTitle() %></title>
+
         <!-- Styles -->
         <link href="/styles/site.css" rel="stylesheet" media="screen">
+        <%- @getBlock('styles').toHTML() %>
 
+        <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
         <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!--[if lt IE 9]>
         <script src="/scripts/vendor/html5shiv.js"></script>
         <script src="/scripts/vendor/respond.min.js"></script>
         <![endif]-->
-
-        <%- @getBlock('meta').toHTML() %>
-        <%- @getBlock('styles').toHTML() %>
     </head>
     <body>
         <div id="container">
@@ -44,10 +44,7 @@
 
         <!-- Scripts -->
 
-        <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-        <%- @getBlock('scripts').add(["/scripts/vendor/jquery.fittext.js", "/scripts/site.fittext.js"]).toHTML() %>
-        
-        <!--<script src="/scripts/site.js"></script>-->
+        <%- @getBlock('scripts').add(["/scripts/vendor/jquery.fittext.js", "/scripts/vendor/jquery.audioplayer.min.js", "/scripts/site.fittext.js", "/scripts/site.audioplayer.js"]).toHTML() %>
 
         <script type="text/javascript">
           (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
