@@ -44,9 +44,9 @@
 
         <!-- Scripts -->
 
-        <%- @getBlock('scripts').toHTML() %>
         <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-        <script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+        <%- @getBlock('scripts').add(["/scripts/vendor/jquery.fittext.js", "/scripts/site.fittext.js"]).toHTML() %>
+        
         <!--<script src="/scripts/site.js"></script>-->
 
         <script type="text/javascript">

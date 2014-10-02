@@ -1,5 +1,5 @@
 #site-banner-container {
-    @include clearfix;
+    @include clearfix();
     padding: em(60) 0 em(180) 0;
     @include background-image(linear-gradient(to bottom, $banner-background-top-gradient-color $banner-background-top-gradient-stop, $banner-background-bottom-gradient-color $banner-background-bottom-gradient-stop), $banner-background-image);
     background-repeat: no-repeat;
@@ -10,8 +10,8 @@
     }
 
     .banner {
-        @include outer-container;
-        @include clearfix;
+        @include outer-container();
+        @include clearfix();
         text-align: center;
         color: $banner-color;
         .banner-media {
@@ -44,7 +44,7 @@
             .podcast-audio {
                 width: 100%;
                 @include media($mobile) {
-                    width: 75%;
+                    width: 95%;
                 }
             }
             .audio-download {
@@ -58,9 +58,14 @@
                 @include span-columns(1);
             }
         }
+
         &.guest {
             .banner-copy {
                 @include span-columns(8);
+
+                @include media($mobile) {
+                    @include span-columns(1);
+                }
             }
         }
     }

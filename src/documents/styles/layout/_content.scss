@@ -37,6 +37,10 @@
 					list-style: disc;
 					list-style-position: inside;
 				}
+
+				ul {
+					margin: 0 0 0 $base-line-height ;
+				}
 			}
 		}
 
