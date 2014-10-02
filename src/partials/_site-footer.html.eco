@@ -4,7 +4,7 @@ cacheable: true
 <div id="site-footer-container">
     <footer id="site-footer">
         <section id="footer-colophon">
-            <h1>About the MS Dev Show</h1>
+            <h1><img src="/images/favicon.png" /> About the MS Dev Show</h1>
             <p>A NEW podcast for Microsoft developers covering topics such as Azure/cloud, Windows, Windows Phone, .NET, Visual Studio, and more! Hosted by Jason Young and Carl Schweitzer.</p>
 
             <p>Special thanks to <a href="http://www.martinezmedia.net/" target="_blank">Martinez Media</a> for creating our theme music, logo, site design, stickers, and for just being really awesome.</p>
