@@ -16,23 +16,28 @@ cacheable: true
                 <h1><a href="#">Subscribe</a></h1>
                 <p>We're available everywhere; subscribe through any of these sources:</p>
                 <ul>
-                    <li>iTunes</li>
+                    <li><a href="/subscribe-windows-phone/" title="Subscribe to the MS Dev Show via Windows Phone" target="_blank">Windows Phone</a></li>
+                    <li><a href="http://itunes.apple.com/us/podcast/ms-dev-show/id862879925" title="Subscribe to the MS Dev Show via iTunes" target="_blank">iTunes</a></li>
+                    <li><a href="http://app.stitcher.com/browse/feed/48675/details" title="Subscribe to the MS Dev Show via Stitcher" target="_blank">Stitcher</a></li>
+                    <li><a href="http://player.fm/series/ms-dev-show" title="Subscribe to the MS Dev Show via PlayerFM" target="_blank">PlayerFM</a></li>
+                    <li><a href="http://msdevshow.libsyn.com/rss" title="Subscribe to the MS Dev Show via RSS" target="_blank">RSS</a></li>
+                    <li><a href="mailto:feedback@msdevshow.com?Subject=New%20Podcast%20aggregator!" title="Send you your favorite podcast aggregator!" target="_top">Tell us your favorite!</a></li>
                 </ul>
             </div>
             <div class="footer-nav hosts">
                 <h1><a href="#">Hosts</a></h1>
                 <ul>
-                    <li>Carl</li>
-                    <li>Jason</li>
+                    <li><a href="http://twitter.com/carlschweitzer" target="_blank">Carl</a></li>
+                    <li><a href="http://twitter.com/carlschweitzer" target="_blank">Jason</a></li>
                 </ul>
             </div>
             <div class="footer-nav guests">
                 <h1><a href="#">Guests</a></h1>
-                <p>Want to talk on the air? Contact us!</p>
+                <p>Want to talk on the air? <a href="mailto:feedback@msdevshow.com?Subject=I%20want%20to%20be%20a%20guest%20on%20the%20MS%20Dev%20Show!" title="Come speak to us on the podcast!" target="_top">Contact us!</a></p>
             </div>
             <div class="footer-nav sponsors">
                 <h1><a href="#">Sponsors</a></h1>
-                <p>We're in the beginning phases of sponsorship. If you or your company are interested, reach out to us!</p>
+                <p>We're in the beginning phases of sponsorship. If you or your company are interested, <a href="mailto:feedback@msdevshow.com?Subject=Sponsorship" title="Interested in Sponsoring us? Click here!" target="_top">reach out to us!</a></p>
             </div>
         </nav>
     </footer>
