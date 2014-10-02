@@ -6,6 +6,7 @@ layout: default
 </header>
 <section id="site-content">
     <%- @partial('_post', {document:@document,content:@content}) %>
+    <%- @partial('_post-pagination', {document:@document}) %>
     <div id="disqus_thread"></div>
 	<script type="text/javascript">
 	    var disqus_shortname = '<%= @disqusShortName %>';

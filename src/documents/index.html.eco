@@ -1,21 +1,9 @@
 ---
-layout: default
+layout: blank
 changefreq: daily
 priority: 0.8
 referencesOthers: true
-isPaged: true
-pagedCollection: posts
-pageSize: 1
-pagePathPrefix: page
-title: "The Microsoft Developer Show Podcast"
+document: @getCollection('posts').toJSON()[0]
 ---
-<header id="site-content-header">
-    <h1>Show Notes</h1>
-</header>
-<section id="site-content">
-    <% for document in @getCollection('posts').toJSON()[@document.page.startIdx...@document.page.endIdx]: %>
-		<% @document = document %>
-	    <%- @partial('_post', {document: document, content: document.contentRenderedWithoutLayouts}) %>
-	<% end %>
-	<%- @partial('_pagination') %>
-</section>
+<% @document = @getCollection('posts').toJSON()[0] %>
+<%- @document.contentRendered %>
