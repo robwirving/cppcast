@@ -1,25 +1,18 @@
 ---
 cacheable: false
 ---
-<!-- Use for displaying prev and next page links on your current page -->
- 
-<!-- Get the next and previous document from the current document -->
-<% for document,documentIndex in @getCollection('posts').toJSON(): %>
-    
-    <!-- Get the current document, from there, we will be able to get the next and previous -->
-    <% if @document.id is document.id: %>
+<% @collection = @getCollection('posts') %>
 
-        <!-- We have the current document, do the next and previous buttons -->
+<% for document,documentIndex in @collection.toJSON(): %>
+    <% if @document.id is document.id: %>
         <div class="pagination">
             <ul>
-                <!-- Check if we have a previous page -->
-                <% if documentIndex < @getCollection('posts').length - 1: %>
-                    <li class="page-prev"><a href="<%= @getCollection('posts').toJSON()[documentIndex+1].url %>">Previous Episode</a></li>
+                <% if documentIndex < @collection.length - 1: %>
+                    <li class="page-prev"><a href="<%= @collection.toJSON()[documentIndex + 1].url %>">Previous Episode</a></li>
                 <% end %>
                 <li class="page-all"><a href="/archives/">View All Episodes</a></li>
-                <!-- Check if we have a next page -->
                 <% if documentIndex >= 1: %>
-                    <li class="page-next"><a href="<%= @getCollection('posts').toJSON()[documentIndex-1].url %>">Next Episode</a></li>
+                    <li class="page-next"><a href="<%= @collection.toJSON()[documentIndex - 1].url %>">Next Episode</a></li>
                 <% end %>
             </ul>
         </div>
