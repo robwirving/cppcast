@@ -45,17 +45,18 @@
 		}
 
 		.archive {
+			@include clearfix();
         	&.abstract {
 	            margin: em(15) 0;
 	            min-height: 3em;
 
 	            .abstract-image-placeholder {
-	            	width: 3em;
+	            	width: 4.6em;
 	            	margin-right: 1em;
 	            	float: left;
 
 	            	img {
-	            		width: 3em;
+	            		width: 4.6em;
 	            		height: auto;
 	            	}
 	            }

@@ -17,7 +17,7 @@
         <meta name="author" content="<%= @site.author %>">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="alternate" type="application/rss+xml" title="The MS Dev Show Podcast" href="http://msdevshow.libsyn.com/rss" />
-        <link href="/images/favicon.ico?v=2" rel="shortcut icon">
+        <link href="/images/favicon.png?v=2" rel="shortcut icon">
 
         <!-- Styles -->
         <link href="/styles/site.css" rel="stylesheet" media="screen">
