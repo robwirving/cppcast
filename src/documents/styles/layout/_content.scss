@@ -44,24 +44,38 @@
 			}
 		}
 
-        .abstract {
-            margin: 10px 0;
-        }
+		.archive {
+        	&.abstract {
+	            margin: em(15) 0;
+	            min-height: 3em;
 
-        .abstract-year{
-            font-size: 1.2em;
-        }
-        
-        .abstract-date {
-            font-variant: small-caps;
-            font-size: 1em;
-            margin-left: 10px;
-            font-weight: bold;
-        }
-        
-        .abstract-title {
-            margin-left: 10px;
-        }
+	            .abstract-image-placeholder {
+	            	width: 3em;
+	            	margin-right: 1em;
+	            	float: left;
+
+	            	img {
+	            		width: 3em;
+	            		height: auto;
+	            	}
+	            }
+	        
+		        .abstract-date {
+		            font-variant: small-caps;
+		            font-size: 1em;
+		            margin-left: 10px;
+		            font-weight: bold;
+		        }
+		        
+		        .abstract-title {
+		            margin-left: 10px;
+		        }
+	        }
+
+	        &.abstract-year{
+	            font-size: 1.2em;
+	        }
+	    }
 
 		@include media($mobile) {
 			@include span-columns(1);
