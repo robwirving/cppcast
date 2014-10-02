@@ -9,7 +9,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "cheerio": "~0.12.3",
+    "cheerio": "^0.12.4",
     "coffee-script": "~1.6.3",
     "docpad": "~6.69.1",
     "docpad-plugin-cleanurls": "https://github.com/ervwalter/docpad-plugin-cleanurls/tarball/compiled",
