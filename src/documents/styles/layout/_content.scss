@@ -44,6 +44,25 @@
 			}
 		}
 
+        .abstract {
+            margin: 10px 0;
+        }
+
+        .abstract-year{
+            font-size: 1.2em;
+        }
+        
+        .abstract-date {
+            font-variant: small-caps;
+            font-size: 1em;
+            margin-left: 10px;
+            font-weight: bold;
+        }
+        
+        .abstract-title {
+            margin-left: 10px;
+        }
+
 		@include media($mobile) {
 			@include span-columns(1);
 		}
