@@ -5,7 +5,11 @@ layout: default
     <h1>Show Notes</h1>
 </header>
 <section id="site-content">
-    <%- @partial('_post', {document:@document,content:@content}) %>
+    <article class="show-notes">
+    <%- @fixLinks(@content, @document.url) %>
+
+	    See a mistake? <a href="https://github.com/ytechie/msdevshow/edit/master/src/documents<%= @document.url %>index.html.md">Edit this post!</a>
+	</article>
     <%- @partial('_post-pagination', {document:@document}) %>
     
     <div id="disqus_thread"></div>

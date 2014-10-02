@@ -88,18 +88,6 @@ docpadConfig = {
 			@getCollection("html").findAllLive({menu: $exists: true},[{menuOrder:1}])
 
 	plugins:
-		tagging:
-			collectionName: 'posts'
-			indexPageLowercase: true
-		#dateurls:
-		#	cleanurl: true
-		#	trailingSlashes: true
-		#	keepOriginalUrls: false
-		#	collectionName: 'posts'
-		#	dateIncludesTime: true
-		paged:
-			cleanurl: true
-			startingPageNumber: 2
 		cleanurls:
 			trailingSlashes: true
 		nodesass:
