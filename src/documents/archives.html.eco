@@ -23,6 +23,13 @@ menuOrder: 1
             <% end %>
         </div>
         <div class="abstract-date"><%= date.format("MMM D") %></div>
-        <div class="abstract-title"><a href="<%= document.url %>"><%= document.title %></a></div>
+        <div class="abstract-title">
+            <a href="<%= document.url %>">
+                <%= document.title %>
+                <% if document.guest: %> 
+                    <br /><em>with <%= document.guest %></em>
+                <% end %>
+            </a>
+        </div>
     </div>
 <% end %>

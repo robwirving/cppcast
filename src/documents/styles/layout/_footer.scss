@@ -24,6 +24,10 @@
             h1 {
                 color: $msdevshow-blue;
                 font-size: 1.6em;
+
+                img {
+                    vertical-align: middle;
+                }
             }
         }
         .footer-nav {
