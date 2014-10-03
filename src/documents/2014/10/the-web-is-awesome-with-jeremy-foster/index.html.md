@@ -1,11 +1,11 @@
 ---
 layout: post
-title: The Web is Awesome with Jeremy Foster
+title: The Web is Awesome
 guest: Jeremy Foster
 date: 2014-10-06
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0025.mp3
 guestImage: jeremy-foster.jpg
-draft:true
+ignored: true
 ---
 
 ###News
