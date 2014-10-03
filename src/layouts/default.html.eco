@@ -16,7 +16,7 @@
         <%- @getBlock('meta').toHTML() %>
 
         <link rel="alternate" type="application/rss+xml" title="The MS Dev Show Podcast" href="http://msdevshow.libsyn.com/rss" />
-        <link href="/favicon.png?v=2" rel="shortcut icon">
+        <link href="/images/favicon.png?v=2" rel="shortcut icon">
 
         <title><%= @getPreparedTitle() %></title>
 
