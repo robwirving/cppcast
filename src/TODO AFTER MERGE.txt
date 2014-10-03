@@ -1,6 +1,0 @@
-TODO AFTER MERGE
-
-Rename folders to new docpad convention:
-
-documents -> render
-files -> static
