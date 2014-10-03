@@ -81,11 +81,9 @@ docpadConfig = {
 
 	collections:
 		posts: ->
-			@getCollection("html").findAllLive({layout: 'post', draft: {$exists: false}},[{date:-1}])
+			@getCollection("html").findAllLive({layout: 'post', ignored: false}, [{date: -1}])
 		guests: ->
-			@getCollection("html").findAllLive({layout: 'post', guest: {$exists: true}, draft: {$exists: false}},[{date:-1}])
-		menuPages: ->
-			@getCollection("html").findAllLive({menu: $exists: true},[{menuOrder:1}])
+			@getCollection("html").findAllLive({layout: 'post', ignored: false, guest: {$exists: true}}, [{date: -1}])
 
 	plugins:
 		cleanurls:
