@@ -83,8 +83,9 @@ goto :EOF
 echo Handling DocPad deployment.
 
 :: 0. Cleanup dir
-echo Cleaning up output directory
+echo Cleaning up directories (trying to be fresh!)
 del /F /S /Q %DEPLOYMENT_SOURCE%\out\*
+del /F /S /Q %DEPLOYMENT_SOURCE%\node_modules\docpad-plugin-*
 
 :: 1. Select node version
 call :SelectNodeVersion
@@ -101,6 +102,7 @@ echo Building DocPad site...
 pushd "%DEPLOYMENT_SOURCE%"
 rd /s /q out
 IF !ERRORLEVEL! NEQ 0 goto error
+"!NODE_EXE!" .\node_modules\docpad\bin\docpad update
 "!NODE_EXE!" .\node_modules\docpad\bin\docpad -e static generate
 IF !ERRORLEVEL! NEQ 0 goto error
 popd
