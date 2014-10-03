@@ -97,15 +97,6 @@ call !NPM_CMD! install --production
 IF !ERRORLEVEL! NEQ 0 goto error
 popd
 
-:: 2. Updating DocPad
-echo Updating DocPad
-pushd "%DEPLOYMENT_SOURCE%"
-rd /s /q out
-IF !ERRORLEVEL! NEQ 0 goto error
-"!NODE_EXE!" .\node_modules\docpad\bin\docpad -e static update
-IF !ERRORLEVEL! NEQ 0 goto error
-popd
-
 :: 2. Build DocPad site
 echo Building DocPad site...
 pushd "%DEPLOYMENT_SOURCE%"
