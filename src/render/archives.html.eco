@@ -16,11 +16,13 @@ menuOrder: 1
     <% end %>
     <div class="archive abstract">
         <div class="abstract-image-placeholder">
+            <a href="<%= document.url %>">
             <% if document.guestImage: %> 
                 <img src="<%= document.url + document.guestImage %>" />
             <% else: %>
                 <img src="/images/logo-square.png" />
             <% end %>
+            </a>
         </div>
         <div class="abstract-date"><%= date.format("MMM D") %></div>
         <div class="abstract-title">
