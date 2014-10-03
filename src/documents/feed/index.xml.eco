@@ -12,7 +12,7 @@
 
     <% for document in @getCollection('posts').toJSON()[0..9]: %>
     <entry>
-        <title><%= document.title %></title>
+        <title><%= document.title %><% if document.guest: %> with <%= document.guest %><% end %></title>
         <link href="<%= @site.url %><%= document.url %>"/>
         <updated><%= document.date.toISOString() %></updated>
         <id><%= @getIdForDocument(document) %></id>

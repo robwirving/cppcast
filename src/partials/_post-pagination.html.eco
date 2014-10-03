@@ -1,0 +1,20 @@
+---
+cacheable: false
+---
+<% @paginationcollection = @getCollection('posts').toJSON() %>
+
+<% for document,documentIndex in @paginationcollection: %>
+    <% if @document.id is document.id: %>
+        <div class="pagination">
+            <ul>
+                <% if documentIndex < @paginationcollection.length - 1: %>
+                    <li class="page-prev"><a href="<%= @paginationcollection[documentIndex + 1].url %>">Previous Episode</a></li>
+                <% end %>
+                <li class="page-all"><a href="/archives/">View All Episodes</a></li>
+                <% if documentIndex >= 1: %>
+                    <li class="page-next"><a href="<%= @paginationcollection[documentIndex - 1].url %>">Next Episode</a></li>
+                <% end %>
+            </ul>
+        </div>
+    <% end %>
+<% end %>

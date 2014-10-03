@@ -6,4 +6,30 @@ menu: Archives
 menuOrder: 1
 ---
 
-<%- @partial('abstract-list', {collection: @getCollection('posts')}) %>
+<% currentYear = "" %>
+<% for document in @getCollection('posts').toJSON(): %>
+    <% date = @moment(document.date) %>
+    <% year = date.format("YYYY") %>
+    <% if year isnt currentYear: %>
+    <div class="archive abstract-year"><%= year %></div>
+        <% currentYear = year %>
+    <% end %>
+    <div class="archive abstract">
+        <div class="abstract-image-placeholder">
+            <% if document.guestImage: %> 
+                <img src="<%= document.url + document.guestImage %>" />
+            <% else: %>
+                <img src="/images/logo-square.png" />
+            <% end %>
+        </div>
+        <div class="abstract-date"><%= date.format("MMM D") %></div>
+        <div class="abstract-title">
+            <a href="<%= document.url %>">
+                <%= document.title %>
+                <% if document.guest: %> 
+                    <br /><em>with <%= document.guest %></em>
+                <% end %>
+            </a>
+        </div>
+    </div>
+<% end %>

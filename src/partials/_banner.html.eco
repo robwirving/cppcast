@@ -1,0 +1,26 @@
+---
+cacheable: false
+---
+<div id="site-banner-container">
+    <section id="site-banner" class="banner<% if @document.guestImage: %> guest<% end %>">
+        <% if @document.guestImage: %> 
+        <div class="banner-media">
+            <a href="<%= @document.url %>"><img src="<%= @document.url + @document.guestImage %>" alt="Latest Guest" title="<%= @document.title %>" /></a>
+        </div>
+        <% end %>
+        <div class="banner-copy">
+            <h1><a href="<%= @document.url %>"><%= @document.title %></a></h1>
+
+            <% if @document.guest: %> 
+                <h2><small>with</small> <%= @document.guest %></h2>
+            <% end %>
+            
+            <% if @document.audioUrl: %>
+                <aside>
+                    <div class="post-date"><%=  @moment(@document.date).format('MMM Do, YYYY') %></div>
+                </aside>
+                <%- @partial('_podcast-player', { audioUrl: @document.audioUrl }) %>
+            <% end %>
+        </div>
+    </section>
+</div>

@@ -81,25 +81,17 @@ docpadConfig = {
 
 	collections:
 		posts: ->
-			@getCollection("html").findAllLive({layout: 'post', draft: $exists: false},[{date:-1}])
-		menuPages: ->
-			@getCollection("html").findAllLive({menu: $exists: true},[{menuOrder:1}])
+			@getCollection("html").findAllLive({layout: 'post', ignored: false}, [{date: -1}])
+		guests: ->
+			@getCollection("html").findAllLive({layout: 'post', ignored: false, guest: {$exists: true}}, [{date: -1}])
 
 	plugins:
-		tagging:
-			collectionName: 'posts'
-			indexPageLowercase: true
-		#dateurls:
-		#	cleanurl: true
-		#	trailingSlashes: true
-		#	keepOriginalUrls: false
-		#	collectionName: 'posts'
-		#	dateIncludesTime: true
-		paged:
-			cleanurl: true
-			startingPageNumber: 2
 		cleanurls:
 			trailingSlashes: true
+		nodesass:
+			outputStyle: 'compressed'
+			bourbon: true
+			neat: true
 }
 
 # Export the DocPad Configuration

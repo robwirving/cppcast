@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Web Essentials and SideWaffle with Mads Kristensen
+title: Web Essentials and SideWaffle
+guest: Mads Kristensen
 date: 2014-09-22
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0023.mp3
 guestImage: mads-kristensen.jpg

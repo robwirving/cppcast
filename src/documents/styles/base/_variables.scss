@@ -1,0 +1,114 @@
+// Typography
+$sans-serif: $helvetica;
+$serif: $georgia;
+$base-font-family: $sans-serif;
+$header-font-family: #{$minecrafter-font-family},#{$base-font-family};
+
+// Sizes
+$base-font-size: 1em;
+$base-line-height: $base-font-size * 1.5;
+$unitless-line-height: $base-line-height / ($base-line-height * 0 + 1); // Strip units from line-height: https://developer.mozilla.org/en-US/docs/Web/CSS/line-height#Prefer_unitless_numbers_for_line-height_values
+$header-line-height: $base-font-size * 1.25;
+$base-border-radius: em(3);
+
+// Colors
+$white: #fff;
+$blue: #477DCA;
+$dark-gray: #333;
+$medium-gray: #999;
+$light-gray: #DDD;
+$light-red: #FBE3E4;
+$light-yellow: #FFF6BF;
+$light-green: #E6EFC2;
+
+$msdevshow-blue: #329fd9;
+$msdevshow-blue-light: lighten($msdevshow-blue, 20%);
+$msdevshow-blue-dark: darken($msdevshow-blue, 37.5%);
+$msdevshow-red: #ef9587;
+$msdevshow-red-light: lighten($msdevshow-red, 20%);
+$msdevshow-red-dark: darken($msdevshow-red, 20%);
+
+// Background Color
+$base-background-color: $msdevshow-blue-dark;
+
+// Font Colors
+$base-font-color: $dark-gray;
+$base-accent-color: $msdevshow-blue;
+
+// Link Colors
+$base-link-color: $base-accent-color;
+$hover-link-color: darken($base-accent-color, 15);
+$base-button-color: $base-link-color;
+$hover-button-color: $hover-link-color;
+
+// Border color
+$base-border-color: $light-gray;
+
+// Button Colors
+$base-button-background-color: $msdevshow-blue;
+$alternative-button-background-color: $msdevshow-red-light;
+
+// Flash Colors
+$alert-color: $light-yellow;
+$error-color: $light-red;
+$notice-color: $light-yellow;
+$success-color: $light-green;
+
+// Forms
+$form-border-color: $base-border-color;
+$form-border-color-hover: darken($base-border-color, 10);
+$form-border-color-focus: $base-accent-color;
+$form-border-radius: $base-border-radius;
+$form-box-shadow: inset 0 1px 3px rgba(0,0,0,0.06);
+$form-box-shadow-focus: $form-box-shadow, 0 0 5px rgba(darken($form-border-color-focus, 5), 0.7);
+$form-font-size: $base-font-size;
+$form-font-family: $base-font-family;
+
+// Design Variables
+
+// Body
+$body-background: $base-background-color;
+
+// Site Header
+$header-background: url('/images/site-header-background.png') $msdevshow-blue-dark;
+$header-font-color: $white;
+
+// Site Modals
+$modal-padding: 3em;
+$modal-background: $base-background-color;
+$modal-close-color: $light-gray;
+$modal-image-height: 135px;
+$modal-image-width: $modal-image-height;
+
+// Site Header Search
+$search-bar-border-color: $base-border-color;
+$search-bar-border: 1px solid $search-bar-border-color;
+$search-bar-background: lighten($search-bar-border-color, 10);
+
+// Site Banner
+$banner-background-top-gradient-color: rgba(255, 255, 255, 0);
+$banner-background-top-gradient-stop: 50%;
+$banner-background-bottom-gradient-color: $msdevshow-blue-dark;
+$banner-background-bottom-gradient-stop: 100%;
+$banner-background-image: url('/images/site-banner-background.jpg');
+$banner-color: $white;
+$banner-media-avatar-border: $white 0.5em solid;
+
+// Site Content
+$container-background: $white;
+
+// Site Pagination
+$pagination-border-color: $base-border-color;
+$pagination-border: 1px solid $pagination-border-color;
+$pagination-background: lighten($pagination-border-color, 10);
+$pagination-hover-background: lighten($pagination-background, 5);
+$pagination-color: $base-font-color;
+
+// Site Sidebar
+$sidebar-background: $white;
+$sidebar-header-background: $msdevshow-blue;
+$sidebar-header-color: $white;
+$sidebar-nav-header-background: $msdevshow-red;
+
+// Site Footer
+$footer-background: url('/images/site-footer-background.jpg');

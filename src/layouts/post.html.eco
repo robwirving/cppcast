@@ -1,13 +1,26 @@
 ---
 layout: default
 ---
-<div class="container">
-    <div class="row">
-        <div class="col-sm-12 col-md-10">
-            <%- @partial('post', {title: @document.title, url: @document.url, tags: @document.tags, date: @document.date, content: @content, individualPost: true, audioUrl: @document.audioUrl, guestImage: @document.guestImage }) %>
-            <%- @partial('me', false) %>
-            <%- @partial('disqus') if @disqusShortName %>
-        </div>
-    </div>
-</div>
+<header id="site-content-header">
+    <h1>Show Notes</h1>
+</header>
+<section id="site-content">
+    <article class="show-notes">
+    <%- @fixLinks(@content, @document.url) %>
 
+	    See a mistake? <a href="https://github.com/ytechie/msdevshow/edit/master/src/documents<%= @document.url %>index.html.md">Edit this post!</a>
+	</article>
+    <%- @partial('_post-pagination', {document:@document}) %>
+    
+    <div id="disqus_thread"></div>
+	<script type="text/javascript">
+	    var disqus_shortname = '<%= @disqusShortName %>';
+
+	    (function() {
+	        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+	        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+	        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+	    })();
+	</script>
+
+</section>

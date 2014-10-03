@@ -1,31 +1,8 @@
 ---
-layout: narrow-page
+layout: blank
 changefreq: daily
 priority: 0.8
 referencesOthers: true
-isPaged: true
-pagedCollection: posts
-pageSize: 1
-pagePathPrefix: page
-title: "The Microsoft Developer Show Podcast"
 ---
-
-<%- @partial('lead') %>
-
-
-<% for document in @getCollection('posts').toJSON()[@document.page.startIdx...@document.page.endIdx]: %>
-    <%- @partial('post', {title: document.title, url: document.url, tags: document.tags, date: document.date, content: document.contentRenderedWithoutLayouts, audioUrl: document.audioUrl, guestImage: document.guestImage }) %>
-<% end %>
-
-<div class="page-nav">
-    <% if @hasNextPage(): %>
-    <a class="page-nav-older" href="<%= @getNextPage() %>"><span class="icon icon-arrow-left-2"></span> Previous Episode</a>
-    <% end %>
-    <% if @hasPrevPage(): %>
-    <a class="page-nav-newer" href="<%= @getPrevPage() %>">Newer Episode <span class="icon icon-arrow-right-2"></span></a>
-    <% end %>
-
-    <div class="page-nav-archives"><a href="/archives/" class="btn btn-primary btn-lg active" role="button">View All Previous Episodes</a></div>
-</div>
-
-<%- @partial('me') %>
+<% @document = @getCollection('posts').toJSON()[0] %>
+<%- @document.contentRendered %>
