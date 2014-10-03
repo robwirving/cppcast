@@ -82,6 +82,10 @@ goto :EOF
 :Deployment
 echo Handling DocPad deployment.
 
+:: 0. Cleanup dir
+echo Cleaning up output directory
+del /F /S /Q %DEPLOYMENT_SOURCE%\out\*
+
 :: 1. Select node version
 call :SelectNodeVersion
 
