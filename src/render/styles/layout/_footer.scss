@@ -37,7 +37,7 @@
                 }
 
                 img {
-                    vertical-align: middle;
+                    margin-bottom: -3px;
 
                     @include media($mobile) {
                         display: block;
