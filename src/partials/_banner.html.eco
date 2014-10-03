@@ -5,7 +5,7 @@ cacheable: false
     <section id="site-banner" class="banner<% if @document.guestImage: %> guest<% end %>">
         <% if @document.guestImage: %> 
         <div class="banner-media">
-            <a href="<%= @document.url %>"><img src="<%= @document.url + @document.guestImage %>"alt="Latest Guest" title="<%= @document.title %>" /></a>
+            <a href="<%= @document.url %>"><img src="<%= @document.url + @document.guestImage %>" alt="Latest Guest" title="<%= @document.title %>" /></a>
         </div>
         <% end %>
         <div class="banner-copy">
