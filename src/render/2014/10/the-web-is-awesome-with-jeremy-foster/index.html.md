@@ -36,5 +36,5 @@ guestImage: jeremy-foster.jpg
 
 ###App of the Week
  - [Maestro (Preview)](http://www.windowsphone.com/s?appid=b75be3fa-fbf8-4c1a-bd39-1517c1d6aec0)
- - From [Hidden Pineapple](http://hiddenpineapple.com/) -
+  - From [Hidden Pineapple](http://hiddenpineapple.com/) -
 [Twitter](http://twitter.com/thehp)
