@@ -13,9 +13,9 @@ ignored: true
  - [New MS Dev Show Website!](http://msdevshow.com)
   - Thanks [Martinez Media](http://www.martinezmedia.net/)!
  - [Roku Screen Mirroring](http://www.wpcentral.com/roku-screen-mirroring-beta-launched-windows-phone-8-and-windows-8)
- - [How to mirror](http://blogs.windows.com/bloggingwindows/2014/10/10/roku-rolls-out-screen-mirroring-beta-for-windows-8-1-and-windows-phone-8-1-devices/)
- - [Windows](http://windows.microsoft.com/en-us/windows-8/project-wireless-screen-miracast)
- - [Windows Phone](http://www.windowsphone.com/en-us/how-to/wp8/connectivity/project-my-phone-screen)
+  - [How to mirror](http://blogs.windows.com/bloggingwindows/2014/10/10/roku-rolls-out-screen-mirroring-beta-for-windows-8-1-and-windows-phone-8-1-devices/)
+     - [Windows](http://windows.microsoft.com/en-us/windows-8/project-wireless-screen-miracast)
+     - [Windows Phone](http://www.windowsphone.com/en-us/how-to/wp8/connectivity/project-my-phone-screen)
  - [Reverse Engineering Yoda Stories](http://www.zachtronics.com/yoda-stories/)
  - [JavaScript performance in Windows 10 Technical Preview](http://blogs.msdn.com/b/ie/archive/2014/10/09/announcing-key-advances-to-javascript-performance-in-windows-10-technical-preview.aspx)
  - [Deploy to Azure Button](http://www.bradygaster.com/post/the-deploy-to-azure-button)
