@@ -5,7 +5,6 @@ guest: Rick Barazza
 date: 2014-10-14
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0026.mp3
 guestImage: rick-barazza.jpg
-ignored: true
 ---
 
 ###News
