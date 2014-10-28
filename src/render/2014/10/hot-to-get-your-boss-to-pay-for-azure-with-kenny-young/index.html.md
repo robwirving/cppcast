@@ -42,7 +42,7 @@ guestImage: kenny-young.jpg
 -   [Linked In](http://www.linkedin.com/in/kennydyoung)
 -   [Skyline Blog](http://www.skylinetechnologies.com/Blog/Author/3/Kenny-Young.aspx)
 
-###Azure pick of the week
+###Azure Pick of the Week
 
 -   [Azure resource groups](http://azure.microsoft.com/en-us/documentation/articles/azure-preview-portal-using-resource-groups/)
 
