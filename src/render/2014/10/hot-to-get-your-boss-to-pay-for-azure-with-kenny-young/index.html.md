@@ -5,7 +5,6 @@ guest: Kenny Young
 date: 2014-10-27
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0028.mp3
 guestImage: kenny-young.jpg
-ignored: true
 ---
 
 ###MVP Summit Giveaways
