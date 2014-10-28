@@ -10,7 +10,7 @@ guestImage: kenny-young.jpg
 ###MVP Summit Giveaways
 
  - Hats
-  -   First 10 eople to approach Carl gets one
+  -   First 10 people to approach Carl gets one
  - Stickers
   - First N-hundred, get a sticker
 
