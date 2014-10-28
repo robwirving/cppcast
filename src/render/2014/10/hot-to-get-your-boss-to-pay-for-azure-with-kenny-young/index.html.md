@@ -33,7 +33,7 @@ guestImage: kenny-young.jpg
  - Allen O'Neil - Noticed the huge improvement in sound quality wants to know what equipment we're using
   -[Alesis IO2 Express 24-Bit USB Recording Interface](http://www.amazon.com/gp/product/B003HR30FU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003HR30FU&linkCode=as2&tag=ytechie-20&linkId=O6YSZNYPS5NFTUAN) 
  - [Hosa Cable STP201 TRS To Dual 1/4 Inch Insert Cable](http://www.amazon.com/dp/B000068O1N/ref=pe_385040_30332200_pe_309540_26725410_item&tag=ytechie-20)
- - [Heil PR-40 Dynamic Studio Recording Microphone](http://www.amazon.com/dp/B000BQXOEM/ref=pe_385040_30332200_pe_309540_26725410_item&tag=ytechie-20)
+ - [Heil PR-40 Dynamic Studio Recording Microphone](http://www.amazon.com/dp/B000BQXOEM/ref=pe_385040_30332200_pe_309540_26725410_item&tag=ytechie-20) - Connects Gate Limiter to interface
  - [Behringer MDX1600 2-Channel Expander/Gate/Compressor/ Peak Limiter](http://www.amazon.com/dp/B0002E4ZJ6/ref=pe_385040_30332200_pe_309540_26725410_item&tag=ytechie-20) This is optional at this point, you can edit out the background noise if you record each track separately
 
 ###Kenny Young
