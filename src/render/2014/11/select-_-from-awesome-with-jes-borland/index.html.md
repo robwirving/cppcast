@@ -5,7 +5,6 @@ guest: Jes Borland
 date: 2014-11-03
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0029.mp3
 guestImage: jes-borland.jpg
-ignored: true
 ---
 
 ###News
