@@ -5,23 +5,23 @@ guest: Rob Reynolds
 date: 2014-11-14
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0030.mp3
 guestImage: rob-reynolds.jpg
-ignored: true
+ignored:true
 ---
 
 ###News
 
  - [Like our page on Facebook!](https://www.facebook.com/msdevshow)
  - [Connect Announcements](http://weblogs.asp.net/scottgu/announcing-open-source-of-net-core-framework-net-core-distribution-for-linux-osx-and-free-visual-studio-community-edition)
- - [Open Source of .Net Core Framework](http://www.hanselman.com/blog/AnnouncingNET2015NETAsOpenSourceNETOnMacAndLinuxAndVisualStudioCommunity.aspx)
- - [Free Visual Studio Community Edition](http://www.visualstudio.com/products/visual-studio-community-vs)
- - [Visual Studio 2015 Preview](http://www.zdnet.com/microsoft-delivers-preview-of-visual-studio-2015-new-free-community-version-7000035724/)
-  -   Asp.Net 5
-  -   Roslyn
-  -   Cordova
-  -   Android Emulator
-  -   Lambdas in Immediate Windows
-  -   Enhanced breakpoint debugging tools
- - [OmniSharp](http://www.omnisharp.net/?amp)
+  - [Open Source of .Net Core Framework](http://www.hanselman.com/blog/AnnouncingNET2015NETAsOpenSourceNETOnMacAndLinuxAndVisualStudioCommunity.aspx)
+  - [Free Visual Studio Community Edition](http://www.visualstudio.com/products/visual-studio-community-vs)
+  - [Visual Studio 2015 Preview](http://www.zdnet.com/microsoft-delivers-preview-of-visual-studio-2015-new-free-community-version-7000035724/)
+     -   Asp.Net 5
+     -   Roslyn
+     -   Cordova
+     -   Android Emulator
+     -   Lambdas in Immediate Windows
+     -   Enhanced breakpoint debugging tools
+  - [OmniSharp](http://www.omnisharp.net/?amp)
  - [Microsoft Bundles its best services together for $199 a year](http://www.microsoft.com/en-us/workandplay/Overview)
   -   Office 365 Home
   -   Xbox Live Gold
@@ -50,6 +50,7 @@ ignored: true
  - [ChocolateyGUI](http://chocolatey.org/packages/ChocolateyGUI)
  - [OneGet](https://github.com/OneGet/oneget)
   - [OneGet is a package management aggregator](https://github.com/OneGet/oneget/issues/77)
+
 
  #App of the Week
 
