@@ -7,6 +7,8 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0030.mp3
 guestImage: rob-reynolds.jpg
 ---
 
+**[Please donate to the Chocolatey Kickstarter!](https://www.kickstarter.com/projects/ferventcoder/chocolatey-the-alternative-windows-store-like-yum)**
+
 ###News
 
  - [Like our page on Facebook!](https://www.facebook.com/msdevshow)
