@@ -6,19 +6,19 @@ enablePageComments: true
 
 To promote podcasts with similar topics, we're trying to compile a list here. Leave a note in the comments if we're missing any!
 
-## Azure
+### Azure
 * [Azure Friday](http://azure.microsoft.com/en-us/documentation/videos/azure-friday/)
 * [Microsoft Cloud Show](http://www.microsoftcloudshow.com/)
 * [Microsoft Azure Cloud Cover](http://channel9.msdn.com/Shows/Cloud+Cover/)
 * [The Azure Podcast](http://azpodcast.azurewebsites.net/)
 
-## Windows
+### Windows
 * [Windows Weekly](http://twit.tv/ww)
 
-## Windows Phone
+### Windows Phone
 * [Windows Developer Show](http://windowsdevelopershow.com/) 
 
-## Programming
+### Programming
 * [Coding Blocks](http://www.codingblocks.net/)
 
 Criteria for Addition:
