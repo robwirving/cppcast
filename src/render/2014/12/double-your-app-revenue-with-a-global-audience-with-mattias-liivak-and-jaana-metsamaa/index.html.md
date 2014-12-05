@@ -4,7 +4,7 @@ title:  Double Your App Revenue with a Global Audience
 guest: Mattias Liivak and Jaana Metsamaa
 date: 2014-12-05
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0033.mp3
-guestImage: mattias-liivak.jpg
+guestImage: mattias-and-jaana.jpg
 ignored: true
 ---
 
