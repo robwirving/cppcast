@@ -4,20 +4,32 @@ title: Guest Audio Setup Instructions
 enablePageComments: false 
 ---
 
-Recording your own audio track will **significantly** increase the audio quality of your episode. It takes only seconds to set up with a free tool called Audacity.
+We want you to sound as amazing as possible. Recording your own audio track will **significantly** increase the audio quality of your episode. It takes only seconds to set up with a free tool called Audacity.
+
+### Before/During the Show
 
 1. [Download Audacity from here](http://audacity.sourceforge.net/download/). Don't worry, it's free and a small download.
-2. In Audacity, select your microphone, switch to mono, and hit record.
-![Audacity Setup](audacity-setup.png)
-3. When done, hit the *Stop* button.
-4. File->Export Audio...
-![Export Audio Menu Item](export-audio-menu.png)
-5. Be sure to select **FLAC** as the file type. Name the file anything you like.
-![Export Audio File Name](export-audio-file.png)
-6. No metadata is needed, just hit OK.
-![Export Audio Metadata](export-audio-metadata.png)
-7. Upload the file to Dropbox, OneDrive, or your file sharing service of choice.
-8. Send the link to [feedback@msdevshow.com](mailto:feedback@msdevshow.com)
+1. In Audacity, select your microphone, switch to mono, and press the record button.
+
+	![Audacity Setup](audacity-setup.png)
+
+### After the Show
+
+1. Hit the *Stop* button.
+1. File->Export Audio...
+ 
+	![Export Audio Menu Item](export-audio-menu.png)
+
+1. Be sure to select **FLAC** as the file type. Name the file anything you like.
+
+	![Export Audio File Name](export-audio-file.png)
+
+1. No metadata is needed, just hit OK.
+ 
+	![Export Audio Metadata](export-audio-metadata.png)
+
+1. Upload the file to Dropbox, OneDrive, or your file sharing service of choice. The file should be somewhere between 100-200mb for a typical episode.
+1. Send the link to [feedback@msdevshow.com](mailto:feedback@msdevshow.com)
 
 
 ### FAQ
