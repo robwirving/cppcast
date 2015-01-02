@@ -25,7 +25,7 @@ ignored: true
 
 ----------
 
- - [The Innovators](http://www.amazon.com/dp/147670869X/) 
+ - [The Innovators](http://www.amazon.com/dp/147670869X/&tag=ytechie-20) 
 
 ###Apps of the Week
 
