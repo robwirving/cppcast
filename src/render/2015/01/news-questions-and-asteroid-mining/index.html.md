@@ -3,7 +3,6 @@ layout: post
 title: News, Questions, and Asteroid Mining
 date: 2015-01-02
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0037.mp3
-ignored: true
 ---
 
 ###News
