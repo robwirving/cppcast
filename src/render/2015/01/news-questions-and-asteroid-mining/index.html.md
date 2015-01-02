@@ -20,7 +20,7 @@ ignored: true
  - [Building a dungeon!  - With basic computer science concepts.](http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/)
  - [Visual Studio Auto Updater](https://visualstudiogallery.msdn.microsoft.com/14973bbb-8e00-4cab-a8b4-415a38d78615)
  - [What it Really takes to be a Professional Programmer](http://lifehacker.com/what-it-really-takes-to-be-a-professional-programmer-1674327537)
- - [Microsoft hones its plans to try to close the app gap  With Android?](http://www.zdnet.com/article/microsoft-hones-its-plans-to-try-to-close-the-app-gap/)
+ - [Microsoft hones its plans to try to close the app gap --  With Android?](http://www.zdnet.com/article/microsoft-hones-its-plans-to-try-to-close-the-app-gap/)
   -   [In response - An Opinion from a Microsoft MVP](http://www.reddit.com/r/windowsphone/comments/2qte10/microsoft_hones_its_plans_to_try_to_close_the_app/cn9d4zg)
 
 ----------
