@@ -5,7 +5,6 @@ guest: Janet Yeilding
 date: 2015-01-09
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0038.mp3
 guestImage: janet-yeilding.jpg
-ignored:true
 ---
 
 ###News
