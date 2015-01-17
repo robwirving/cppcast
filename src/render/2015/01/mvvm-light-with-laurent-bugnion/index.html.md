@@ -5,7 +5,6 @@ guest: Laurent Bugnion
 date: 2015-01-16
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0039.mp3
 guestImage: laurent-bugnion.jpg
-ignored:true
 ---
 
 ###News
