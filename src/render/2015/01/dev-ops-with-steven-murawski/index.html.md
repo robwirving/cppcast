@@ -5,7 +5,6 @@ guest: Steven Murawski
 date: 2015-01-23
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0040.mp3
 guestImage: steven-murawski.jpg
-ignored: true
 ---
 
 ###News
