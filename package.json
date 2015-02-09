@@ -1,11 +1,11 @@
 {
-  "name": "msdevshow-docpad",
+  "name": "cppcast-docpad",
   "version": "1.0.0",
-  "description": "Source for msdevshow.com",
-  "author": "Jason Young <jason@ytechie.com>",
+  "description": "Source for cppcast.com",
+  "author": "Rob Irving <rob.irving@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ytechie/msdevshow"
+    "url": "https://github.com/robwirving/cppcast"
   },
   "license": "MIT",
   "dependencies": {

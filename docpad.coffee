@@ -10,16 +10,16 @@ docpadConfig = {
 		# Specify some site properties
 		site:
 			# The production url of our website
-			url: "http://msdevshow.com"
+			url: "http://cppcast.com"
 
 			# The default title of our website
-			title: "MS Dev Show Podcast"
+			title: "cppcast"
 
 			# The website author's name
-			author: "MS Dev Show"
+			author: "cppcast"
 
 			# The website author's email
-			email: "jason@ytechie.com"
+			email: "rob.irving@gmail.com"
 
 
 		# -----------------------------
@@ -71,13 +71,13 @@ docpadConfig = {
 			title.replace("'", "\\'")
 
 		# Discus.com settings
-		disqusShortName: 'msdevshow'
+		disqusShortName: 'cppcast'
 
 		# Google+ settings
 		#googlePlusId: '105512648454315380048'
 
 		# RSS Feed
-		rssFeedUrl: 'http://msdevshow.libsyn.com/rss'
+		rssFeedUrl: 'http://cppcast.libsyn.com/rss'
 
 	collections:
 		posts: ->

@@ -8,9 +8,9 @@ In Windows Phone 8.1, there is now a dedicated podcasting application. This is w
 
 ![Podcast App](podcast-app@2x.jpg)
 
-Launch the podcast app and simply search for **MS Dev Show**. Tap on our podcast.
+Launch the podcast app and simply search for **cppcast**. Tap on our podcast.
 
-![Searching for the MS Dev Show podcast](subscribe-screenshot@2x.jpg)
+![Searching for the cppcast podcast](subscribe-screenshot@2x.jpg)
 
 Tap the **(+)** icon to subscribe.
 
