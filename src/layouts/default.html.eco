@@ -10,7 +10,7 @@
         <meta http-equiv="content-language" content="en-us">
         <meta name="application-name" content="cppcast"/>
         <meta name="twitter.site" content="@cppcast" />
-        <meta property="twitter:account_id" content="4503599629427918" />
+        <meta property="twitter:account_id" content="3026468769" />
         <meta name="author" content="<%= @site.author %>">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <%- @getBlock('meta').toHTML() %>
@@ -46,16 +46,16 @@
 
         <%- @getBlock('scripts').add(["/scripts/vendor/jquery.fittext.js", "/scripts/vendor/jquery.audioplayer.min.js", "/scripts/site.fittext.js", "/scripts/site.audioplayer.js"]).toHTML() %>
 
-        <script type="text/javascript">
-          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        <script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-          ga('create', 'UA-342471-11', 'msdevshow.com');
-          ga('send', 'pageview');
+		  ga('create', 'UA-59564422-1', 'auto');
+		  ga('send', 'pageview');
 
-        </script>
+		</script>
 
         <!-- /Scripts -->
     </body>
