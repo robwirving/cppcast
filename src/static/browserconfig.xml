@@ -6,14 +6,14 @@
 			<square150x150logo src="/images/logo-square.png" />
 			<wide310x150logo src="/images/logo-wide.png" />
 			<square310x310logo src="/images/logo-large.png" />
-			<TileColor>#349ED8</TileColor>
+			<TileColor>#9b4f96</TileColor>
 		</tile>
 		<notification>
-			<polling-uri src="http://notifications.buildmypinnedsite.com/?feed=http://msdevshow.com/feed&amp;id=1" />
-			<polling-uri2 src="http://notifications.buildmypinnedsite.com/?feed=http://msdevshow.com/feed&amp;id=2" />
-			<polling-uri3 src="http://notifications.buildmypinnedsite.com/?feed=http://msdevshow.com/feed&amp;id=3" />
-			<polling-uri4 src="http://notifications.buildmypinnedsite.com/?feed=http://msdevshow.com/feed&amp;id=4" />
-			<polling-uri5 src="http://notifications.buildmypinnedsite.com/?feed=http://msdevshow.com/feed&amp;id=5" />
+			<polling-uri src="http://notifications.buildmypinnedsite.com/?feed=http://cppcast.com/feed&amp;id=1" />
+			<polling-uri2 src="http://notifications.buildmypinnedsite.com/?feed=http://cppcast.com/feed&amp;id=2" />
+			<polling-uri3 src="http://notifications.buildmypinnedsite.com/?feed=http://cppcast.com/feed&amp;id=3" />
+			<polling-uri4 src="http://notifications.buildmypinnedsite.com/?feed=http://cppcast.com/feed&amp;id=4" />
+			<polling-uri5 src="http://notifications.buildmypinnedsite.com/?feed=http://cppcast.com/feed&amp;id=5" />
 			<frequency>30</frequency>
 			<cycle>1</cycle>
 		</notification>

@@ -29,7 +29,7 @@
         #footer-colophon {
             margin-bottom: 2em;
             h1 {
-                color: $msdevshow-blue;
+                color: $cppcast-purple;
                 font-size: 1.6em;
 
                 @include media($mobile) {
@@ -50,10 +50,10 @@
             @include span-columns(3);
             h1 {
                 font-size: 1.2em;
-                color: $msdevshow-red;
+                color: $cppcast-teal;
 
                 a {
-                    color: $msdevshow-red;
+                    color: $cppcast-teal;
                 }
             }
             @include media($mobile) {
