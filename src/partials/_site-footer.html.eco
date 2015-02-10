@@ -7,8 +7,6 @@ cacheable: true
             <h1><img src="/images/favicon.png" /> About cppcast</h1>
             <p>The first podcast by C++ developers for C++ developers! Hosted by Rob Irving.</p>
 
-            <p>Special thanks to <a href="http://www.martinezmedia.net/" target="_blank">Martinez Media</a> for creating our theme music, logo, site design, stickers, and for just being really awesome.</p>
-
             <p>The opinions expressed in this podcast or on this site may not reflect the opinions of our employers.</p>
         </section>
         <nav id="footer-navigation">

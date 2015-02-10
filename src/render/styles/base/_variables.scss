@@ -87,8 +87,10 @@ $search-bar-border: 1px solid $search-bar-border-color;
 $search-bar-background: lighten($search-bar-border-color, 10);
 
 // Site Banner
-$banner-background-top-gradient-color: rgba(255, 255, 255, 0);
-$banner-background-top-gradient-stop: 50%;
+$banner-background-top-gradient-color: $white;
+$banner-background-top-gradient-stop: 0%;
+$banner-background-middle-gradient-color: rgba(255, 255, 255, 0);
+$banner-background-middle-gradient-stop: 50%;
 $banner-background-bottom-gradient-color: $cppcast-purple-dark;
 $banner-background-bottom-gradient-stop: 100%;
 $banner-background-image: url('/images/site-banner-background.jpg');
