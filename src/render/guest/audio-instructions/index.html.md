@@ -29,7 +29,7 @@ We want you to sound as amazing as possible. Recording your own audio track will
 	![Export Audio Metadata](export-audio-metadata.png)
 
 1. Upload the file to Dropbox, OneDrive, or your file sharing service of choice. The file should be somewhere between 100-200mb for a typical episode.
-1. Send the link to [feedback@msdevshow.com](mailto:feedback@msdevshow.com)
+1. Send the link to [feedback@cppcast.com](mailto:feedback@cppcast.com)
 
 
 ### FAQ
