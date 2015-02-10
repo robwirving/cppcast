@@ -4,7 +4,7 @@
     padding: 3em 0.5em 3em 0.5em;
     position: relative;
 
-    @include background-image(linear-gradient(to top, $banner-background-top-gradient-color $banner-background-top-gradient-stop, $banner-background-bottom-gradient-color $banner-background-bottom-gradient-stop), $footer-background);
+    @include background-image(linear-gradient(to top, $footer-top-gradient-color footer-top-gradient-stop, $footer-bottom-gradient-color $footer-bottom-gradient-stop), $footer-background);
 
     &:after {
         content: ' ';
