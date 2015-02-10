@@ -12,6 +12,7 @@ $header-line-height: $base-font-size * 1.25;
 $base-border-radius: em(3);
 
 // Colors
+$black: #000;
 $white: #fff;
 $blue: #477DCA;
 $dark-gray: #333;
@@ -71,7 +72,7 @@ $body-background: $base-background-color;
 
 // Site Header
 $header-background: url('/images/site-header-background.png') $cppcast-purple-dark;
-$header-font-color: $white;
+$header-font-color: $black;
 
 // Site Modals
 $modal-padding: 3em;
@@ -112,3 +113,4 @@ $sidebar-nav-header-background: $cppcast-teal;
 
 // Site Footer
 $footer-background: url('/images/site-footer-background.jpg');
+$footer-font-color: $white;
