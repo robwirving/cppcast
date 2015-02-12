@@ -1,4 +1,4 @@
-# The _MS Dev Show_ Site
+# The _cppcast_ Site
 
 [CppCast Podcast](http://cppcast.com) website source. Our website is automatically updated when this repo changes. Fork this project to make a similar site.
 
