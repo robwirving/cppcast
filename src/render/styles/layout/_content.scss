@@ -8,7 +8,7 @@
 	#site-content-header {
 		@include span-columns(5);
 		background: $container-background;
-		padding: 1.5em 1.5em 0 1.5em;
+		padding: 1.5em 1.5em 1.5em 1.5em;
 		text-align: center;
 
 		@include media($non-desktop) {
