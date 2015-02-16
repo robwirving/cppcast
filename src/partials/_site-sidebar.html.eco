@@ -12,7 +12,7 @@ cacheable: true
             <li><a href="http://msdevshow.com/subscribe-windows-phone/" title="Subscribe to the MS Dev Show via Windows Phone" target="_blank">Windows Phone</a></li>
             <li><a href="http://player.fm/series/ms-dev-show" title="Subscribe to the MS Dev Show via PlayerFM" target="_blank">PlayerFM</a></li>
             <li><a href="http://app.stitcher.com/browse/feed/48675/details" title="Subscribe to the MS Dev Show via Stitcher" target="_blank">Stitcher</a></li>
-            <li><a href="http://tunein.com/radio/MS-Dev-Show-p603965/" title="Subscribe to the MS Dev Show via tunin radio" target="_blank">tunin</a></li>
+            <li><a href="http://tunein.com/radio/MS-Dev-Show-p603965/" title="Subscribe to the MS Dev Show via tunein radio" target="_blank">TuneIn</a></li>
             <li><a href="http://msdevshow.libsyn.com/rss" title="Subscribe to the MS Dev Show via RSS" target="_blank">RSS (Others)</a></li>
     	</ul>
     </nav>
