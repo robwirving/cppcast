@@ -38,7 +38,7 @@ guestImage: scott-hanselman.jpg
  - [Azure in less than 2 minutes](http://channel9.msdn.com/Blogs/Windows-Azure/Supercharge-your-DB-with-VMs)
  - [Azure.com Get Started](http://azure.microsoft.com/en-us/get-started/)
 
-#Apps of the Week
+###Apps of the Week
 
  - [GPS Calculator PRO](http://www.windowsphone.com/en-us/store/app/gps-calculator-pro/48e2148a-b000-4a3e-9aab-6d5a6f763868)
  - [Windows Insider](http://www.windowsphone.com/s?appid=ed2b1421-6414-4544-bd8d-06d58ee402a5)
