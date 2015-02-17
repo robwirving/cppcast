@@ -18,7 +18,7 @@ ignored: true
 
  - [@shanselman](https://twitter.com/shanselman)
  - [hanselman.com](http://www.hanselman.com/)
- - [Blog](http://www.hanselman.com/blog/)
+ - [Hanselminutes](http://www.hanselminutes.com/)
  - [This Developers Life](http://thisdeveloperslife.com/)
  - [Ratchet and the Geek](http://www.ratchetandthegeek.com/)
  - [Azure Friday](http://azure.microsoft.com/en-us/documentation/videos/azure-friday/)
