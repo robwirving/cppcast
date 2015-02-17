@@ -5,7 +5,6 @@ guest: Scott Hanselman
 date: 2015-02-16
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0043.mp3
 guestImage: scott-hanselman.jpg
-ignored: true
 ---
 
 ###News
