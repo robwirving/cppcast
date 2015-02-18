@@ -3,6 +3,7 @@ layout: post
 title: Jon Kalb loves the C++ Community
 guest: Jon Kalb
 date: 2015-02-17
+playerUrl: https://media.signalleaf.com/player/CppCast/54e4145670fc040300a4199e/
 audioUrl: http://media.signalleaf.com/CppCast/54e4145670fc040300a4199e/Episode1.final.mp3
 guestImage: jon-kalb.jpg
 ---
