@@ -16,7 +16,7 @@ Jon has been writing C++ for two and half decades, does onsite C++ training, and
  - [cppcon YouTube Channel](https://www.youtube.com/CppCon)
  - [C++Now!](http://cppnow.org/)
  - [Boost Library Incubator](http://rrsd.com/blincubator.com/)
- - [Does C++ need it's own podcast?](http://robwirving.com/2015/01/31/c-need-podcast/)
+ - [Does C++ need its own podcast?](http://robwirving.com/2015/01/31/c-need-podcast/)
 
 ###Jon Kalb
 
