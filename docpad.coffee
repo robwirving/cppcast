@@ -77,7 +77,7 @@ docpadConfig = {
 		#googlePlusId: '105512648454315380048'
 
 		# RSS Feed
-		rssFeedUrl: 'http://cppcast.libsyn.com/rss'
+		rssFeedUrl: 'https://media.signalleaf.com/CppCast/rss'
 
 	collections:
 		posts: ->

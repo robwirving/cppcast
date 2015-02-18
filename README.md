@@ -4,7 +4,7 @@
 
 The first podcast by C++ developers for C++ developers! Hosted by Rob Irving.
 
-Subscribe to the show using our [RSS Feed](http://msdevshow.libsyn.com/rss), or search for "cppcast" in your favorite podcast app.
+Subscribe to the show using our [RSS Feed](https://media.signalleaf.com/CppCast/rss), or search for "cppcast" in your favorite podcast app.
 
 ## Getting Started with Docpad
 The _cppcast_ site utilizes Docpad, a nodejs-based static site generation tool, to build its website and resources. Follow the installation steps below to run a local copy of the site.
