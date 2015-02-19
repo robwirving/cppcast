@@ -16,8 +16,8 @@ cacheable: true
                 <ul>
                     <!--<li><a href="/subscribe-windows-phone/" title="Subscribe to cppcast via Windows Phone" target="_blank">Windows Phone</a></li>-->
                     <!--<li><a href="http://itunes.apple.com/us/podcast/ms-dev-show/id862879925" title="Subscribe to the MS Dev Show via iTunes" target="_blank">iTunes</a></li>-->
-                    <!--<li><a href="http://app.stitcher.com/browse/feed/48675/details" title="Subscribe to cppcast via Stitcher" target="_blank">Stitcher</a></li>-->
-                    <!--<li><a href="http://player.fm/series/ms-dev-show" title="Subscribe to cppcast via PlayerFM" target="_blank">PlayerFM</a></li>-->
+                    <li><a href="http://app.stitcher.com/browse/feed/61449/details" title="Subscribe to cppcast via Stitcher" target="_blank">Stitcher</a></li>
+                    <li><a href="http://player.fm/series/cppcast" title="Subscribe to cppcast via PlayerFM" target="_blank">PlayerFM</a></li>
                     <li><a href="https://media.signalleaf.com/CppCast/rss" title="Subscribe to cppcast via RSS" target="_blank">RSS</a></li>
                     <li><a href="mailto:feedback@cppcast.com?Subject=New%20Podcast%20aggregator!" title="Send you your favorite podcast aggregator!" target="_top">Tell us your favorite!</a></li>
                 </ul>
