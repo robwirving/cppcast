@@ -14,7 +14,7 @@ cacheable: true
                 <h1><a href="#">Subscribe</a></h1>
                 <p>We're available everywhere! Subscribe through any of these sources:</p>
                 <ul>
-                    <!--<li><a href="/subscribe-windows-phone/" title="Subscribe to cppcast via Windows Phone" target="_blank">Windows Phone</a></li>-->
+                    <li><a href="/subscribe-windows-phone/" title="Subscribe to cppcast via Windows Phone" target="_blank">Windows Phone</a></li>
                     <li><a href="https://itunes.apple.com/us/podcast/cppcast/id968703120" title="Subscribe to the cppcast via iTunes" target="_blank">iTunes</a></li>
                     <li><a href="http://app.stitcher.com/browse/feed/61449/details" title="Subscribe to cppcast via Stitcher" target="_blank">Stitcher</a></li>
                     <li><a href="http://player.fm/series/cppcast" title="Subscribe to cppcast via PlayerFM" target="_blank">PlayerFM</a></li>

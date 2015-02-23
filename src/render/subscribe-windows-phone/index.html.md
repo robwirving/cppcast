@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Subscribing to the MS Dev Show on Windows Phone 8.1
+title: Subscribing to cppcast on Windows Phone 8.1
 enablePageComments: false 
 ---
 
