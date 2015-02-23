@@ -5,7 +5,6 @@ guest: John Sonmez
 date: 2015-02-23
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0044.mp3
 guestImage: john-sonmez.jpg
-ignored: true
 ---
 
 ###News
