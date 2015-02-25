@@ -13,15 +13,7 @@ guestImage: john-sonmez.jpg
  - [The Joel Test For Programmers (The Simple Programmer Test)](http://simpleprogrammer.com/2015/02/16/joel-test-programmers-simple-programmer-test/)
  - [Optimize Loading XAML](https://msdn.microsoft.com/en-us/library/windows/apps/hh994641.aspx?utm_content=buffere5ad6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
-###Azure pick of the week
-
- - [Mobile Engagement](http://azure.microsoft.com/en-us/services/mobile-engagement/)
-
-###App of the Week
-
- - [OnStar](http://www.windowsphone.com/s?appid=db6cb7fa-def1-4350-83cd-dad8ec4bd5b4)
-
- ###John Sonmez
+###John Sonmez
 
  - [@jsonmez](https://twitter.com/jsonmez)
  - [simpleprogrammer.com](http://simpleprogrammer.com)
@@ -37,6 +29,14 @@ guestImage: john-sonmez.jpg
  -   [kanbanflow.com](https://kanbanflow.com/)
  -   [Pomodoro Technique](http://en.wikipedia.org/wiki/Pomodoro_Technique)
  -   [My Secret To Ridiculous Productivity. (I’m Using It Now)](http://simpleprogrammer.com/2014/02/17/secret-ridiculous-productivity-im-using-now/)
+
+###Azure pick of the week
+
+ - [Mobile Engagement](http://azure.microsoft.com/en-us/services/mobile-engagement/)
+
+###App of the Week
+
+ - [OnStar](http://www.windowsphone.com/s?appid=db6cb7fa-def1-4350-83cd-dad8ec4bd5b4)
 
 ###Special Offers!
 
