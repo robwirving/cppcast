@@ -23,7 +23,7 @@ cacheable: true
                 </ul>
             </div>
             <div class="footer-nav hosts">
-                <h1><a href="#">Hosts</a></h1>
+                <h1><a href="#">Host</a></h1>
                     <p>Want to know more about the host of cppcast? Follow Rob <a href="http://twitter.com/robwirving" target="_blank">on twitter</a> or his <a href="http://robwirving.com" target="_blank">personal blog</a>.</p>
                 <ul>
                     <li></li>
