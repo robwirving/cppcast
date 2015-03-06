@@ -23,6 +23,7 @@ Jason has been developing portable C++ since 2002. With very few exceptions, eve
  - [EmptyCrate](http://blog.emptycrate.com/)
  
  ##Links
+ 
  - [ChaiScript](http://www.chaiscript.com)
  - [CppBestPractices](http://www.cppbestpractices.com)
  - [Complex Object Initialization Optimization with IIFE in C++11](http://blog2.emptycrate.com/content/complex-object-initialization-optimization-iife-c11)
