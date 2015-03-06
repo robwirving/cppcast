@@ -18,7 +18,7 @@ Jason has been developing portable C++ since 2002. With very few exceptions, eve
  
  ###Jason Turner
 
- - [@_lefticus](https://twitter.com/lefticus)
+ - [@lefticus](https://twitter.com/lefticus)
  - [Github](http://www.github.com/lefticus)
  - [EmptyCrate](http://blog.emptycrate.com/)
  
