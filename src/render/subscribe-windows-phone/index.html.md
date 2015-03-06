@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Subscribing to cppcast on Windows Phone 8.1
+title: Subscribing to CppCast on Windows Phone 8.1
 enablePageComments: false 
 ---
 
@@ -8,9 +8,9 @@ In Windows Phone 8.1, there is now a dedicated podcasting application. This is w
 
 ![Podcast App](podcast-app@2x.jpg)
 
-Launch the podcast app and simply search for **cppcast**. Tap on our podcast.
+Launch the podcast app and simply search for **CppCast**. Tap on our podcast.
 
-![Searching for the cppcast podcast](subscribe-screenshot@2x.jpg)
+![Searching for the CppCast podcast](subscribe-screenshot@2x.jpg)
 
 Tap the **(+)** icon to subscribe.
 

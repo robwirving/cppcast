@@ -15,7 +15,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <%- @getBlock('meta').toHTML() %>
 
-        <link rel="alternate" type="application/rss+xml" title="cppcast" href="https://media.signalleaf.com/CppCast/rss" />
+        <link rel="alternate" type="application/rss+xml" title="CppCast" href="https://media.signalleaf.com/CppCast/rss" />
         <link href="/images/favicon.png?v=2" rel="shortcut icon">
 
         <title><%= @getPreparedTitle() %></title>

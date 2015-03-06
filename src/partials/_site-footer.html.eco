@@ -4,7 +4,7 @@ cacheable: true
 <div id="site-footer-container">
     <footer id="site-footer">
         <section id="footer-colophon">
-            <h1><img src="/images/favicon.png" /> About cppcast</h1>
+            <h1><img src="/images/favicon.png" /> About CppCast</h1>
             <p>The first podcast by C++ developers for C++ developers! Hosted by Rob Irving.</p>
 
             <p>The opinions expressed in this podcast or on this site may not reflect the opinions of our employers.</p>
@@ -14,18 +14,18 @@ cacheable: true
                 <h1><a href="#">Subscribe</a></h1>
                 <p>We're available everywhere! Subscribe through any of these sources:</p>
                 <ul>
-                    <li><a href="/subscribe-windows-phone/" title="Subscribe to cppcast via Windows Phone" target="_blank">Windows Phone</a></li>
-                    <li><a href="https://itunes.apple.com/us/podcast/cppcast/id968703120" title="Subscribe to the cppcast via iTunes" target="_blank">iTunes</a></li>
-                    <li><a href="http://app.stitcher.com/browse/feed/61449/details" title="Subscribe to cppcast via Stitcher" target="_blank">Stitcher</a></li>
-                    <li><a href="http://player.fm/series/cppcast" title="Subscribe to cppcast via PlayerFM" target="_blank">PlayerFM</a></li>
-                    <li><a href="http://tunein.com/radio/cppcast-p685561" title="Subscribe to cppcast via tunein" target="_blank">tunein</a></li>
-                    <li><a href="https://media.signalleaf.com/CppCast/rss" title="Subscribe to cppcast via RSS" target="_blank">RSS</a></li>
+                    <li><a href="/subscribe-windows-phone/" title="Subscribe to CppCast via Windows Phone" target="_blank">Windows Phone</a></li>
+                    <li><a href="https://itunes.apple.com/us/podcast/cppcast/id968703120" title="Subscribe to the CppCast via iTunes" target="_blank">iTunes</a></li>
+                    <li><a href="http://app.stitcher.com/browse/feed/61449/details" title="Subscribe to CppCast via Stitcher" target="_blank">Stitcher</a></li>
+                    <li><a href="http://player.fm/series/cppcast" title="Subscribe to CppCast via PlayerFM" target="_blank">PlayerFM</a></li>
+                    <li><a href="http://tunein.com/radio/cppcast-p685561" title="Subscribe to CppCast via tunein" target="_blank">tunein</a></li>
+                    <li><a href="https://media.signalleaf.com/CppCast/rss" title="Subscribe to CppCast via RSS" target="_blank">RSS</a></li>
                     <li><a href="mailto:feedback@cppcast.com?Subject=New%20Podcast%20aggregator!" title="Send you your favorite podcast aggregator!" target="_top">Tell us your favorite!</a></li>
                 </ul>
             </div>
             <div class="footer-nav hosts">
                 <h1><a href="#">Host</a></h1>
-                    <p>Want to know more about the host of cppcast? Follow Rob <a href="http://twitter.com/robwirving" target="_blank">on twitter</a> or his <a href="http://robwirving.com" target="_blank">personal blog</a>.</p>
+                    <p>Want to know more about the host of CppCast? Follow Rob <a href="http://twitter.com/robwirving" target="_blank">on twitter</a> or his <a href="http://robwirving.com" target="_blank">personal blog</a>.</p>
                 <ul>
                     <li></li>
                     <li></li>
