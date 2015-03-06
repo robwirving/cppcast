@@ -16,13 +16,13 @@ Jason has been developing portable C++ since 2002. With very few exceptions, eve
  - [Four things you probably didn't know about C++](http://cogitolearning.co.uk/?p=1669)
  - [Boost libraries are now supported in biicode](http://blog.biicode.com/dependency-management-boost-libraries/)
  
- ###Jason Turner
+###Jason Turner
 
  - [@lefticus](https://twitter.com/lefticus)
  - [Github](http://www.github.com/lefticus)
  - [EmptyCrate](http://blog.emptycrate.com/)
  
- ##Links
+###Links
  
  - [ChaiScript](http://www.chaiscript.com)
  - [CppBestPractices](http://www.cppbestpractices.com)
