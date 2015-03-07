@@ -5,7 +5,6 @@ guest: Lindsey Garrity
 date: 2015-03-06
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0045.mp3
 guestImage: lindsey-garrity.jpg
-ignored: true
 ---
 
 ###News
