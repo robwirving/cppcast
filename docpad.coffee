@@ -13,10 +13,10 @@ docpadConfig = {
 			url: "http://cppcast.com"
 
 			# The default title of our website
-			title: "cppcast"
+			title: "CppCast"
 
 			# The website author's name
-			author: "cppcast"
+			author: "CppCast"
 
 			# The website author's email
 			email: "rob.irving@gmail.com"
