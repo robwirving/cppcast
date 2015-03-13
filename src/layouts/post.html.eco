@@ -8,7 +8,7 @@ layout: default
     <article class="show-notes">
     <%- @fixLinks(@content, @document.url) %>
 
-	    See a mistake? <a href="https://github.com/ytechie/msdevshow/edit/master/src/documents<%= @document.url %>index.html.md">Edit this post!</a>
+	    See a mistake? <a href="https://github.com/ytechie/msdevshow/edit/master/src/render<%= @document.url %>index.html.md">Edit this post!</a>
 	</article>
     <%- @partial('_post-pagination', {document:@document}) %>
     
