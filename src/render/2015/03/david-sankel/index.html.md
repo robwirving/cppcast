@@ -10,7 +10,7 @@ guestImage: david-sankel.jpg
 
 David Sankel is a professional software developer/architect based in the USA. His prolific software developments have included CAD/CAM, computer graphics, visual programming languages, web applications, computer vision, and cryptography. He is a frequent speaker at the C++Now! conferences and is especially well known for his advanced functional programming in C++ talks.
 
-David’s current research interests include dependently typed languages, semantic domains, EDSLs, and functional reactive programming. He currently works for the software firm, Stellar Science.
+David's current research interests include dependently typed languages, semantic domains, EDSLs, and functional reactive programming. He currently works for the software firm, Stellar Science.
 
 ###News
 
