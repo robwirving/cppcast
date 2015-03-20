@@ -5,7 +5,7 @@ guest: David Sankel
 date: 2015-03-19
 playerUrl: https://media.signalleaf.com/player/CppCast/5508ed75201b510300efd65f/
 audioUrl: http://media.signalleaf.com/CppCast/5508ed75201b510300efd65f/Episode4.output.mp3
-guestImage: david sankel.jpg
+guestImage: david-sankel.jpg
 ---
 
 David Sankel is a professional software developer/architect based in the USA. His prolific software developments have included CAD/CAM, computer graphics, visual programming languages, web applications, computer vision, and cryptography. He is a frequent speaker at the C++Now! conferences and is especially well known for his advanced functional programming in C++ talks.
