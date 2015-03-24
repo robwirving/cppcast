@@ -8,12 +8,12 @@ cacheable: true
     <nav class="sidebar-nav" id="subscribe-nav">
     	<h2>Subscribe!</h2>
     	<ul>
-			<li><a href="https://media.signalleaf.com/CppCast/rss" title="Subscribe to CppCast via RSS" target="_blank">RSS</a></li>
-			<li><a href="http://cppcast.com/subscribe-windows-phone/" title="Subscribe to CppCast via Windows Phone" target="_blank">Windows Phone</a></li>
 			<li><a href="https://itunes.apple.com/us/podcast/cppcast/id968703120" title="Subscribe to CppCast via iTunes" target="_blank">iTunes</a></li>
+			<li><a href="http://cppcast.com/subscribe-windows-phone/" title="Subscribe to CppCast via Windows Phone" target="_blank">Windows Phone</a></li>
 			<li><a href="http://player.fm/series/cppcast" title="Subscribe to CppCast via PlayerFM" target="_blank">PlayerFM</a></li>
-			<li><a href="http://tunein.com/radio/cppcast-p685561" title="Subscribe to CppCast via tunein" target="_blank">tunein</a></li>
 			<li><a href="http://app.stitcher.com/browse/feed/61449/details" title="Subscribe to CppCast via Stitcher" target="_blank">Stitcher</a></li>
+			<li><a href="http://tunein.com/radio/cppcast-p685561" title="Subscribe to CppCast via tunein" target="_blank">tunein</a></li>
+			<li><a href="https://media.signalleaf.com/CppCast/rss" title="Subscribe to CppCast via RSS" target="_blank">RSS</a></li>
     	</ul>
     </nav>
     <nav class="sidebar-nav" id="latest-shows-nav">
