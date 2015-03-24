@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cmake, Git and Functional Programming
+title: CMake, Git and Functional Programming
 guest: David Sankel
 date: 2015-03-19
 playerUrl: https://media.signalleaf.com/player/CppCast/5508ed75201b510300efd65f/
