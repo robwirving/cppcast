@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Fit and Tick
 guest: Paul Fultz II
 date: 2015-04-02
 playerUrl: https://media.signalleaf.com/player/CppCast/551e1103e223d30300da21d1/
