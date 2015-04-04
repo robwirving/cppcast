@@ -16,6 +16,21 @@ cacheable: true
 			<li><a href="https://media.signalleaf.com/CppCast/rss" title="Subscribe to CppCast via RSS" target="_blank">RSS</a></li>
     	</ul>
     </nav>
+    <nav class="sidebar-nav" id="share-nav">
+    	<h2>Share!</h2>
+    	<ul>
+			<li>
+				<a href="http://facebook.com/CppCast/" title="Like CppCast on Facebook" target="_blank">
+					<img src="/images/share-facebook.png" />
+				</a>
+			</li>
+			<li>
+				<a href="https://twitter.com/cppcast" title="Follow @CppCast on Twitter" target="_blank">
+					<img src="/images/share-twitter.png" />
+				</a>
+			</li>
+    	</ul>
+    </nav>
     <nav class="sidebar-nav" id="latest-shows-nav">
         <h2>Latest Guests</h2>
         <ul>
