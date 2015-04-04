@@ -20,13 +20,13 @@ cacheable: true
     	<h2>Share!</h2>
     	<ul>
 			<li>
-				<a href="http://facebook.com/CppCast/" title="Like CppCast on Facebook" target="_blank">
-					<img src="/images/share-facebook.png" />
+				<a href="http://facebook.com/CppCast/" title="Like CppCast on Facebook">
+					<img src="/images/share-facebook.png" title="Like CppCast on Facebook" />
 				</a>
 			</li>
 			<li>
-				<a href="https://twitter.com/cppcast" title="Follow @CppCast on Twitter" target="_blank">
-					<img src="/images/share-twitter.png" />
+				<a href="https://twitter.com/cppcast" title="Follow @CppCast on Twitter">
+					<img src="/images/share-twitter.png" title="Follow @CppCast on Twitter" />
 				</a>
 			</li>
     	</ul>
