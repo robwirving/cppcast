@@ -2,7 +2,7 @@
 layout: default
 ---
 <header id="site-content-header">
-    <h1><img src="/images/favicon.png" /> Show Notes</h1>
+    <h1>Show Notes</h1>
 </header>
 <section id="site-content">
     <article class="show-notes">
