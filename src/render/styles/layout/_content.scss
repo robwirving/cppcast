@@ -113,6 +113,41 @@
 					line-height: 1.4em;
 				}
 			}
+			
+			&#share-nav {
+				ul {
+					@include clearfix();
+					li {
+						@include span-columns(2 of 4);
+						@include omega(2n);
+
+						@include media($non-desktop) {
+							@include span-columns(4 of 4);
+							@include omega();
+						}
+						
+						text-align: center;
+
+						img {
+							width: 100%;
+							height: auto;
+						}
+					}
+				}
+				.view-all {
+					background: $sidebar-nav-header-background;
+					color: $sidebar-header-color;
+					padding: 0.5em;
+					width: 100%;
+					display: block;
+					text-align: center;
+
+					&:hover {
+						background: $sidebar-header-background;
+					}
+				}
+
+			}
 
 			&#latest-shows-nav {
 				ul {
