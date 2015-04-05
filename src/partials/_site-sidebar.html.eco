@@ -17,7 +17,7 @@ cacheable: true
     	</ul>
     </nav>
     <nav class="sidebar-nav" id="share-nav">
-    	<h2>Share!</h2>
+    	<h2>Social</h2>
     	<ul>
 			<li>
 				<a href="http://facebook.com/CppCast/" title="Like CppCast on Facebook">
