@@ -8,7 +8,7 @@ audioUrl: http://media.signalleaf.com/CppCast/5527cea8345f140300b65c00/cppcast-0
 guestImage: vittorio-romeo.jpg
 ---
 
-Vittorio Romeo is an undergraduate Comptuter Science student at "Università degli Studi di Messina".
+Vittorio Romeo is an undergraduate Computer Science student at "Università degli Studi di Messina".
 Since childhood he has always been interested in programming, and learned to develop applications and games as an autodidact.
 After discovering C++ a few years ago, Vittorio became extremely passionate about its evolution and its community.
 He currently works on open-source general-purpose C++14 libraries and develops free open-source games.
