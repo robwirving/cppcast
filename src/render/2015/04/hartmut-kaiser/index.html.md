@@ -23,7 +23,7 @@ Hartmut Kaiser is an Adjunct Professor of Computer Science at Louisiana State Un
 ###Links
 
  - [Asynchronous Computation in C++](https://www.youtube.com/watch?v=5xyztU__yys)
- - [The STE||AR Group](https://http://stellar.cct.lsu.edu/)
+ - [The STE||AR Group](http://stellar.cct.lsu.edu/)
  - [HPX on Github](https://github.com/STEllAR-GROUP/hpx)
 
 
