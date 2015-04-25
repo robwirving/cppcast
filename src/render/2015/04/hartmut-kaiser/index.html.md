@@ -12,7 +12,7 @@ Hartmut Kaiser is an Adjunct Professor of Computer Science at Louisiana State Un
 
 ###News
 
- - [Clion 1.1 roadmap & ACCU 2015](http://blog.jetbrains.com/clion/2015/04/clion-1-1-roadmap-accu-2015/)
+ - [CLion 1.1 roadmap & ACCU 2015](http://blog.jetbrains.com/clion/2015/04/clion-1-1-roadmap-accu-2015/)
  - [Boost 1.58 a short overview](http://meetingcpp.com/index.php/br/items/boost-158-a-short-overview.html)
  - [Module proposal for C++ now at rev 3](http://www.reddit.com/r/cpp/comments/33h5uj/module_proposal_for_c_now_at_revision_3_n4465_pdf/)
  
