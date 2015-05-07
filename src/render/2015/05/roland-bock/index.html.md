@@ -3,8 +3,8 @@ layout: post
 title: SQLpp11
 guest: Roland Bock
 date: 2015-05-07
-playerUrl: 
-audioUrl: 
+playerUrl: https://media.signalleaf.com/player/CppCast/554ae14633b8570300079b49/
+audioUrl: http://media.signalleaf.com/CppCast/554ae14633b8570300079b49/rss/cppcast-010.mp3
 guestImage: roland-bock.png
 ---
 
