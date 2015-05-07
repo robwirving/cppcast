@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Host
+title: About the Hosts
 enablePageComments: false 
 ---
 
