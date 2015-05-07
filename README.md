@@ -2,7 +2,7 @@
 
 [CppCast Podcast](http://cppcast.com) website source. Our website is automatically updated when this repo changes. Fork this project to make a similar site.
 
-The first podcast by C++ developers for C++ developers! Hosted by Rob Irving.
+The first podcast by C++ developers for C++ developers! Hosted by Rob Irving and Jason Turner.
 
 Subscribe to the show using our [RSS Feed](https://media.signalleaf.com/CppCast/rss), or search for "CppCast" in your favorite podcast app.
 

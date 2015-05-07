@@ -5,7 +5,7 @@ cacheable: true
     <footer id="site-footer">
         <section id="footer-colophon">
             <h1>About CppCast</h1>
-            <p>The first podcast by C++ developers for C++ developers! Hosted by <a href="/about/" title="About the host" target="_blank">Rob Irving</a>.</p>
+            <p>The first podcast by C++ developers for C++ developers! Hosted by <a href="/about/" title="About the host" target="_blank">Rob Irving and Jason Turner/a>.</p>
 
             <p>The opinions expressed in this podcast or on this site may not reflect the opinions of our employers.</p>
         </section>
