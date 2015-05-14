@@ -31,5 +31,7 @@ Roland Bock is Head of Development at PPRO Financial Ltd, an FCA regulated e-Mon
 
 ###Sponsors
 
+[![JetBrains](/images/468x60_jetbrains.jpg)](https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp)
+
  - [JetBrains: Listen to this episode for a special offer for JetBrains' C++ tools!](https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp)
  - [CppCon: 2015 Call for Submissions](http://cppcon.org/call-for-submissions-2015/)
