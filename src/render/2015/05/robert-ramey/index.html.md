@@ -14,7 +14,7 @@ Robert Ramey is a freelance Software Developer living in Santa Barbara, Californ
 ###News
 
  - [Boost XP Support](http://www.reddit.com/r/cpp/comments/356vbj/if_you_use_boost_and_have_to_support_windows_xp/)
- - [Breaking changes in Visual C++](https://msdn.microsoft.com/en-us/library/vstudio/bb531344(v=vs.140).aspx)
+ - [Breaking changes in Visual C++](https://msdn.microsoft.com/en-us/library/vstudio/bb531344)
  - [Examples of Best Practices for C++ 11/14 Libraries](https://svn.boost.org/trac/boost/wiki/BestPracticeHandbook)
  
 ###Robert Ramey
