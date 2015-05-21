@@ -19,7 +19,7 @@ Robert Ramey is a freelance Software Developer living in Santa Barbara, Californ
  
 ###Robert Ramey
 
- - [Robert Ramey Software Development](www.rrsd.com)
+ - [Robert Ramey Software Development](http://www.rrsd.com)
 
 ###Links
 
