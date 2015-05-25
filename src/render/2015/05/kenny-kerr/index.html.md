@@ -33,3 +33,5 @@ Kenny Kerr is a computer programmer and recognized expert in Windows operating s
  - [Modern C++ for the Windows Runtime](http://moderncpp.com/)
  - [SQLite with Modern C++ (Free Pluralsight Course)](https://get.pluralsight.com/Free-weekly-Course.html)
  - [Kenny Kerr's Pluralsight courses](http://www.pluralsight.com/author/kenny-kerr)
+
+###Sponsors

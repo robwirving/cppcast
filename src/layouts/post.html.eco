@@ -8,8 +8,6 @@ layout: default
     <article class="show-notes">
     <%- @fixLinks(@content, @document.url) %>
     <% if @document.sponsorImage1: %> 
-        <h3 id="sponsors">Sponsors</h3>
-        <br>
         <a href="<%= @document.sponsorUrl1 %>"><img src="<%= @document.sponsorImage1 %>" /></a>
         <br>
         <a href="<%= @document.sponsorUrl1 %>"><%= @document.sponsorText1 %></a>
