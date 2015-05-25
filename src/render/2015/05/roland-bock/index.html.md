@@ -6,6 +6,9 @@ date: 2015-05-07
 playerUrl: https://media.signalleaf.com/player/CppCast/554ae14633b8570300079b49/
 audioUrl: http://media.signalleaf.com/CppCast/554ae14633b8570300079b49/rss/cppcast-010.mp3
 guestImage: roland-bock.png
+sponsorUrl1: https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp
+sponsorImage1: http://www.cppcast.com/images/468x60_jetbrains.jpg
+sponsorText1: JetBrains: Listen to this episode for a special offer for JetBrains' C++ tools!
 ---
 
 Roland Bock is Head of Development at PPRO Financial Ltd, an FCA regulated e-Money institute offering prepaid MasterCard card programs and comprehensive financial solutions for international electronic payment transactions. Since 2008 he has been using SQL in C++. Being unhappy with the string-based approach of most SQL libraries, he decided to do something about it and developed a type-safe EDSL for SQL in C++: sqlpp11. In his spare time Roland is working on sqlpp11, experimenting with Concepts Lite and trying to write a proposal about compile-time configurable names for C++ standard. He lives and codes in Munich (Germany).

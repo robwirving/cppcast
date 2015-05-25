@@ -7,6 +7,10 @@ layout: default
 <section id="site-content">
     <article class="show-notes">
     <%- @fixLinks(@content, @document.url) %>
+    <% if @document.sponsorImage1: %> 
+        <a href="<%= @document.sponsorUrl1 %>"><img src="<%= @document.sponsorImage1 %>" /></a>
+        <a href="<%= @document.sponsorUrl1 %>"><%= @document.sponsorText11 %></a>
+    <% end %>
 
 	    See a mistake? <a href="https://github.com/robwirving/cppcast/edit/master/src/render<%= @document.url %>index.html.md">Edit this post!</a>
 	</article>
