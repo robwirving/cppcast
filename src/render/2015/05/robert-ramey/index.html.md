@@ -6,6 +6,12 @@ date: 2015-05-13
 playerUrl: https://media.signalleaf.com/player/CppCast/5552bdbfd064fe030021aef7/
 audioUrl: http://media.signalleaf.com/CppCast/5552bdbfd064fe030021aef7/cppcast-011.mp3
 guestImage: robert-ramey.jpg
+sponsorUrl1: https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp
+sponsorImage1: http://www.cppcast.com/images/468x60_jetbrains.jpg
+sponsorText1: Listen to this episode for a special offer for JetBrains' C++ tools!
+sponsorUrl2: http://cppcon.org/call-for-submissions-2015/
+sponsorImage2: http://www.cppcast.com/images/cppcon-logo-2015.png
+sponsorText2: CppCon 2015 Call for Submissions
 ---
 
 Robert Ramey is a freelance Software Developer living in Santa Barbara, California. His long and varied career spans various aspects of software development including business data processing, product, embedded systems, custom software, and C++ library development. Lately, he has been mostly interested in C++ library design and implementation related to Boost.  He is the author and maintainer of the Boost Serialization library and Boost library incubator
@@ -27,6 +33,3 @@ Robert Ramey is a freelance Software Developer living in Santa Barbara, Californ
  - [Boost Library Incubator](http://rrsd.com/blincubator.com/)
 
 ###Sponsors
-
- - [JetBrains: Listen to this episode for a special offer for JetBrains' C++ tools!](https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp)
- - [CppCon: 2015 Call for Submissions](http://cppcon.org/call-for-submissions-2015/)

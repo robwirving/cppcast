@@ -35,3 +35,4 @@ Roland Bock is Head of Development at PPRO Financial Ltd, an FCA regulated e-Mon
  - [Dreaming of Names](http://cpp.eudoxos.de/dreaming-of-names/)
  - [ISO C++ Standard Discusson on Names](https://groups.google.com/a/isocpp.org/forum/#!msg/std-proposals/hYh3hWB0mwg/mDgCErbUXbMJ)
 
+###Sponsors

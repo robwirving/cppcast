@@ -6,6 +6,12 @@ date: 2015-04-22
 playerUrl: https://media.signalleaf.com/player/CppCast/5539adca1c118803008594de/
 audioUrl: http://media.signalleaf.com/CppCast/5539adca1c118803008594de/cppcast-009.mp3
 guestImage: hartmut-kaiser.jpg
+sponsorUrl1: https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp
+sponsorImage1: http://www.cppcast.com/images/468x60_jetbrains.jpg
+sponsorText1: Listen to this episode for a special offer for JetBrains' C++ tools!
+sponsorUrl2: http://cppcon.org/call-for-submissions-2015/
+sponsorImage2: http://www.cppcast.com/images/cppcon-logo-2015.png
+sponsorText2: CppCon 2015 Call for Submissions
 ---
 
 Hartmut Kaiser is an Adjunct Professor of Computer Science at Louisiana State University. At the same time, he holds the position of a senior scientist at the Center for Computation and Technology at LSU. He received his doctorate from the Technical University of Chemnitz (Germany) in 1988. He is probably best known through his involvement in open source software projects, mainly as the author of several C++ libraries he has contributed to Boost, which are in use by thousands of developers worldwide. He is a voting member of the ISO C++ Standards Committee and his current research is focused on leading the STE||AR group at CCT working on the practical design and implementation of the ParalleX execution model and related programming methods. In addition, he architected and developed the core library modules of SAGA for C++, a Simple API for Grid Applications.
@@ -28,6 +34,3 @@ Hartmut Kaiser is an Adjunct Professor of Computer Science at Louisiana State Un
 
 
 ###Sponsors
-
- - [JetBrains: Listen to this episode for a special offer for JetBrains' C++ tools!](https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp)
- - [CppCon: 2015 Call for Submissions](http://cppcon.org/call-for-submissions-2015/)
