@@ -31,5 +31,3 @@ Robert Ramey is a freelance Software Developer living in Santa Barbara, Californ
 
  - [Boost 2.0 session at C++Now!](http://cppnow2015.sched.org/event/d66a14e9cc28cffbf446b1fd2c3f4696)
  - [Boost Library Incubator](http://rrsd.com/blincubator.com/)
-
-###Sponsors
