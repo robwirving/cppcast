@@ -9,16 +9,17 @@ layout: default
     <%- @fixLinks(@content, @document.url) %>
     <% if @document.sponsorImage1: %> 
         <a href="<%= @document.sponsorUrl1 %>"><img src="<%= @document.sponsorImage1 %>" /></a>
-        
+        <br>
         <a href="<%= @document.sponsorUrl1 %>"><%= @document.sponsorText1 %></a>
     <% end %>
     <% if @document.sponsorImage2: %> 
-    
+        <br>
         <a href="<%= @document.sponsorUrl2 %>"><img src="<%= @document.sponsorImage2 %>" /></a>
-        
+        <br>
         <a href="<%= @document.sponsorUrl2 %>"><%= @document.sponsorText2 %></a>
     <% end %>
-
+        <br>
+        <br>
 	    See a mistake? <a href="https://github.com/robwirving/cppcast/edit/master/src/render<%= @document.url %>index.html.md">Edit this post!</a>
 	</article>
     <%- @partial('_post-pagination', {document:@document}) %>
