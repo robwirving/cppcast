@@ -8,7 +8,10 @@ audioUrl: http://media.signalleaf.com/CppCast/554ae14633b8570300079b49/rss/cppca
 guestImage: roland-bock.png
 sponsorUrl1: https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp
 sponsorImage1: http://www.cppcast.com/images/468x60_jetbrains.jpg
-sponsorText1: JetBrains: Listen to this episode for a special offer for JetBrains' C++ tools!
+sponsorText1: Listen to this episode for a special offer for JetBrains' C++ tools!
+sponsorUrl2: http://cppcon.org/call-for-submissions-2015/
+sponsorImage2: http://www.cppcast.com/images/cppcon-logo-2015.png
+sponsorText2: CppCon 2015 Call for Submissions
 ---
 
 Roland Bock is Head of Development at PPRO Financial Ltd, an FCA regulated e-Money institute offering prepaid MasterCard card programs and comprehensive financial solutions for international electronic payment transactions. Since 2008 he has been using SQL in C++. Being unhappy with the string-based approach of most SQL libraries, he decided to do something about it and developed a type-safe EDSL for SQL in C++: sqlpp11. In his spare time Roland is working on sqlpp11, experimenting with Concepts Lite and trying to write a proposal about compile-time configurable names for C++ standard. He lives and codes in Munich (Germany).
@@ -32,7 +35,3 @@ Roland Bock is Head of Development at PPRO Financial Ltd, an FCA regulated e-Mon
  - [Dreaming of Names](http://cpp.eudoxos.de/dreaming-of-names/)
  - [ISO C++ Standard Discusson on Names](https://groups.google.com/a/isocpp.org/forum/#!msg/std-proposals/hYh3hWB0mwg/mDgCErbUXbMJ)
 
-###Sponsors
-
- - [JetBrains: Listen to this episode for a special offer for JetBrains' C++ tools!](https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp)
- - [CppCon: 2015 Call for Submissions](http://cppcon.org/call-for-submissions-2015/)
