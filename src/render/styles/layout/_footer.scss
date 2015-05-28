@@ -56,6 +56,11 @@
                     color: $cppcast-teal;
                 }
             }
+            p, li {
+                a {
+                    color: $cppcast-purple-light
+                }
+            }
             @include media($mobile) {
                 display: none;
 
@@ -64,9 +69,6 @@
 
                     h1, p, li {
                         text-align: center;
-                        a {
-                            color: $cppcast-purple-light
-                        }
                     }
                 }
             }
