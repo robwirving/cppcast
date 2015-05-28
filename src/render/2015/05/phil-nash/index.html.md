@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Testdriven C++ with Catch
+title: Testdriven C++ using Catch
 guest: Phil Nash
 date: 2015-05-27
 playerUrl: https://media.signalleaf.com/player/CppCast/55668442b320cc03008e9ee0/
