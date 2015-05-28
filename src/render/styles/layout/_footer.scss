@@ -64,6 +64,9 @@
 
                     h1, p, li {
                         text-align: center;
+                        a {
+                            color: $cppcast-purple-light
+                        }
                     }
                 }
             }
