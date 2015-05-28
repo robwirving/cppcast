@@ -9,9 +9,9 @@ guestImage: phil-nash.jpg
 sponsorUrl1: https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp
 sponsorImage1: http://www.cppcast.com/images/468x60_jetbrains.jpg
 sponsorText1: Listen to this episode for a special offer for JetBrains' C++ tools!
-sponsorUrl2: http://cppcon.org/call-for-submissions-2015/
+sponsorUrl2: http://cppcon.org/2015registration/
 sponsorImage2: http://www.cppcast.com/images/cppcon-logo-2015.png
-sponsorText2: CppCon 2015 Call for Submissions
+sponsorText2: CppCon 2015 Early Bird Registration
 ---
 
 Phil is a semi-independent software developer, coach and consultant - working in as diverse fields as finance, agile coaching and iOS development. A long time C++ developer he also has his feet in C#, F#, Objective-C and Swift - as well as dabbling in other languages. He is the author of several open source projects - most notably Catch: a C++-native test framework.
