@@ -5,6 +5,30 @@ cacheable: true
     <header>
         <h1>Dev Bar</h1>
     </header>
+    <nav class="sidebar-nav" id="latest-shows-nav">
+        <h2>Latest Guests</h2>
+        <ul>
+<% for guestDocument in @getCollection('guests').toJSON()[0..5]:%>
+			    <li>
+			        <a href="<%= guestDocument.url %>" title="<%= guestDocument.title %> with <%= guestDocument.guest %>">
+			            <img src="<%= guestDocument.url + guestDocument.guestImage %>" title="<%= guestDocument.title %> with <%= guestDocument.guest %>" />
+			            <%= guestDocument.guest %>
+			        </a>
+			    </li>
+<% end %>
+		</ul>
+        <a href="/archives/" class="view-all">View All Episodes</a>
+    </nav>
+	<nav class="sidebar-nav" id="sponsor-nav">
+    	<h2>Sponsors</h2>
+    	<ul>
+			<li>
+				<a href="https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp" title="JetBrains">
+					<img src="/images/600x500_jetbrains.jpg" title="JetBrains" />
+				</a>
+			</li>
+		</ul>
+	</nav>
     <nav class="sidebar-nav" id="subscribe-nav">
     	<h2>Subscribe!</h2>
     	<ul>
@@ -30,19 +54,5 @@ cacheable: true
 				</a>
 			</li>
     	</ul>
-    </nav>
-    <nav class="sidebar-nav" id="latest-shows-nav">
-        <h2>Latest Guests</h2>
-        <ul>
-<% for guestDocument in @getCollection('guests').toJSON()[0..5]:%>
-			    <li>
-			        <a href="<%= guestDocument.url %>" title="<%= guestDocument.title %> with <%= guestDocument.guest %>">
-			            <img src="<%= guestDocument.url + guestDocument.guestImage %>" title="<%= guestDocument.title %> with <%= guestDocument.guest %>" />
-			            <%= guestDocument.guest %>
-			        </a>
-			    </li>
-<% end %>
-		</ul>
-        <a href="/archives/" class="view-all">View All Episodes</a>
     </nav>
 </aside>
