@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Better Code Currency
+title: Better Code Concurrency
 guest: Sean Parent
 date: 2015-06-01
 playerUrl: https://media.signalleaf.com/player/CppCast/556e5a2b5c90ff0300e65fa6/
