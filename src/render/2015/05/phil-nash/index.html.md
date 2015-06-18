@@ -3,7 +3,6 @@ layout: post
 title: Testdriven C++ using Catch
 guest: Phil Nash
 date: 2015-05-27
-playerUrl: https://media.signalleaf.com/player/CppCast/55668442b320cc03008e9ee0/
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-13.mp3
 guestImage: phil-nash.jpg
 sponsorUrl1: https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp

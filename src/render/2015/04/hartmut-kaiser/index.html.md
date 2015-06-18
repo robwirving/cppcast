@@ -3,7 +3,6 @@ layout: post
 title: Asynchronous Programming
 guest: Hartmut Kaiser
 date: 2015-04-22
-playerUrl: https://media.signalleaf.com/player/CppCast/5539adca1c118803008594de/
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-009.mp3
 guestImage: hartmut-kaiser.jpg
 sponsorUrl1: https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp

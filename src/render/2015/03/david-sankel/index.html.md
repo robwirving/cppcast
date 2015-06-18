@@ -3,7 +3,6 @@ layout: post
 title: CMake, Git and Functional Programming
 guest: David Sankel
 date: 2015-03-19
-playerUrl: https://media.signalleaf.com/player/CppCast/5508ed75201b510300efd65f/
 audioUrl: http://traffic.libsyn.com/cppcast/Episode4.output.mp3
 guestImage: david-sankel.jpg
 ---

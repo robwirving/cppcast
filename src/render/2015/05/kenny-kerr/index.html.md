@@ -3,7 +3,6 @@ layout: post
 title: Modern C++ for the Windows Runtime
 guest: Kenny Kerr
 date: 2015-05-20
-playerUrl: https://media.signalleaf.com/player/CppCast/555d59fc509a97030026eda7/
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-012.mp3
 guestImage: kenny-kerr.jpg
 sponsorUrl1: https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp

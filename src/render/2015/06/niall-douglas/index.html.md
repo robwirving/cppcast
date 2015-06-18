@@ -3,7 +3,6 @@ layout: post
 title: C++11/14 Library Best Practices
 guest: Niall Douglas
 date: 2015-06-10
-playerUrl: https://media.signalleaf.com/player/CppCast/5578f6531b95b70300153956/
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-015.mp3
 guestImage: niall-douglas.jpg
 ---

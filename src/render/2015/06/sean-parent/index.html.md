@@ -3,7 +3,6 @@ layout: post
 title: Better Code Concurrency
 guest: Sean Parent
 date: 2015-06-01
-playerUrl: https://media.signalleaf.com/player/CppCast/556e5a2b5c90ff0300e65fa6/
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-014.mp3
 guestImage: sean-parent.jpg
 sponsorUrl1: https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp
