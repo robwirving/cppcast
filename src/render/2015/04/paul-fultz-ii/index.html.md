@@ -4,7 +4,7 @@ title: Fit and Tick
 guest: Paul Fultz II
 date: 2015-04-02
 playerUrl: https://media.signalleaf.com/player/CppCast/551e1103e223d30300da21d1/
-audioUrl: http://media.signalleaf.com/CppCast/551e1103e223d30300da21d1/Episode6.output.mp3
+audioUrl: http://traffic.libsyn.com/cppcast/Episode6.output.mp3
 guestImage: paul-fultz-ii.jpg
 ---
 

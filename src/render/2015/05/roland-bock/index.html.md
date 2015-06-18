@@ -4,7 +4,7 @@ title: SQLpp11
 guest: Roland Bock
 date: 2015-05-07
 playerUrl: https://media.signalleaf.com/player/CppCast/554ae14633b8570300079b49/
-audioUrl: http://media.signalleaf.com/CppCast/554ae14633b8570300079b49/rss/cppcast-010.mp3
+audioUrl: http://traffic.libsyn.com/cppcast/cppcast-010.mp3
 guestImage: roland-bock.png
 sponsorUrl1: https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp
 sponsorImage1: http://www.cppcast.com/images/468x60_jetbrains.jpg

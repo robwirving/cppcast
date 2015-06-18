@@ -4,7 +4,7 @@ title: Quick Game Development
 guest: Vittorio Romeo
 date: 2015-04-10
 playerUrl: https://media.signalleaf.com/player/CppCast/5527cea8345f140300b65c00/
-audioUrl: http://media.signalleaf.com/CppCast/5527cea8345f140300b65c00/cppcast-007.mp3
+audioUrl: http://traffic.libsyn.com/cppcast/cppcast-007.mp3
 guestImage: vittorio-romeo.jpg
 ---
 

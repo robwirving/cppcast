@@ -4,7 +4,7 @@ title: Exploring CLion
 guest: Anastasia Kazakova
 date: 2015-03-25
 playerUrl: https://media.signalleaf.com/player/CppCast/5514be3d298277030089d96d/
-audioUrl: http://media.signalleaf.com/CppCast/5514be3d298277030089d96d/Episode5.output.mp3
+audioUrl: http://traffic.libsyn.com/cppcast/Episode5.output.mp3
 guestImage: anastasia-kazakova.png
 ---
 

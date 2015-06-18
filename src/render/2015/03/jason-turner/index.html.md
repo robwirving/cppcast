@@ -4,7 +4,7 @@ title: ChaiScript and Cross Platform C++
 guest: Jason Turner
 date: 2015-03-05
 playerUrl: https://media.signalleaf.com/player/CppCast/54f92a58cb848c030076e8ab/
-audioUrl: http://media.signalleaf.com/CppCast/54f92a58cb848c030076e8ab/Episode2.final.mp3
+audioUrl: http://traffic.libsyn.com/cppcast/Episode2.final.mp3
 guestImage: jason-turner.jpg
 ---
 

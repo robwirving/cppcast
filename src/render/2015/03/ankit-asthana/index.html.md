@@ -4,7 +4,7 @@ title: Cross Platform Mobile C++ in Visual Studio
 guest: Ankit Asthana
 date: 2015-03-12
 playerUrl: https://media.signalleaf.com/player/CppCast/5502414103c0ac0300d6cc9f/
-audioUrl: http://media.signalleaf.com/CppCast/5502414103c0ac0300d6cc9f/Episode3.final.mp3
+audioUrl: http://traffic.libsyn.com/cppcast/Episode3.final.mp3
 guestImage: ankit-asthana.jpg
 ---
 

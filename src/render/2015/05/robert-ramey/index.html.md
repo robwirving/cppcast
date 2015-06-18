@@ -4,7 +4,7 @@ title: Boost 2.0
 guest: Robert Ramey
 date: 2015-05-13
 playerUrl: https://media.signalleaf.com/player/CppCast/5552bdbfd064fe030021aef7/
-audioUrl: http://media.signalleaf.com/CppCast/5552bdbfd064fe030021aef7/cppcast-011.mp3
+audioUrl: http://traffic.libsyn.com/cppcast/cppcast-011.mp3
 guestImage: robert-ramey.jpg
 sponsorUrl1: https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp
 sponsorImage1: http://www.cppcast.com/images/468x60_jetbrains.jpg

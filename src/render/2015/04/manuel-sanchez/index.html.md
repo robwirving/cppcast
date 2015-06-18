@@ -4,7 +4,7 @@ title: Biicode and Turbo
 guest: Manuel Sanchez
 date: 2015-04-15
 playerUrl: https://media.signalleaf.com/player/CppCast/552f3399ab69500300dff1a2/
-audioUrl: http://media.signalleaf.com/CppCast/552f3399ab69500300dff1a2/cppcast-008.mp3
+audioUrl: http://traffic.libsyn.com/cppcast/cppcast-008.mp3
 guestImage: manuel-sanchez.jpg
 ---
 
