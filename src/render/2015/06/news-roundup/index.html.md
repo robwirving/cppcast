@@ -21,5 +21,3 @@ audioUrl: http://traffic.libsyn.com/cppcast/cppcast-016.mp3
 
  - [@robwirving](https://twitter.com/robwirving)
  - [@lefticus](https://twitter.com/lefticus)
-
-
