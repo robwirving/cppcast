@@ -25,4 +25,4 @@ Alex holds two undergraduate degrees in mechanical engineering from Faculty of E
 
  - [POCO Project](http://pocoproject.org/)
  - [POCO on Github](https://github.com/pocoproject/)
- - [Macchina.io](http://maccchina.io/)
+ - [Macchina.io](http://macchina.io/)
