@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Web Assembly
+title: WebAssembly
 guest: JF Bastien
 date: 2015-07-09
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-019.mp3
