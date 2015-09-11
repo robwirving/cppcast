@@ -4,7 +4,7 @@ title: Effective C++
 guest: Scott Meyers
 date: 2015-09-09
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-026.mp3
-guestImage: scott-meyers.png
+guestImage: scott-meyers.jpg
 ---
 
 Scott Meyers has been working with C++ since 1988. He’s the author of Effective C++, More Effective C++, Effective STL, and his most recent book, Effective Modern C++. For 25 years, he’s delivered C++ training to clients worldwide. He once lectured about C++ on a brass-railed nightclub stage while the audience sat at cocktail tables.
