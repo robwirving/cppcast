@@ -23,5 +23,5 @@ Brett Hall is the lead engineer on Dynamics, a desktop application that collects
 ###Links
 
  - [CppCon 2015 - Transactional Memory in Practice](http://cppcon2015.sched.org/event/33bbfba45095ebc5cb8d7ee5ad2a612c#.VekD4fZVhBc)
- - [CppCon 2014 - Software Transaction Memory, For REals](https://youtu.be/plQOu_LsKHE)
+ - [CppCon 2014 - Software Transaction Memory, For Reals](https://youtu.be/plQOu_LsKHE)
  - [ISO C++ Paper - Industrial Experience with Transactional Memory at Wyatt Technology](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4438.pdf)
