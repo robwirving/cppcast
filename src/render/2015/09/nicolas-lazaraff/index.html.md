@@ -1,10 +1,10 @@
 ---
 layout: post
 title: VR Development
-guest: Nicolas Lazaraff
+guest: Nicolas Lazareff
 date: 2015-09-16
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-027.mp3
-guestImage: nicolas-lazaraff.jpg
+guestImage: nicolas-lazareff.jpg
 ---
 
 Nick is a VR/AR engineer who is passionate about bridging the interface between computers and humans. Currently he's VP of Software Development at OTOY focusing on VR and AR ("mixed/digital reality"). He was a cofounder of everyAir, a pioneering P2P game streaming application which was later acquired. Before that he worked at Microsoft on Office 2010 and 2013.
@@ -14,7 +14,7 @@ Nick is a VR/AR engineer who is passionate about bridging the interface between 
  - [Stack, Heap, Pool](http://bulldozer00.com/2015/09/14/stack-heap-pool/)
  - [Dependency Injection in C++ using Variadic Templates](http://gpfault.net/posts/dependency-injection-cpp.txt.html)
  
-###Nicolas Lazaraff
+###Nicolas Lazareff
 
  - [nzff.net](http://www.nzff.net/)
 
