@@ -8,7 +8,7 @@ guestImage: joel-falcou.jpg
 ---
 
 Joel Falcou is an assistant professor in France where he works on torturing compilers to get the best performance out of modern hardware. 
-He's an active member of the Boost community and CEO of NumScale, a start-up aligned with parallel processing tools.
+He's an active member of the Boost community and CTO of NumScale, a start-up aligned with parallel processing tools.
 
 ###News
 
