@@ -27,6 +27,7 @@ Kate runs a small consulting firm in rural Ontario and provides mentoring and ma
 
 ###Links
 
+ - [CppCon 2015: Kate Gregory "Stop Teaching C"](https://www.youtube.com/watch?v=YnWhqhNdYyk)
  - [CppCon 2015: Kate Gregory "Stop Teaching C" (Slides)](https://github.com/CppCon/CppCon2015/tree/master/Presentations/Stop%20Teaching%20C)
  - [CppCon 2014: James McNellis & Kate Gregory "Modernizing Legacy C++ Code"](https://www.youtube.com/watch?v=LDxAgMe6D18)
  - [CppCon 2014: James McNellis & Kate Gregory "Making C++ Code Beautiful"](https://www.youtube.com/watch?v=BiYliKliFvs)
