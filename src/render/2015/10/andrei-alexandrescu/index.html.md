@@ -18,7 +18,7 @@ Andrei Alexandrescu coined the colloquial term "modern C++" (adapted from his aw
 ###Andrei Alexandrescu
 
  - [@incomputable](https://twitter.com/incomputable)
- - [Andrei Alexandrescu's Blog](http://erdani.com/)
+ - [Andrei Alexandrescu's Website](http://erdani.com/)
  - [Andrei Alexandrescu's books on Amazon](http://amzn.to/1GLaBax)
 
 ###Links
