@@ -22,9 +22,14 @@ cacheable: true
 	<nav class="sidebar-nav" id="sponsor-nav">
     	<h2>Sponsors</h2>
     	<ul>
-			<li>
+			<!--<li>
 				<a href="https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp" title="JetBrains">
 					<img src="/images/600x500_jetbrains.jpg" title="JetBrains" />
+				</a>
+			</li>-->			
+			<li>
+				<a href="http://undo-software.com/undodb/" title="Undo Software">
+					<img src="/images/Undo_220x250.jpg" title="Undo Software" />
 				</a>
 			</li>
 			<li>
