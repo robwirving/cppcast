@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNum: 23
 title: Game Dev and Low Latency
 guest: Nicolas Guillemot
 date: 2015-08-19

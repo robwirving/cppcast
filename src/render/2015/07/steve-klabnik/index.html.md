@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNum: 20
 title: Rust
 guest: Steve Klabnik
 date: 2015-07-23

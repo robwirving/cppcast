@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNum: 8
 title: Biicode and Turbo
 guest: Manuel Sanchez
 date: 2015-04-15

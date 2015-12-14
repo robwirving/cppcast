@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNum: 21
 title: VS2015 and the Universal CRT
 guest: James McNellis
 date: 2015-08-03

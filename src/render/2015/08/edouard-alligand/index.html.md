@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNum: 24
 title: Real World Template Metaprogamming
 guest: Edouard Alligand
 date: 2015-08-26

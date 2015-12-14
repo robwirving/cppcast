@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNum: 27
 title: VR Development
 guest: Nicolas Lazareff
 date: 2015-09-16

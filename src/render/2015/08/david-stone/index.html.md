@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNum: 22
 title: Bounded Integers
 guest: David Stone
 date: 2015-08-10

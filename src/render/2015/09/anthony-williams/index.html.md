@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNum: 28
 title: C++ Concurrency
 guest: Anthony Williams
 date: 2015-09-29

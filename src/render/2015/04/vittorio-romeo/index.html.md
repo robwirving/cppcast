@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNum: 7
 title: Quick Game Development
 guest: Vittorio Romeo
 date: 2015-04-10

@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNum: 5
 title: Exploring CLion
 guest: Anastasia Kazakova
 date: 2015-03-25

@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNum: 3
 title: Cross Platform Mobile C++ in Visual Studio
 guest: Ankit Asthana
 date: 2015-03-12

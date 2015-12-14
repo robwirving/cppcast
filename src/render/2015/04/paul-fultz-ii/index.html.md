@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNum: 6
 title: Fit and Tick
 guest: Paul Fultz II
 date: 2015-04-02

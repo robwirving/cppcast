@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNum: 26
 title: Effective C++
 guest: Scott Meyers
 date: 2015-09-09

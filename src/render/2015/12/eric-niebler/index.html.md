@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNum: 37
 title: Ranges
 guest: Eric Niebler
 date: 2015-12-08

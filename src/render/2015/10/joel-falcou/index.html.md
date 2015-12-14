@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNum: 29
 title: Expression Templates
 guest: Joel Falcou
 date: 2015-10-05

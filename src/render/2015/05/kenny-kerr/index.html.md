@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNum: 12
 title: Modern C++ for the Windows Runtime
 guest: Kenny Kerr
 date: 2015-05-20

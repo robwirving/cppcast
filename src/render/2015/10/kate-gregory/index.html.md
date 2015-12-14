@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNum: 30
 title: Stop Teaching C (When Teaching C++)
 guest: Kate Gregory
 date: 2015-10-14

@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNum: 10
 title: SQLpp11
 guest: Roland Bock
 date: 2015-05-07

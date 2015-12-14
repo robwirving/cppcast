@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNum: 4
 title: CMake, Git and Functional Programming
 guest: David Sankel
 date: 2015-03-19

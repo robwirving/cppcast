@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNum: 25
 title: Software Transactional Memory
 guest: Brett Hall
 date: 2015-09-02

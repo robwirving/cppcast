@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNum: 19
 title: WebAssembly
 guest: JF Bastien
 date: 2015-07-09

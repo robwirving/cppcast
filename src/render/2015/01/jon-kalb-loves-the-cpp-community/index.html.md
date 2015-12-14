@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNum: 1
 title: Jon Kalb loves the C++ Community
 guest: Jon Kalb
 date: 2015-02-17

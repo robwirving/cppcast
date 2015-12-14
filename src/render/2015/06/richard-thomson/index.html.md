@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNum: 17
 title: Exercism.io and Refactoring
 guest: Richard Thomson
 date: 2015-06-24

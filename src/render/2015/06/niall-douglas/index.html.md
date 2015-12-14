@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNum: 15
 title: C++11/14 Library Best Practices
 guest: Niall Douglas
 date: 2015-06-10

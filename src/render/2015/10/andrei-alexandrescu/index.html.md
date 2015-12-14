@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNum: 32
 title: D
 guest: Andrei Alexandrescu
 date: 2015-10-27

@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNum: 16
 title: News Roundup
 date: 2015-06-17
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-016.mp3

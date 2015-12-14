@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNum: 2
 title: ChaiScript and Cross Platform C++
 guest: Jason Turner
 date: 2015-03-05
