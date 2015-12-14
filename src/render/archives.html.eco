@@ -27,7 +27,7 @@ menuOrder: 1
         <div class="abstract-date"><%= date.format("MMM D") %></div>
         <div class="abstract-title">
             <a href="<%= document.url %>">
-                Episode <%= document.episodeNo %>: <%= document.title %>
+                Episode <%= document.episodeNum %>: <%= document.title %>
                 <% if document.guest: %> 
                     <br /><em>with <%= document.guest %></em>
                 <% end %>
