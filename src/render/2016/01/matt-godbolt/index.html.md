@@ -1,7 +1,7 @@
 ---
 layout: post
 episodeNum: 43
-title: Compiler Explorer with Matt Godbolt
+title: Compiler Explorer
 guest: Matt Godbolt
 date: 2016-01-28
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-043.mp3
