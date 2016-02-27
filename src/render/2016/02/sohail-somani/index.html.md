@@ -19,12 +19,8 @@ Otherwise, Sohail is a full-time, work-at-home dad of 2 since 2007. He enjoys pl
  - [Khronos Releases Vulkan 1.0 Specification](https://www.reddit.com/r/cpp/comments/462mau/khronos_releases_vulkan_10_specification/)
  - [Experimental Boost Dependency Injection](http://boost-experimental.github.io/di/)
  - [A bit of background for the operator dot proposal](https://isocpp.org/blog/2016/02/a-bit-of-background-for-the-operator-dot-proposal-bjarne-stroustrup)
- 
-###Paul Miller
-
- - [Sohail Somani](https://www.linkedin.com/in/sohail-somani-a1a7571)
 
 ###Links
-
+ - [Sohail Somani](http://uint32t.blogspot.com)
  - [Worklog Assistant](https://worklogassistant.com/)
  - [Degreed](https://degreed.com/)
