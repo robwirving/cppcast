@@ -1,7 +1,7 @@
 ---
 layout: post
 episodeNum: 50
-title: Stream Processing with Jonathan Beard
+title: Stream Processing
 guest: Jonathan Beard
 date: 2016-03-24
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-050.mp3
