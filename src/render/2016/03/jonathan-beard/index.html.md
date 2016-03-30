@@ -12,6 +12,7 @@ Jonathan Beard received a BS (Biology) and BA (International Studies) in 2005 fr
 
 ###News
 
+ - [C++ Weekly](https://www.youtube.com/playlist?list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1)
  - [Clion 2016.1](http://blog.jetbrains.com/clion/2016/03/clion-2016-1-released-better-language-support-and-new-dev-tools/#more-1960)
  - [Q & A: Bjarne Stroustrup previews C+17](http://www.infoworld.com/article/3044727/application-development/qa-bjarne-stroustrup-previews-c-17.html)
  - [Sub-processing with Modern C++](http://templated-thoughts.blogspot.com/2016/03/sub-processing-with-modern-c.html)
