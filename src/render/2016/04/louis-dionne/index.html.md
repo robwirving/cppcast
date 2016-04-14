@@ -22,6 +22,7 @@ and recently wrote the Boost.Hana metaprogramming library.
 ###Louis Dionne
 
  - [Louis Dionne's Blog](http://ldionne.com/)
+ - [@louisdionne](https://twitter.com/louisdionne)
 
 ###Links
 
