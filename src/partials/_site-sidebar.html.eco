@@ -22,16 +22,16 @@ cacheable: true
 	<nav class="sidebar-nav" id="sponsor-nav">
     	<h2>Sponsors</h2>
     	<ul>
-			<!--<li>
-				<a href="https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp" title="JetBrains">
-					<img src="/images/600x500_jetbrains.jpg" title="JetBrains" />
-				</a>
-			</li>-->			
 			<li>
+				<a href="https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp" title="JetBrains">
+					<img src="/images/jetbrains_600x500.png" title="JetBrains" align="middle" />
+				</a>
+			</li>	
+			<!--<li>
 				<a href="http://undo-software.com/undodb/" title="Undo Software">
 					<img src="/images/Undo_220x250.jpg" title="Undo Software" align="middle" />
 				</a>
-			</li>
+			</li>-->
 			<li>
 				<a href="http://www.cppcon.org" title="CppCon">
 					<img src="/images/cppcon-logo-2015.png" title="CppCon" />
