@@ -28,8 +28,8 @@ cacheable: true
                 <h1><a href="#">Host</a></h1>
                 <p>Want to know more about the hosts of CppCast? Follow <a href="http://twitter.com/robwirving" target="_blank">Rob</a> and <a href="http://twitter.com/lefticus" target="_blank">Jason</a> on twitter or check out their personal blogs:</p>
                 <ul>
-                    <li><a href="http://robwirving.com" target="_blank">http://robwirving.com</a></li>
-                    <li><a href="http://emptycrate.com/" target="_blank">http://emptycrate.com/</a></li>
+                    <li><a href="http://robwirving.com" target="_blank">robwirving.com</a></li>
+                    <li><a href="http://emptycrate.com/" target="_blank">EmptyCrate</a></li>
                 </ul>
             </div>
             <div class="footer-nav guests">
