@@ -26,10 +26,10 @@ cacheable: true
             </div>
             <div class="footer-nav hosts">
                 <h1><a href="#">Host</a></h1>
-                    <p>Want to know more about the host of CppCast? Follow Rob <a href="http://twitter.com/robwirving" target="_blank">on twitter</a> or his <a href="http://robwirving.com" target="_blank">personal blog</a>.</p>
+                <p>Want to know more about the hosts of CppCast? Follow <a href="http://twitter.com/robwirving" target="_blank">Rob</a> and <a href="http://twitter.com/lefticus" target="_blank">Jason</a> on twitter or check out their personal blogs:</p>
                 <ul>
-                    <li></li>
-                    <li></li>
+                    <li><a href="http://robwirving.com" target="_blank">http://robwirving.com</a></li>
+                    <li><a href="http://emptycrate.com/" target="_blank">http://emptycrate.com/</a></li>
                 </ul>
             </div>
             <div class="footer-nav guests">
