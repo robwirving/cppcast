@@ -38,7 +38,8 @@ cacheable: true
             </div>
             <div class="footer-nav sponsors">
                 <h1><a href="#">Sponsors</a></h1>
-                <p>We're in the beginning phases of sponsorship. If you or your company are interested, <a href="mailto:feedback@cppcast.com?Subject=Sponsorship" title="Interested in Sponsoring us? Click here!" target="_top">reach out to us!</a></p>
+                <p>Check out <a href="https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp" title="JetBrains">JetBrains</a> maker of excellent C++ developer tools including CLion, ReSharper for C++ and AppCode!</p>
+                <!--<p>We're in the beginning phases of sponsorship. If you or your company are interested, <a href="mailto:feedback@cppcast.com?Subject=Sponsorship" title="Interested in Sponsoring us? Click here!" target="_top">reach out to us!</a></p>-->
             </div>
         </nav>
     </footer>
