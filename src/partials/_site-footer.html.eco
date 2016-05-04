@@ -14,7 +14,8 @@ cacheable: true
                 <h1><a href="#">Subscribe</a></h1>
                 <p>We're available everywhere! Subscribe through any of these sources:</p>
                 <ul>
-                    <li><a href="https://itunes.apple.com/us/podcast/cppcast/id968703120" title="Subscribe to the CppCast via iTunes" target="_blank">iTunes</a></li>
+                    <li><a href="https://itunes.apple.com/us/podcast/cppcast/id968703120" title="Subscribe to CppCast via iTunes" target="_blank">iTunes</a></li>
+                    <li><a href="https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Ifdjr2ulzttywphhhlj6hqezjou?t%3DCppCast" title="Subscribe to CppCast via Google Play" target="_blank">Google Play</a></li>
                     <li><a href="/subscribe-windows-phone/" title="Subscribe to CppCast via Windows Phone" target="_blank">Windows Phone</a></li>
                     <li><a href="http://player.fm/series/cppcast" title="Subscribe to CppCast via PlayerFM" target="_blank">PlayerFM</a></li>
                     <li><a href="http://app.stitcher.com/browse/feed/61449/details" title="Subscribe to CppCast via Stitcher" target="_blank">Stitcher</a></li>
