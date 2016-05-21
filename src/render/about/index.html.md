@@ -8,7 +8,7 @@ enablePageComments: false
 
 ###Rob Irving
 
-Rob Irving is a Senior Software Engineer and Development Team Lead with [ALK Technologies](http://www.alk.com) in Princeton, NJ. He is a polyglot with experience in C#, Objective-C, Java and Ruby but the majority of his time and expertise is in C++. He has a passion for mobile development and enjoys teaching and speaking on Windows Phone, often focusing on Windows Phone development with C++.
+Rob Irving is a Senior Software Engineer and Development Team Lead with [PAR Government](http://www.pargovernment.com/) in Cary, NC. He is a polyglot with experience in C#, Objective-C, Java and Ruby but the majority of his time and expertise is in C++. He started the CppCast podcast in February 2015, frustrated by the lack of podcast content for C++ development.
 
 A believer in continuous education, he loves learning about new technologies, often through podcasts!
 
