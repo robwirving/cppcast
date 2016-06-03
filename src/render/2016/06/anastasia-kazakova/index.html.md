@@ -3,7 +3,7 @@ layout: post
 episodeNum: 58
 title: CLion
 guest: Anastasia Kazakova
-date: 2015-06-01
+date: 2016-06-01
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-058.mp3
 guestImage: anastasia-kazakova.png
 ---
