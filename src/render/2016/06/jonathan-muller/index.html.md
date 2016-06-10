@@ -1,11 +1,11 @@
 ---
 layout: post
 episodeNum: 59
-title: CLion
+title: foonathan/memory and standardese
 guest: Jonathan Müller
 date: 2016-06-08
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-059.mp3
-guestImage: foonathan.png
+guestImage: foonathan.jpg
 ---
 
 Jonathan is a CS student passionate about C++.
