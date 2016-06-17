@@ -19,7 +19,7 @@ In his role at Microsoft Andrew pays attention to pretty much everything without
  - [Standardese documentation generator version 0.1](https://foonathan.github.io/blog/2016/06/09/standardese-01.html)
  - [Awesome C++: Curated list of awesome C/C++ frameworks, libraries and resources](https://cpp.libhunt.com/)
  
-###Jonathan Müller
+###Andrew Pardoe
 
  - [@apardoe](https://twitter.com/apardoe)
  
