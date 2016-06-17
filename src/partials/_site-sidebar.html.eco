@@ -23,10 +23,15 @@ cacheable: true
     	<h2>Sponsors</h2>
     	<ul>
 			<li>
+				<a href="https://www.incredibuild.com/cppoffer" title="Incredibuild">
+					<img src="/images/Incredibuild_600x500.png" title="Incredibuild" align="middle" />
+				</a>
+			</li>
+			<!--<li>
 				<a href="https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp" title="JetBrains">
 					<img src="/images/jetbrains_600x500.png" title="JetBrains" align="middle" />
 				</a>
-			</li>	
+			</li>-->
 			<!--<li>
 				<a href="http://undo-software.com/undodb/" title="Undo Software">
 					<img src="/images/Undo_220x250.jpg" title="Undo Software" align="middle" />
