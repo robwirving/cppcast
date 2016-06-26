@@ -7,7 +7,7 @@ layout: default
 <section id="site-content">
     <article class="show-notes">
     <% if @document.guestImage: %> 
-        <meta property="og:image" content="<%= @document.guestImage%>" />    
+        <meta property="og:image" content="<%= @document.url + @document.guestImage %>" />    
     <% end %>
     <%- @fixLinks(@content, @document.url) %>
     <% if @document.sponsorImage1: %> 
