@@ -25,6 +25,7 @@ Ilya Daylidenok, better known as Elias Daler, is a CS student, indie game develo
  
 ###Links
 
+ - [Sol2](https://github.com/ThePhD/sol2)
  - [ImGui](https://github.com/ocornut/imgui)
  - [SFML](http://www.sfml-dev.org/) 
 
