@@ -26,7 +26,8 @@ Alfred holds BSc and MSc in computer science, with focus on logic and computabil
  
 ###Links
 
- - [IncludeOS](https://github.com/hioa-cs/IncludeOS)
+ - [IncludeOS Repo](https://github.com/hioa-cs/IncludeOS)
+ - [IncludeOS](http://www.includeos.org/)
  - [IncludeOS: A Minimal, Resource Efficient Unikernel for Cloud Services](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=7396164) 
  - [Unikernels](http://unikernel.org/)
  - [Unikernel Devel](http://devel.unikernel.org/)
