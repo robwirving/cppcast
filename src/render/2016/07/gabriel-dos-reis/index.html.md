@@ -24,7 +24,7 @@ Gabriel Dos Reis is a Principal Software Development Engineer at Microsoft. He i
  
 ###Links
 
- - [Module TS Draft](http://www.open-std.org/JTC1/SC22/WG21/docs/papers/2016/p0143r2.pdf)
+ - [Module TS Draft](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2016/p0142r0.pdf)
  - [Modules in VC++](https://blogs.msdn.microsoft.com/vcblog/2015/12/03/c-modules-in-vs-2015-update-1/)
  - [Consuming headers as module interfaces](https://channel9.msdn.com/Shows/C9-GoingNative/GoingNative-46-Why-you-should-be-Using-Cpp-Modules) 
  - [Compiler-neutral Internal Program Representation for C++](https://github.com/GabrielDosReis/ipr)
