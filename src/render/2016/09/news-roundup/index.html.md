@@ -9,7 +9,7 @@ audioUrl: http://traffic.libsyn.com/cppcast/cppcast-068.mp3
 ###News
 
  - [Triangle C++ Developers Group](https://www.meetup.com/Triangle-C-Developers-Group/)
- - [C++ Slack Group](https://cpplang.slack.com/)
+ - [C++ Slack Group](http://cpplang.diegostamigni.com/)
  - [How C++14 and C++17 help to write faster (and better) code](https://kfrlib.com/blog/how-c14-and-c17-help-to-write-faster-and-better-code-real-world-examples/)
  - [Collection of C++ Examples](http://www.cppexamples.com/)
  - [Range-v3 on MSVC is Available on GitHub](https://blogs.msdn.microsoft.com/vcblog/2016/08/23/range-v3-on-msvc-is-available-on-github/)
