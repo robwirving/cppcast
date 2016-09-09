@@ -11,7 +11,6 @@ audioUrl: http://traffic.libsyn.com/cppcast/cppcast-068.mp3
  - [Triangle C++ Developers Group](https://www.meetup.com/Triangle-C-Developers-Group/)
  - [C++ Slack Group](http://cpplang.diegostamigni.com/)
  - [How C++14 and C++17 help to write faster (and better) code](https://kfrlib.com/blog/how-c14-and-c17-help-to-write-faster-and-better-code-real-world-examples/)
- - [Collection of C++ Examples](http://www.cppexamples.com/)
  - [Range-v3 on MSVC is Available on GitHub](https://blogs.msdn.microsoft.com/vcblog/2016/08/23/range-v3-on-msvc-is-available-on-github/)
  - [Modern CMake Slides](http://thetoeb.de/2016/08/30/modern-cmake-presentation/)
  - [How many x86 instructions are there?](https://fgiesen.wordpress.com/2016/08/25/how-many-x86-instructions-are-there/)
