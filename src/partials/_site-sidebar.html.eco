@@ -23,10 +23,15 @@ cacheable: true
     	<h2>Sponsors</h2>
     	<ul>
 			<li>
+				<a href="http://backtrace.io/cppcast" title="Backtrace">
+					<img src="/images/Backtrace_900x193.png" title="Backtrace" align="middle" />
+				</a>
+			</li>
+			<!--<li>
 				<a href="https://www.incredibuild.com/cppoffer" title="Incredibuild">
 					<img src="/images/Incredibuild_600x500.jpg" title="Incredibuild" align="middle" />
 				</a>
-			</li>
+			</li>-->
 			<!--<li>
 				<a href="https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp" title="JetBrains">
 					<img src="/images/jetbrains_600x500.png" title="JetBrains" align="middle" />
