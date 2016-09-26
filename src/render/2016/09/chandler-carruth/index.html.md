@@ -1,7 +1,7 @@
 ---
 layout: post
 episodeNum: 71
-title: CppCon 2016 with Chandler Carruth
+title: CppCon 2016
 guest: Chandler Carruth
 date: 2016-09-25
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-071.mp3
@@ -27,6 +27,7 @@ Chandler Carruth leads the Clang team at Google, building better diagnostics, to
  
 ###Links
 
+ - [CppCon 2016 Playlist](https://www.youtube.com/playlist?list=PLHTh1InhhwT7J5jl4vAhO1WvGHUUFgUQH)
  - [CppCon 2014: Chandler Carruth "Efficiency with Algorithms, Performance with Data Structures"](https://www.youtube.com/watch?v=fHNmRkzxHWs)
  - [CppCon 2015: Chandler Carruth "Tuning C++: Benchmarks, and CPUs, and Compilers! Oh My!"](https://www.youtube.com/watch?v=nXaxk27zwlk)
  
