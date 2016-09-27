@@ -47,6 +47,11 @@ cacheable: true
 					<img src="/images/cppcon-logo-2015.png" title="CppCon" />
 				</a>
 			</li>
+			<li>
+				<a href="http://meetingcpp.com/" title="Meeting C++">
+					<img src="/images/mcpp2016.png" title="Meeting C++" />
+				</a>
+			</li>
 		</ul>
 	</nav>
     <nav class="sidebar-nav" id="subscribe-nav">
