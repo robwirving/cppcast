@@ -32,13 +32,16 @@ Kenny Kerr is an engineer on the Windows team at Microsoft, an MSDN Magazine con
  
 ###Links
 
- - [CppCon 2016: WG21-SG14 - Making C++ better for games, embedded and financial developers](https://www.youtube.com/watch?v=dMupATOJKWc)
- - [Creative Assembly](http://www.creative-assembly.com/)
- 
-###Sponsor
-
 - [C++/WinRT Available on GitHub](https://moderncpp.com/2016/10/13/cppwinrt-available-on-github/)
 - [cppwinrt repository on GitHub](https://github.com/microsoft/cppwinrt)
 - [CppCon 2016: Kenny Kerr & James McNellis "Embracing Standard C++ for the Windows Runtime"](https://www.youtube.com/watch?v=lm4IwfiJ3EU)
 - [CppCon 2016: Kenny Kerr & James McNellis "Putting Coroutines to Work with the Windows Runtime"](https://www.youtube.com/watch?v=v0SjumbIips)
+ 
+###Sponsor
+
+- [Backtrace](https://www.backtrace.io/cppcast)
+
+
+
+
 
