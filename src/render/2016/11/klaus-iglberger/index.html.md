@@ -28,5 +28,5 @@ Klaus Iglberger has finished his PhD in computer science in 2010. Back then, he 
  
 ###Sponsor
 
-- [JetBrains](jb.gg/cppcast-clion)
+- [JetBrains](https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp)
 
