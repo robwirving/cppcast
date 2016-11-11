@@ -21,11 +21,14 @@ Odin Holmes has been programming bare metal embedded systems for 15+ years and a
 
  - [@odinthenerd](https://twitter.com/odinthenerd)
  - [Odin Holmes on GitHub](https://github.com/porkybrain)
+ - [Odin Holmes' Blog](http://metaporky.blogspot.de/)
  
 ###Links
 
  - [Kvasir](http://kvasir.io/)
  - [Meeting C++ Lightning Talks - Odin Holmes - Modern special function register abstraction](https://www.youtube.com/watch?v=AKAYc9ZFBhk)
+ - [Brigand](https://github.com/edouarda/brigand)
+ - [Embedded C++ Conference in Bochum](http://www.embo.io/)
  
 ###Sponsor
 
