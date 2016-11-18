@@ -19,7 +19,7 @@ Daniel started Cppcheck almost 10 years ago as a hobby project that he works on 
  - [WebAssembly Browser Preview](https://hacks.mozilla.org/2016/10/webassembly-browser-preview/)
  - [Trip report: Fall ISO C++ standards meeting](https://herbsutter.com/2016/11/15/trip-report-fall-iso-c-standards-meeting-issaquah/)
  
-###Odin Holmes
+###Daniel Marjamäki
 
  - [Daniel Marjamäki on GitHub](https://github.com/danmar)
  
