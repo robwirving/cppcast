@@ -21,7 +21,7 @@ Odin Holmes has been programming bare metal embedded systems for 15+ years and a
 
  - [@odinthenerd](https://twitter.com/odinthenerd)
  - [Odin Holmes on GitHub](https://github.com/porkybrain)
- - [Odin Holmes' Blog](http://metaporky.blogspot.de/)
+ - [Odin Holmes' Blog](http://odinthenerd.blogspot.com/)
  
 ###Links
 
