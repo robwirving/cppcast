@@ -21,8 +21,7 @@ Abel Mathew is the co-founder and CEO of Backtrace I/O. Prior to Backtrace, Abel
 ###Abel Mathew
 
  - [@nullisnt0](https://twitter.com/nullisnt0)
- - [Odin Holmes on GitHub](https://github.com/porkybrain)
- - [Odin Holmes' Blog](http://odinthenerd.blogspot.com/)
+ - [Abel Mathew on GitHub](https://github.com/abelmathew)
  
 ###Links
 
