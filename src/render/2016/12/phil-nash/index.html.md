@@ -3,6 +3,7 @@ layout: post
 episodeNum: 82
 title: Catch 2 and C++ the Community
 guest: Phil Nash
+date: 2016-12-14
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-082.mp3
 guestImage: phil-nash.jpg
 ---
