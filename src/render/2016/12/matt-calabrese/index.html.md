@@ -15,6 +15,7 @@ Matt Calabrese is a software engineer working primarily in C++. He started his p
  - [2016 Software Developer Podcast Awards](https://simpleprogrammer.com/podcast-awards/)
  - [My take at times](http://www.slashslash.info/2016/12/my-take-at-times/)
  - [A C++ program to get CPU usage from command line in Linux](http://blog.davidecoppola.com/2016/12/cpp-program-to-get-cpu-usage-from-command-line-in-linux/)
+ - [Pointer comparison an invalid optimization in GCC](https://kristerw.blogspot.com/2016/12/pointer-comparison-invalid-optimization.html)
  
 ###Matt Calabrese
 
