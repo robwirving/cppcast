@@ -28,6 +28,7 @@ Brittany Friedman is a dense collection of matter formed from molecules originat
  - [drpdb: Convert from Microsoft PDB format into a MySQL database](https://github.com/briterator/drpdb)
  - [Symbol Sort: A Utility for Measure C++ Code Bloat](http://gameangst.com/?p=320)
  - [Gearbox Software](http://www.gearboxsoftware.com/)
+ - [CppCon 2016: Nicholas Ormrod "The strange details of std::string at Facebook"](https://www.youtube.com/watch?v=kPR8h4-qZdk)
  
 ###Sponsor
 
