@@ -3,7 +3,7 @@ layout: post
 episodeNum: 78
 title: Kvasir
 guest: Odin Holmes
-date: 2016-11-02
+date: 2016-11-09
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-078.mp3
 guestImage: odin-holmes.jpg
 ---
