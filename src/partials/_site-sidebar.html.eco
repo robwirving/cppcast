@@ -2,9 +2,12 @@
 cacheable: true
 ---
 <aside id="site-sidebar">
-    <header>
+    <!--<header>
         <h1>Dev Bar</h1>
-    </header>
+    </header>-->
+	<a alt="Best Overall Podcast of 2016" href="https://simpleprogrammer.com/podcast-awards/">
+		<img src="https://simpleprogrammer.com/wp-content/uploads/2017/01/podcast-awards-2016-overall-1st.png">
+	</a>
     <nav class="sidebar-nav" id="latest-shows-nav">
         <h2>Latest Guests</h2>
         <ul>
