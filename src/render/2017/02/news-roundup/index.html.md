@@ -16,7 +16,7 @@ audioUrl: http://traffic.libsyn.com/cppcast/cppcast-087.mp3
  - ['yield' keyword to become 'co_yield' in VS 2017](https://blogs.msdn.microsoft.com/vcblog/2017/01/27/yield-keyword-to-become-co_yield-in-vs-2017/)
  - [Compiler Explorer now on Patreon](https://www.linkedin.com/pulse/compiler-explorer-now-patreon-matt-godbolt)
  - [JSON for Modern C++ Version 2.1.0](https://github.com/nlohmann/json/releases/tag/v2.1.0)
- - [Catch 1.7](https://github.com/philsquared/Catch/releases/tag/v.1.7.0)
+ - [Catch 1.7](https://github.com/philsquared/Catch/releases/tag/v1.7.0)
  - [Stop calling "Function Objects" "Functors"](http://jackieokay.com/2017/01/26/functors.html)
  - [Meeting C++ 2016 Playlist](https://www.youtube.com/playlist?list=PLRyNF2Y6sca06lulacjysyu8RIwfKgYoY)
  - [How to choose good names](http://www.fluentcpp.com/2017/01/30/how-to-choose-good-names/)
