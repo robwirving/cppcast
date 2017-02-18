@@ -23,7 +23,12 @@ Alex Allain is a Director of Engineering at Dropbox. He was one of the first eng
  
 ###Links
 
+ - [Djinni](https://github.com/dropbox/djinni)
  - [CppCon 2014: Alex Allain & Andrew Twyman "Practical Cross-Platform Mobile C++ Development"](https://www.youtube.com/watch?v=ZcBtF-JWJhM)
+ - [CppCon 2015: Jacob Potter & Andrew Twyman “Bridging Languages Cross-Platform..."](https://www.youtube.com/watch?v=K-k-axW2utc)
+ - [Djinni in a bottle - Easily share code between iOS and Android using C++ by Stephan Jaetzold](https://www.youtube.com/watch?v=TXhLidEIxiI)
+ - [nn: Non-nullable pointers for C++](https://github.com/dropbox/nn)
+ - [mypy: Optional static typing for Python 2 and 3 (PEP484)](https://github.com/python/mypy)
  - [cprogramming.com](http://www.cprogramming.com/)
  - [Jumping into C++ (Amazon)](http://amzn.to/2kDN7da)
  
