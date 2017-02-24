@@ -1,6 +1,6 @@
 ---
 layout: post
-episodeNum: 90
+episodeNum: 89
 title: Jumping into C++
 guest: Alex Allain
 date: 2017-02-15
