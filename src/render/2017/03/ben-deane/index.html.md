@@ -17,7 +17,7 @@ work. In 2001 he moved to Kuju Entertainment and did a couple of games on XBox a
  - [Functors are not dead: the double functor trick](http://www.fluentcpp.com/2017/03/09/functors-are-not-dead-the-double-functor-trick/)
  - [Pi Day Challenge](http://www.fluentcpp.com/2017/03/13/pi-day-challenge-for-the-most-expressive-code-results/)
  - [I'm Done - Geschafft: Words about the Future of my Blogs](http://www.modernescpp.com/index.php/done-words-about-the-future)
- - [Check for const correctness with the C++ Core Guidelines Checker](https://blogs.msdn.microsoft.com/vcblog/2017/03/07/check-foree-const-correctness-with-the-c-core-guidelines-checker/)
+ - [Check for const correctness with the C++ Core Guidelines Checker](https://blogs.msdn.microsoft.com/vcblog/2017/03/07/check-for-const-correctness-with-the-c-core-guidelines-checker/)
  
 ###Ben Deane
 
