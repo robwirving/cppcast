@@ -8,7 +8,7 @@ audioUrl: http://traffic.libsyn.com/cppcast/cppcast-084.mp3
 guestImage: brittany-friedman.jpg
 ---
 
-Brittany Friedman is a dense collection of matter formed from molecules originating inside the sun. She currently works as a programmer at Gearbox Software, where she weaves ones and zeroes into intricate little patterns. Her proposal for new memory management algorithms was accepted for C++17 and a bug that she filed against the C++ standard was fixed the way that she recommended. So basically you do not want to trifle with her.
+Brittany Friedman is a dense collection of matter formed from molecules originating from inside the sun. She currently works as a programmer at Gearbox Software, where she weaves ones and zeroes into intricate little patterns. Her proposal for new memory management algorithms was accepted for C++17 and a bug that she filed against the C++ standard was fixed the way that she recommended. So basically you do not want to trifle with her.
 
 ###News
 
@@ -26,7 +26,7 @@ Brittany Friedman is a dense collection of matter formed from molecules originat
 
  - [Extending memory management tools](http://wg21.link/p0040)
  - [drpdb: Convert from Microsoft PDB format into a MySQL database](https://github.com/briterator/drpdb)
- - [Symbol Sort: A Utility for Measure C++ Code Bloat](http://gameangst.com/?p=320)
+ - [Symbol Sort: A Utility for Measuring C++ Code Bloat](http://gameangst.com/?p=320)
  - [Gearbox Software](http://www.gearboxsoftware.com/)
  - [CppCon 2016: Nicholas Ormrod "The strange details of std::string at Facebook"](https://www.youtube.com/watch?v=kPR8h4-qZdk)
  
