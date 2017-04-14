@@ -5,7 +5,7 @@ title: Vcsn
 guest: Akim Demaille
 date: 2017-04-13
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-097.mp3
-guestImage: akim-demaille.png
+guestImage: akim-demaille.jpg
 ---
 
 Akim has been participating in free software for about 20 years, starting with a2ps, an anything to PostScript tool written in C. In order to ensure its portability, he became a major contributor to GNU Autoconf, GNU Automake and GNU Bison.
