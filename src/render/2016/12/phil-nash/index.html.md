@@ -33,6 +33,7 @@ Phil started coding back in the early 80s, on 8-bit home computers: from the ZX-
  - [JetBrains CLion Discounts](https://www.jetbrains.com/clion/buy/#edition=discounts)
  - [JetBrains AppCode Discounts](https://www.jetbrains.com/objc/buy/#edition=discounts)
  - [JetBrains ReSharper C++ Discounts](https://www.jetbrains.com/resharper-cpp/buy/#edition=discounts)
+ - [CppCon 2016: Nicholas Ormrod "The strange details of std::string at Facebook"](https://www.youtube.com/watch?v=kPR8h4-qZdk)
  
 ###Sponsor
 

@@ -1,10 +1,10 @@
 ---
 layout: post
-episodeNum: 78
-title: Kvasir
+episodeNum: 91
+title: emBO++
 guest: Odin Holmes
-date: 2016-11-09
-audioUrl: http://traffic.libsyn.com/cppcast/cppcast-078.mp3
+date: 2017-03-02
+audioUrl: http://traffic.libsyn.com/cppcast/cppcast-091.mp3
 guestImage: odin-holmes.jpg
 ---
 
@@ -12,10 +12,10 @@ Odin Holmes has been programming bare metal embedded systems for 15+ years and a
 
 ###News
 
- - [Compiler Explorer's embedded view](http://xania.org/201611/compiler-explorer-now-supports-embedded-view)
- - [A peek into the WebAssembly Browser preview](https://blogs.windows.com/msedgedev/2016/10/31/webassembly-browser-preview/#FkxTj26Ahp54efus.97)
- - [WebAssembly Browser Preview](https://hacks.mozilla.org/2016/10/webassembly-browser-preview/)
- - [Cling on Ubuntu on Windows](https://www.youtube.com/watch?v=PLF5Y5BXD_g)
+ - [Elle, our C++ core library is now open source](http://blog.infinit.sh/elle-our-c-core-library-is-now-open-source/)
+ - [Yet Another description of C++17 features; this time present mostly in Table form](https://github.com/tvaneerd/cpp17_in_TTs)
+ - [Atomic Smart Pointers](http://www.modernescpp.com/index.php/atomic-smart-pointers)
+ - [COMMS Library](https://github.com/arobenko/comms_champion)
  
 ###Odin Holmes
 
@@ -25,12 +25,13 @@ Odin Holmes has been programming bare metal embedded systems for 15+ years and a
  
 ###Links
 
+ - [emBO++ - Embedded C++ Conference in Bochum](https://www.embo.io/)
  - [Kvasir](http://kvasir.io/)
  - [Meeting C++ Lightning Talks - Odin Holmes - Modern special function register abstraction](https://www.youtube.com/watch?v=AKAYc9ZFBhk)
  - [Brigand](https://github.com/edouarda/brigand)
- - [Embedded C++ Conference in Bochum](http://www.embo.io/)
  
 ###Sponsor
 
+- [Backtrace](https://www.backtrace.io/cppcast)
 - [JetBrains](https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp)
 
