@@ -22,9 +22,14 @@ cacheable: true
 	<nav class="sidebar-nav" id="sponsor-nav">
     	<h2>Sponsors</h2>
     	<ul>
-		    <li>
+		    <!--<li>
 				<a href="https://www.incredibuild.com/cppoffer" title="Incredibuild">
 					<img src="/images/Incredibuild_600x500.jpg" title="Incredibuild" align="middle" />
+				</a>
+			</li>-->
+			<li>
+				<a href="http://conan.io" title="Conan">
+					<img src="/images/conan600x500.png" title="Conan" align="middle" />
 				</a>
 			</li>
 			<li>
