@@ -21,7 +21,7 @@ Peter Bindels is a C++ software engineer who prides himself on writing code that
 ###Peter Bindels
 
  - [@dascandy42](https://twitter.com/dascandy42)
- - [Pter Bindel's GitHub](https://github.com/dascandy)
+ - [Peter Bindels' GitHub](https://github.com/dascandy)
 
 ###Links
 
