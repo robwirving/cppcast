@@ -3,7 +3,7 @@ layout: post
 episodeNum: 100
 title: Past, Present and Future of C++
 guest: Bjarne Stroustrup
-date: 2017-04-27
+date: 2017-05-04
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-100.mp3
 guestImage: bjarne-stroustrup.jpg
 ---
