@@ -25,7 +25,7 @@ Bjarne Stroustrup is the designer and original implementer of C++ as well as the
 
  - [A Tour of C++](http://amzn.to/2p37V4U)
  - [The C++ Programming Language (4th Edition)](http://amzn.to/2q5wDSv)
- - [CppCon 2016: Bjarne Stroustrup "The Eveolution of C++ Past, Present and Future"](https://www.youtube.com/watch?v=_wzc7a3McOs)
+ - [CppCon 2016: Bjarne Stroustrup "The Evolution of C++ Past, Present and Future"](https://www.youtube.com/watch?v=_wzc7a3McOs)
 
 ###Sponsors
 
