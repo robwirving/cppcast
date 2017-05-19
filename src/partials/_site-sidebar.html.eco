@@ -37,11 +37,11 @@ cacheable: true
 					<img src="/images/conan600x500.png" title="Conan" align="middle" />
 				</a>
 			</li>
-			<li>
+			<!--<li>
 				<a href="https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp" title="JetBrains">
 					<img src="/images/jetbrains_600x500.png" title="JetBrains" align="middle" />
 				</a>
-			</li>
+			</li>-->
 			<!--<li>
 				<a href="https://www.incredibuild.com/cppoffer" title="Incredibuild">
 					<img src="/images/Incredibuild_600x500.jpg" title="Incredibuild" align="middle" />
