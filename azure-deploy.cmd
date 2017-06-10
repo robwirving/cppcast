@@ -80,7 +80,9 @@ goto :EOF
 :: ----------
 
 :Deployment
+echo ---------------------------
 echo Handling DocPad deployment.
+echo ---------------------------
 
 :: 0. Cleanup dir
 echo Cleaning up directories (trying to be fresh!)
@@ -91,14 +93,18 @@ del /F /S /Q %DEPLOYMENT_SOURCE%\node_modules\docpad-plugin-*
 call :SelectNodeVersion
 
 :: 2. Install npm packages
+echo ---------------------------
 echo Installing npm packages...
+echo ---------------------------
 pushd "%DEPLOYMENT_SOURCE%"
 call !NPM_CMD! install --production
 IF !ERRORLEVEL! NEQ 0 goto error
 popd
 
 :: 2. Build DocPad site
+echo ---------------------------
 echo Building DocPad site...
+echo ---------------------------
 pushd "%DEPLOYMENT_SOURCE%"
 rd /s /q out
 IF !ERRORLEVEL! NEQ 0 goto error
@@ -107,7 +113,9 @@ IF !ERRORLEVEL! NEQ 0 goto error
 popd
 
 :: 3. KuduSync
+echo ---------------------------
 echo Copying Files...
+echo ---------------------------
 call %KUDU_SYNC_CMD% -v 500 -i "posts;drafts" -f "%DEPLOYMENT_SOURCE%\out" -t "%DEPLOYMENT_TARGET%" -n "%NEXT_MANIFEST_PATH%" -p "%PREVIOUS_MANIFEST_PATH%"
 IF !ERRORLEVEL! NEQ 0 goto error
 
@@ -116,7 +124,9 @@ IF !ERRORLEVEL! NEQ 0 goto error
 goto end
 
 :error
+echo ---------------------------
 echo An error has occurred during web site deployment.
+echo ---------------------------
 call :exitSetErrorLevel
 call :exitFromFunction 2>nul
 
@@ -127,4 +137,6 @@ exit /b 1
 ()
 
 :end
+echo ---------------------------
 echo Finished successfully.
+echo ---------------------------
