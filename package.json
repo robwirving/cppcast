@@ -28,7 +28,7 @@
     "docpad-plugin-livereload": "~2.7.1"
   },
   "engines": {
-    "node": "0.12",
+    "node": "4.0",
     "npm": "2.5"
   },
   "main": "./node_modules/docpad/bin/docpad-server"
