@@ -93,6 +93,8 @@ del /F /S /Q %DEPLOYMENT_SOURCE%\node_modules\docpad-plugin-*
 :: call :SelectNodeVersion
 SET NPM_CMD=npm
 SET NODE_EXE=node
+"!NODE_EXE!" --version
+call !NPM_CMD! --version
 
 :: 2. Install npm packages
 echo ---------------------------
