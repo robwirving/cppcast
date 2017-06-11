@@ -91,6 +91,8 @@ del /F /S /Q %DEPLOYMENT_SOURCE%\out\*
 
 :: 1. Select node version
 :: call :SelectNodeVersion
+SET NPM_CMD=npm
+SET NODE_EXE=node
 
 :: 2. Install npm packages
 echo ---------------------------
