@@ -90,9 +90,7 @@ del /F /S /Q %DEPLOYMENT_SOURCE%\out\*
 del /F /S /Q %DEPLOYMENT_SOURCE%\node_modules\docpad-plugin-*
 
 :: 1. Select node version
-:: call :SelectNodeVersion
-SET NPM_CMD=npm
-SET NODE_EXE=node
+call :SelectNodeVersion
 "!NODE_EXE!" --version
 call !NPM_CMD! --version
 

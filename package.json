@@ -2,16 +2,21 @@
   "name": "cppcast-docpad",
   "version": "1.0.0",
   "description": "Source for cppcast.com",
+  "homepage": "http://cppcast.com",
   "author": "Rob Irving <rob.irving@gmail.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/robwirving/cppcast"
   },
   "license": "MIT",
+  "engines": {
+    "node": "0.12.x",
+    "npm": "3.5.x"
+  },
   "dependencies": {
     "cheerio": "^0.12.4",
     "coffee-script": "~1.6.3",
-    "docpad": "~6.78.6",
+    "docpad": "~6.78.4",
     "docpad-plugin-cleanurls": "https://github.com/ervwalter/docpad-plugin-cleanurls/tarball/compiled",
     "docpad-plugin-coffeescript": "~2.5.0",
     "docpad-plugin-dateurls": "https://github.com/ervwalter/docpad-plugin-dateurls/tarball/compiled",
@@ -27,12 +32,5 @@
   "devDependencies": {
     "docpad-plugin-livereload": "~2.7.1"
   },
-  "engines": {
-    "node": "^4.2",
-    "npm": "^3.5"
-  },
-  "main": "./node_modules/docpad/bin/docpad-server",
-  "scripts": {
-    "start": "node ./node_modules/docpad/bin/docpad-server"
-  }
+  "main": "./node_modules/docpad/bin/docpad-server"
 }
