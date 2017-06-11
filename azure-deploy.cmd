@@ -90,7 +90,7 @@ del /F /S /Q %DEPLOYMENT_SOURCE%\out\*
 :: del /F /S /Q %DEPLOYMENT_SOURCE%\node_modules\docpad-plugin-*
 
 :: 1. Select node version
-call :SelectNodeVersion
+:: call :SelectNodeVersion
 
 :: 2. Install npm packages
 echo ---------------------------
