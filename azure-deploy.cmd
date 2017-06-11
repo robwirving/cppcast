@@ -109,7 +109,7 @@ pushd "%DEPLOYMENT_SOURCE%"
 rd /s /q out
 :: IF !ERRORLEVEL! NEQ 0 goto error
 "!NODE_EXE!" .\node_modules\docpad\bin\docpad -e static generate
-IF !ERRORLEVEL! NEQ 0 goto error
+:: IF !ERRORLEVEL! NEQ 0 goto error
 popd
 
 :: 3. KuduSync
@@ -117,7 +117,7 @@ echo ---------------------------
 echo Copying Files...
 echo ---------------------------
 call %KUDU_SYNC_CMD% -v 500 -i "posts;drafts" -f "%DEPLOYMENT_SOURCE%\out" -t "%DEPLOYMENT_TARGET%" -n "%NEXT_MANIFEST_PATH%" -p "%PREVIOUS_MANIFEST_PATH%"
-IF !ERRORLEVEL! NEQ 0 goto error
+:: IF !ERRORLEVEL! NEQ 0 goto error
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
