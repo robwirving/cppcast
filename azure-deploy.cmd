@@ -87,7 +87,7 @@ echo ---------------------------
 :: 0. Cleanup dir
 echo Cleaning up directories (trying to be fresh!)
 del /F /S /Q %DEPLOYMENT_SOURCE%\out\*
-:: del /F /S /Q %DEPLOYMENT_SOURCE%\node_modules\docpad-plugin-*
+del /F /S /Q %DEPLOYMENT_SOURCE%\node_modules\docpad-plugin-*
 
 :: 1. Select node version
 :: call :SelectNodeVersion
@@ -99,8 +99,8 @@ echo ---------------------------
 echo Installing npm packages...
 echo ---------------------------
 pushd "%DEPLOYMENT_SOURCE%"
-:: call !NPM_CMD! install --production
-:: IF !ERRORLEVEL! NEQ 0 goto error
+call !NPM_CMD! install --production
+IF !ERRORLEVEL! NEQ 0 goto error
 popd
 
 :: 2. Build DocPad site
@@ -109,9 +109,9 @@ echo Building DocPad site...
 echo ---------------------------
 pushd "%DEPLOYMENT_SOURCE%"
 rd /s /q out
-:: IF !ERRORLEVEL! NEQ 0 goto error
+IF !ERRORLEVEL! NEQ 0 goto error
 "!NODE_EXE!" .\node_modules\docpad\bin\docpad -e static generate
-:: IF !ERRORLEVEL! NEQ 0 goto error
+IF !ERRORLEVEL! NEQ 0 goto error
 popd
 
 :: 3. KuduSync
@@ -119,7 +119,7 @@ echo ---------------------------
 echo Copying Files...
 echo ---------------------------
 call %KUDU_SYNC_CMD% -v 500 -i "posts;drafts" -f "%DEPLOYMENT_SOURCE%\out" -t "%DEPLOYMENT_TARGET%" -n "%NEXT_MANIFEST_PATH%" -p "%PREVIOUS_MANIFEST_PATH%"
-:: IF !ERRORLEVEL! NEQ 0 goto error
+IF !ERRORLEVEL! NEQ 0 goto error
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
