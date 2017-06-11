@@ -87,7 +87,7 @@ echo ---------------------------
 :: 0. Cleanup dir
 echo Cleaning up directories (trying to be fresh!)
 del /F /S /Q %DEPLOYMENT_SOURCE%\out\*
-del /F /S /Q %DEPLOYMENT_SOURCE%\node_modules\docpad-plugin-*
+:: del /F /S /Q %DEPLOYMENT_SOURCE%\node_modules\docpad-plugin-*
 
 :: 1. Select node version
 call :SelectNodeVersion
@@ -97,7 +97,7 @@ echo ---------------------------
 echo Installing npm packages...
 echo ---------------------------
 pushd "%DEPLOYMENT_SOURCE%"
-call !NPM_CMD! install --production
+:: call !NPM_CMD! install --production
 IF !ERRORLEVEL! NEQ 0 goto error
 popd
 
