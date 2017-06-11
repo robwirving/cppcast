@@ -3,7 +3,7 @@ layout: post
 episodeNum: 104
 title: Postmodern C++
 guest: Tony Van Eerd
-date: 2017-6-08
+date: 2017-06-08
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-104.mp3
 guestImage: tony-van-eerd.jpg
 ---

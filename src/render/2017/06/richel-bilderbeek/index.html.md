@@ -3,7 +3,7 @@ layout: post
 episodeNum: 103
 title: Travis CI
 guest: Richel Bilderbeek
-date: 2017-6-01
+date: 2017-06-01
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-103.mp3
 guestImage: richel-bilderbeek.jpg
 ---
