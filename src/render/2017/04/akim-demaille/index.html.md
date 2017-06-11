@@ -16,18 +16,18 @@ Akim's recent research interests are focused on the Vcsn platform, dedicated to 
 
 He's recently been recruited by former students of his to be part of the Infinit team at Docker.
 
-###News
+### News ###
 
  - [Announcing Meeting C++ 2017](http://meetingcpp.com/index.php/newsreader/items/announcing-meeting-cpp-2017.html)
  - [C++Now 2017 Keynote: Ali Çehreli - Competitive Advantage with D](http://cppnow.org/2017-conference/announcements/2017/04/09/d-keynote.html)
  - [Reduce C++ Build Times by Reducing Header Dependencies](http://lattix.com/blog/2017/04/07/reduce-c-build-times-reducing-header-dependencies)
  - [Capturing *this in C++11, 14 and 17](http://www.sean-bollin.com/2017/04/08/capturing-this-in-c11-14-and-17/)
  
-###Akim Demaille
+### Akim Demaille ###
 
  - [Akim Demaille's GitHub](https://github.com/akimd)
 
-###Links
+### Links ###
 
  - [Vcsn home page](http://vcsn.lrde.epita.fr/)
  - [Vcsn Online Sandbox](http://vcsn-sandbox.lrde.epita.fr/)
@@ -35,7 +35,7 @@ He's recently been recruited by former students of his to be part of the Infinit
  - [Johnny Five](http://johnny-five.io/)
  - [Technical report about runtime instantiation in C++](https://arxiv.org/abs/1611.00947)
 
-###Sponsors
+### Sponsors ###
 
 - [Incredibuild](https://www.incredibuild.com/cppoffer)
 - [JetBrains](https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp)

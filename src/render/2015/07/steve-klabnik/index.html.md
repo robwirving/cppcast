@@ -12,17 +12,17 @@ Steve Klabnik is a Ruby and Rails contributor, member of the Rust core team, and
 
 When Steve isn't coding, he enjoys playing the Netrunner card game.
 
-###News
+### News ###
 
  - [Get rid of those boolean function parameters](http://mortoray.com/2015/06/15/get-rid-of-those-boolean-function-parameters/)
  - [Concepts TS voted out (in)](http://www.reddit.com/r/cpp/comments/3dzv6i/eric_niebler_on_twitter_the_concepts_ts_was_voted/)
  
-###Steve Klabnik
+### Steve Klabnik ###
 
  - [@steveklabnik](https://twitter.com/steveklabnik/)
  - [Steve Klabnik's Home Page](http://www.steveklabnik.com/)
  - [Steve Klabnik's GitHub](https://github.com/steveklabnik)
 
-###Links
+### Links ###
 
  - [The Rust Programming Language](http://www.rust-lang.org/)

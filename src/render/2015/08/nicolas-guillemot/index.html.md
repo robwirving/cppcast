@@ -10,19 +10,19 @@ guestImage: nicolas-guillemot.png
 
 Nicolas Guillemot started studying C++ and OpenGL to make games, and fell in love with them. He enjoys participating in game jams, and has had the opportunity to work in some game development studios: Inlight Entertainment, and Electronic Arts. He is currently taking a break from finishing a bachelor's in software engineering to work at Intel, doing mostly graphics-related work to help game developers take advantage of Intel GPU features.
 
-###News
+### News ###
 
  - [Biicode (just the company) post-mortem](http://blog.biicode.com/biicode-just-the-company-post-mortem/)
  - [Visual Studio Projects that Just Keep Rebuilding](http://ofekshilon.com/2015/08/16/visual-studio-projects-that-just-keep-rebuilding-or-how-quantum-mechanics-mess-up-your-build/)
  - [Boost 1.59](http://www.boost.org/users/history/version_1_59_0.html)
 
  
-###Nicolas Guillemot
+### Nicolas Guillemot ###
 
  - [@nlguillemot](https://twitter.com/nlguillemot)
  - [Nicolas Guillemot's GitHub](https://github.com/nguillemot)
 
-###Links
+### Links ###
 
  - [SG14 - Game Dev and Low Latency Google Group](https://groups.google.com/a/isocpp.org/forum/#!forum/sg14)
  - [WG21-SG14 GitHub](https://github.com/WG21-SG14/SG14)

@@ -10,7 +10,7 @@ guestImage: tony-van-eerd.jpg
 
 Tony Van Eerd has been coding for well over 25 years, and hopefully coding well for some of that. Mostly in graphics/video/film/broadcast (at Inscriber & Adobe), writing low level pixel++, high level UI, threading, and everything else. He now enables painting with light at Christie Digital. He is on the C++ Committee. He is a Ninja and a Jedi. 
 
-###News
+### News ###
 
  - C++ News Sources:
 	 - [/r/cpp](https://www.reddit.com/r/cpp/)
@@ -23,22 +23,22 @@ Tony Van Eerd has been coding for well over 25 years, and hopefully coding well 
  - [Why I Put const On The Right](http://plange.tech/blog/2017-06-03.php)
  - [Speakers announced for pacific++](https://pacificplusplus.com/)
 
-###Tony Van Eerd
+### Tony Van Eerd ###
 
  - [@tvaneerd](https://twitter.com/tvaneerd)
  - [Tony Van Eerd's GitHub](https://github.com/tvaneerd)
 
-###Links
+### Links ###
 
  - [Christie Digital](https://www.christiedigital.com/en-us/projection-mapping)
  - [Christie Digital Projection Mapping Videos](https://www.youtube.com/playlist?list=PL7CBEC9E4CFDB1FD9)
  - [C++Now 2017: Tony Van Eerd "Postmodern C++"](https://www.youtube.com/watch?v=GPP64opjy_Y)
 
-###Sponsors
+### Sponsors ###
 
 - [Backtrace](https://www.backtrace.io/cppcast)
 
-###Hosts
+### Hosts ###
 
 - [@robwirving](https://twitter.com/robwirving)
 - [@lefticus](https://twitter.com/lefticus)

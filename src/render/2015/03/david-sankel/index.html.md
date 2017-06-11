@@ -12,14 +12,14 @@ David Sankel is a professional software developer/architect based in the USA. Hi
 
 David's current research interests include dependently typed languages, semantic domains, EDSLs, and functional reactive programming. He currently works for the software firm, Stellar Science.
 
-###News
+### News ###
 
  - [When CLion met biicode](http://blog.jetbrains.com/clion/2015/03/when-clion-met-biicode/)
  - [How much should you pay your engineers](http://blog.startupcompass.co/how-much-should-you-pay-your-engineers)
  - [What are some everyday life things you use C++ for](http://www.reddit.com/r/cpp/comments/2y1szo/what_are_some_everyday_life_things_you_use_c_for/)
  - [My favorite C++ 10 Liner](http://channel9.msdn.com/Events/GoingNative/2013/My-Favorite-Cpp-10-Liner)
  
-###David Sankel
+### David Sankel ###
 
  - [Paper: Modern Functional Programming in C++](http://zao.se/~zao/boostcon/10/2010_presentations/thu/funccpp.pdf)
  - [Functional Programming in C++](https://www.youtube.com/watch?v=PVjaFMwV4x0)
@@ -27,7 +27,7 @@ David's current research interests include dependently typed languages, semantic
  - [Functional Reactive Programming - Cleanly Abstracted Interactivity](https://www.youtube.com/watch?v=tyaYLGQSr4g)
  - [Intro to Functional Programming in C++](https://www.youtube.com/watch?v=uHFUpFhWGJs)
  
-###Links
+### Links ###
  
  - [Stellar Science](http://www.stellarscience.com/)
  - [C++Now!](http://cppnow.org/)

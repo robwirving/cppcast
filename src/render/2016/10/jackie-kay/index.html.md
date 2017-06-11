@@ -12,19 +12,19 @@ After spending her childhood wanting to become a novelist, Jackie switched over 
 
 Jackie was a speaker at CppCon 2015 and 2016 and a volunteer at C++ Now 2016 and frequently attends the Bay Area ACCU meetups. Her hobbies include rock climbing, travelling, and reading (books, not just blog posts).
 
-###News
+### News ###
 
  - [What does "Modern C++" really mean](http://meetingcpp.com/index.php/br/items/what-does-modern-c-really-mean.html)
  - [The "unsigned" Conundrum](https://bulldozer00.com/2016/10/16/the-unsigned-conundrum/)
  - [C++ Variadic templates from the ground up](http://cppisland.com/?p=194)
  
-###Jackie Kay
+### Jackie Kay ###
 
  - [@jackayline](https://twitter.com/jackayline)
  - [Jackie Kay's GitHub](https://github.com/jacquelinekay)
  - [Jackie Kay's website](http://jackieokay.com/)
  
-###Links
+### Links ###
 
  - [ROS (Robot Operating System)](http://wiki.ros.org/)
  - [ROS 2](https://github.com/ros2/ros2/wiki)
@@ -37,7 +37,7 @@ Jackie was a speaker at CppCon 2015 and 2016 and a volunteer at C++ Now 2016 and
  - [Code examples from "Lessons Learned From An Embedded RTPS in Modern C++"](https://github.com/jacquelinekay/em_benchmarks)
  - [Work-in-progress implementation on DDS/RTPS](https://github.com/osrf/cmbml)
  
-###Sponsor
+### Sponsor ###
 
 - [Backtrace](https://www.backtrace.io/cppcast)
 

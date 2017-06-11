@@ -6,7 +6,7 @@ date: 2016-09-01
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-068.mp3
 ---
 
-###News
+### News ###
 
  - [Triangle C++ Developers Group](https://www.meetup.com/Triangle-C-Developers-Group/)
  - [C++ Slack Group](http://cpplang.diegostamigni.com/)
@@ -20,7 +20,7 @@ audioUrl: http://traffic.libsyn.com/cppcast/cppcast-068.mp3
  - [August Update for the Visual Studio Code C++ extension](https://blogs.msdn.microsoft.com/vcblog/2016/08/29/august-update-for-the-visual-studio-code-cc-extension/)
  - [C++ 14/17 Features and STL Fixes in VS 15 Preview 4](https://blogs.msdn.microsoft.com/vcblog/2016/08/24/c1417-features-and-stl-fixes-in-vs-15-preview-4/)
  
-###Links
+### Links ###
 
  - [@robwirving](https://twitter.com/robwirving)
  - [@lefticus](https://twitter.com/lefticus)

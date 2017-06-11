@@ -11,7 +11,7 @@ guestImage: vinnie-falco.png
 Vinnie Falco started programming on an Apple II+ in 1982. He did significant work on Canvas, an early 1990s desktop publishing program that starting on the Macintosh. A while later he wrote BearShare - a Gnutella compatible file sharing program.
 After that Vinnie joined up with Ripple, a company that is developing a global financial settlement network built on top of a decentralized cryptocurrency and its associated ledger. Ripple has graciously given him the opportunity to develop and publish Beast, the HTTP and WebSocket library written in C++ and used in Ripple.
 
-###News
+### News ###
 
  - [Winners of the 2016 Software Developer Podcast Awards](https://simpleprogrammer.com/2017/01/17/winners-2016-software-developer-podcast-awards/)
  - [The Salami Method](https://adishavit.github.io/2017/salami-method/)
@@ -20,18 +20,18 @@ After that Vinnie joined up with Ripple, a company that is developing a global f
  - [Catch 1.6 release](https://github.com/philsquared/Catch/releases/tag/v1.6.0)
  - [Order Your Members](https://jonasdevlieghere.com/order-your-members/)
  
-###Vinnie Falco
+### Vinnie Falco ###
 
  - [@falcovinnie](https://twitter.com/falcovinnie)
  - [Vinnie Falco's GitHub](https://github.com/vinniefalco)
  
-###Links
+### Links ###
 
  - [Beast Library](https://github.com/vinniefalco/Beast)
  - [CppCon 2016: Vinnie Falco "Introducing Beast: HTTP and WebSockets C++ library"](https://www.youtube.com/watch?v=uJZgRcvPFwI)
  - [Ripple](https://ripple.com/)
  
-###Sponsor
+### Sponsor ###
 
 - [Backtrace](https://www.backtrace.io/cppcast)
 

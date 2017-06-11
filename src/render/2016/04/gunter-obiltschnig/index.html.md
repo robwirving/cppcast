@@ -12,7 +12,7 @@ Günter is the founder of the POCO C++ Libraries and macchina.io open source pro
 
 His current main interests are embedded systems, cross-platform C++ development, JavaScript and, foremost, the Internet of Things. When not working, he spends time with his family or enjoys one of his hobbies — sailing, running, swimming, skiing, listening to or making music, and reading.
 
-###News
+### News ###
 
  - [C++Now less than 20 spots left](http://cppnow.org/)
  - [C/C++ extension for Visual Studio Code](https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/)
@@ -20,12 +20,12 @@ His current main interests are embedded systems, cross-platform C++ development,
  - [C++ Committee to shift focus on important issues](https://meetingcpp.com/index.php/br/items/c-committee-to-shift-focus-on-important-issues.html)
  - [CppCon 2016 Call for Submissions](http://cppcon.org/call-for-submissions-2015-2/)
  
-###Günter Obiltschnig
+### Günter Obiltschnig ###
 
  - [@obiltschnig](https://twitter.com/obiltschnig)
  - [Günter Obiltschnig](http://obiltschnig.com/)
 
-###Links
+### Links ###
 
  - [macchina.io](http://macchina.io/)
  - [Mastering the IoT with C++ and JavaScript - Meeting C++ 2015](https://www.youtube.com/watch?v=iRm3u1E9apU&feature=youtu.be)

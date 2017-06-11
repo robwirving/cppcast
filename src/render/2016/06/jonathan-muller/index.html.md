@@ -14,18 +14,18 @@ He is mainly working on foonathan/memory which provides fast and customizable me
 Jonathan tweets at @foonathan and blogs about various C++ and library development related topics at foonathan.github.io.
 The blog posts are well received and often shared in the cpp subreddit or ISO C++.
 
-###News
+### News ###
 
  - [C++ Core Guidelines Checkers are now in a single Nuget package](https://blogs.msdn.microsoft.com/vcblog/2016/06/03/c-core-guidelines-checkers-are-now-in-a-single-nuget-package/)
  - [How to avoid wasting megabytes of memory a few bytes at a time](http://developers.redhat.com/blog/2016/06/01/how-to-avoid-wasting-megabytes-of-memory-a-few-bytes-at-a-time/)
  - [Asynchronous callable wrappers](http://www.modernescpp.com/index.php/asynchronous-callable-wrappers)
  
-###Jonathan Müller
+### Jonathan Müller ###
 
  - [@foonathan](https://twitter.com/foonathan)
  - [foonathan::blog()](https://foonathan.github.io/)
  
-###Links
+### Links ###
 
  - [You (probably) don't want 'final' classes](https://foonathan.github.io/blog/2016/05/27/final.html)
  - [foonathan/memory](https://github.com/foonathan/memory)

@@ -12,7 +12,7 @@ Sohail Somani is a contract cross-platform application developer who has been wo
  
 Otherwise, Sohail is a full-time, work-at-home dad of 2 since 2007. He enjoys playing hockey and listening to rap music. You can contact him at hello@sohailsomani.com - but he doesn't recommend that you visit the domain.
 
-###News
+### News ###
 
  - [C++Now Accepting Student/Volunteer Applications](http://cppnow.org/2016-conference/announcements/2016/02/23/student-volunteer-program-accepting-applications.html)
  - [CppCon 2016 Registration](http://cppcon.org/regopen2016/)
@@ -20,11 +20,11 @@ Otherwise, Sohail is a full-time, work-at-home dad of 2 since 2007. He enjoys pl
  - [Experimental Boost Dependency Injection](http://boost-experimental.github.io/di/)
  - [A bit of background for the operator dot proposal](https://isocpp.org/blog/2016/02/a-bit-of-background-for-the-operator-dot-proposal-bjarne-stroustrup)
  
-###Sohail Somani
+### Sohail Somani ###
 
  - [Sohail Somani](http://uint32t.blogspot.com)
 
-###Links
+### Links ###
 
  - [Worklog Assistant](https://worklogassistant.com/)
  - [Degreed](https://degreed.com/)

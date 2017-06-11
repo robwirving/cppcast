@@ -12,7 +12,7 @@ Anoop Prabha is currently a Software Engineer in Software and Services Group at 
  
 Udit Patidar works in the Developer Products Division of Intel, where he is a product manager for Intel software tools. He was previously a developer working on Intel compilers, focusing on OpenMP parallel programming model for technical and scientific computing workloads. He has extensive experience in high performance computing, both at Intel and previously. Udit holds an MBA in General Management from Cornell University, and a PhD in Computer Science from the University of Houston.
 
-###News
+### News ###
 
  - [Sandstorm](https://sandstorm.io/)
  - [Cap'n Proto](https://capnproto.org/)
@@ -20,15 +20,15 @@ Udit Patidar works in the Developer Products Division of Intel, where he is a pr
  - [Exposing containers of unique pointers](https://jonasdevlieghere.com/containers-of-unique-pointers/)
  - [Clang-include-fixer](https://clang.llvm.org/extra/include-fixer.html)
  
-###Anoop Prabha
+### Anoop Prabha ###
 
  - [Anoop Prabha](https://www.linkedin.com/in/anoop-madhusoodhanan-prabha-8214a215/)
 
-###Udit Patidar
+### Udit Patidar ###
 
  - [Udit Patidar](https://www.linkedin.com/in/uditpatidar/)
 
-###Links
+### Links ###
 
  - [Free Intel Software Development Tools](https://software.intel.com/en-us/qualify-for-free-software)
  - [Intel Parallel Studio XE Suite Page](https://software.intel.com/en-us/intel-parallel-studio-xe)
@@ -39,7 +39,7 @@ Udit Patidar works in the Developer Products Division of Intel, where he is a pr
  - [C++17 support](https://software.intel.com/en-us/articles/c17-features-supported-by-intel-c-compiler)
  - [Intel C++ Compiler Forum](https://software.intel.com/en-us/forums/intel-c-compiler)
 
-###Sponsors
+### Sponsors ###
 
 - [Conan.io](http://conan.io/)
 - [JetBrains](https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp)

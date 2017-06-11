@@ -13,19 +13,19 @@ special interest in compile-time code generation and error checking, as well as 
 works at Markit integrating real-time financial data. He once wrote an optimizing compiler that solved the halting problem, and is just waiting for it to finish compiling his program.
 
 
-###News
+### News ###
 
  - [What do you want to see in VS2015 Update 1](https://www.reddit.com/r/cpp/comments/3g3aa1/what_do_you_want_to_see_in_vs_2015_update_1/)
  - [New Clion 1.1 EAP](http://blog.jetbrains.com/clion/2015/08/new-clion-1-1-eap-project-scopes-cmake-targets-and-other-changes/)
  - [CppCon 2015 Program Additions](http://cppcon.org/2015programadditions/)
 
  
-###David Stone
+### David Stone ###
 
  - [David Stone on StackOverflow](http://stackoverflow.com/users/852254/david-stone)
  - [doublewise.net](http://doublewise.net/)
 
-###Links
+### Links ###
 
  - [C++ Bounded Integer Library](http://doublewise.net/c++/bounded/)
  - [C++Now 2014 - Removing Undefined behavior from integer operations](https://www.youtube.com/watch?v=hgeErnYxAUw)

@@ -12,19 +12,19 @@ Alfred has been doing research towards IncludeOS since 2013, and got a PhD schol
 
 Alfred holds BSc and MSc in computer science, with focus on logic and computability, from the university of Oslo. He has 10+ years of industrial programming experience, mostly in web services. He's been working at Oslo university college since 2011, teaching various subjects ranging from operating systems, sysadmin and firewalls to web development. He started learning C++ when he took over a C++ course at the college in 2011. A very good year to start C++.
 
-###News
+### News ###
 
  - [The new lightweight, cross platform C++11/14/17 IDE juCi++ v1.2.1](https://www.reddit.com/r/cpp/comments/4s9v5b/the_new_lightweight_crossplatform_c111417ide_juci/)
  - [CppCon 2016 Program Preview: Algorithms, Exceptions and Games](http://cppcon.org/preview-algorithms-exceptions-games-2016/)
  - [Second Episode of CppChat Sunday](https://www.reddit.com/r/cpp/comments/4sd1tx/second_episode_of_cppchat_sunday_at_930_am_left/)
  - [Meeting C++ interview with Sean Parent](http://meetingcpp.com/index.php/br/items/interview-with-sean-parent.html)
  
-###Alfred Bratterud
+### Alfred Bratterud ###
 
  - [@AlfredBratterud](https://twitter.com/AlfredBratterud)
  - [Alfred Bratterud's GithHub](https://github.com/alfred-bratterud)
  
-###Links
+### Links ###
 
  - [IncludeOS Repo](https://github.com/hioa-cs/IncludeOS)
  - [IncludeOS](http://www.includeos.org/)
@@ -32,7 +32,7 @@ Alfred holds BSc and MSc in computer science, with focus on logic and computabil
  - [Unikernels](http://unikernel.org/)
  - [Unikernel Devel](http://devel.unikernel.org/)
 
-###Sponsor
+### Sponsor ###
 
 - [Incredibuild](https://www.incredibuild.com/cppoffer)
 

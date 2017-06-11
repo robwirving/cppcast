@@ -6,7 +6,7 @@ date: 2017-02-01
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-087.mp3
 ---
 
-###News
+### News ###
 
  - [What's in C++17?](https://jfbastien.github.io/what-is-cpp17)
  - [CodeChecker](https://github.com/Ericsson/CodeChecker)
@@ -21,12 +21,12 @@ audioUrl: http://traffic.libsyn.com/cppcast/cppcast-087.mp3
  - [Meeting C++ 2016 Playlist](https://www.youtube.com/playlist?list=PLRyNF2Y6sca06lulacjysyu8RIwfKgYoY)
  - [How to choose good names](http://www.fluentcpp.com/2017/01/30/how-to-choose-good-names/)
  
-###Links
+### Links ###
 
  - [@robwirving](https://twitter.com/robwirving)
  - [@lefticus](https://twitter.com/lefticus)
 
-###Sponsor
+### Sponsor ###
 
 - [Backtrace](https://www.backtrace.io/cppcast)
 - [JetBrains](https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp)

@@ -14,18 +14,18 @@ Elena currently lives in U.S. with her family and works at Microsoft in Bing Ads
 
 She has a popular blog on C++ in Russian and she is the author of the famed C++ Lands map.
 
-###News
+### News ###
 
  - [Introducing the C++ Core Guidelines](https://visualstudiomagazine.com/articles/2016/04/19/intro-to-cpp-core-guidelines.aspx)
  - [Red Hat at the ISO C++ Standards Meeting](http://developers.redhat.com/blog/2016/04/21/red-hat-at-the-iso-c-standards-meeting-march-2016-parallelism-concurrency-and-coroutines/)
  - [pybind11: Seamless operability between C++11 and Python](https://github.com/pybind/pybind11)
  
-###Elena Sagalaeva
+### Elena Sagalaeva ###
 
  - [Elena Sagalaeva's Blog](http://alenacpp.blogspot.ru/)
  - [@alenacpp](https://twitter.com/alenacpp)
 
-###Links
+### Links ###
 
  - [Nexus Wireless Silent Mouse](http://amzn.to/1Sxl9O4)
  - [C++11 Lands Map](http://fearlesscoder.blogspot.com/2012/01/c11-lands.html)

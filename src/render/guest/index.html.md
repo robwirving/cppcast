@@ -4,11 +4,11 @@ title: Guests
 enablePageComments: false 
 ---
 
-### Help
+### Help ###
 
 [How to record your audio during the show](audio-instructions/)
 
-###FAQ
+### FAQ ###
 
 **What type of equipment do I need?** If you have a headset, that's perfect. If you have a separate mic, please use headphones to avoid spill from the speakers to the mic.
 

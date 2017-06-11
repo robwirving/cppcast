@@ -10,7 +10,7 @@ guestImage: abel-mathew.jpg
 
 Abel Mathew is the co-founder and CEO of Backtrace I/O. Prior to Backtrace, Abel was a Head of Engineering at AppNexus where he led a team of developers to improve ad optimization and reduce platform-wide costs. He spent multiple years as a developer and a team lead on AppNexus’ Adserver Team where he helped design and implement their low-latency advertising platform. Before AppNexus, Abel was a kernel module and tools developer at IBM and a server room monkey at AMD.
 
-###News
+### News ###
 
  - [Give Visual C++ a Switch to Standard Conformance](https://blogs.msdn.microsoft.com/vcblog/2016/11/16/permissive-switch/)
  - [Zapcc: a faster C++ compiler](http://baptiste-wicht.com/posts/2016/11/zapcc-a-faster-c%2B%2B-compiler.html)
@@ -18,12 +18,12 @@ Abel Mathew is the co-founder and CEO of Backtrace I/O. Prior to Backtrace, Abel
  - [Conan Joins JFrog](https://www.jfrog.com/blog/conan-joins-jfrog/)
  - [What do YOU use C++ for](https://www.reddit.com/r/cpp/comments/5ehrel/what_do_you_use_c_for/)
  
-###Abel Mathew
+### Abel Mathew ###
 
  - [@nullisnt0](https://twitter.com/nullisnt0)
  - [Abel Mathew on GitHub](https://github.com/abelmathew)
  
-###Links
+### Links ###
 
  - [Backtrace](https://www.backtrace.io/cppcast)
  - [Backtrace Blog](http://backtrace.io/blog/)
@@ -31,7 +31,7 @@ Abel Mathew is the co-founder and CEO of Backtrace I/O. Prior to Backtrace, Abel
  - [Surge 2016 - Abel Mathew - Post-mortem Debugging: could you be the one?](https://www.youtube.com/watch?v=WHhorNLa934)
  - [Bazel](https://bazel.build/)
  
-###Sponsor
+### Sponsor ###
 
 - [Backtrace](https://www.backtrace.io/cppcast)
 

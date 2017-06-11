@@ -17,18 +17,18 @@ To keep in touch with C++ he continues to write about it on his blog, reads othe
 
 In his free time he sings in a choir together with his wife and enjoys playing video games. He likes to travel a lot, especially tall ship sailing.
 
-###News
+### News ###
 
  - [Upcoming features in GCC 6](http://developerblog.redhat.com/2016/02/23/upcoming-features-in-gcc-6/)
  - [Core C++ lvalues and rvalues](https://www.justsoftwaresolutions.co.uk/cplusplus/core-c++-lvalues-and-rvalues.html)
  - [Trip Report: C++ meeting at Jacksonville](http://usingstdcpp.org/2016/03/05/trip-report-c-meeting-at-jacksonville/)
  
-###Arne Mertz
+### Arne Mertz ###
 
  - [@arne_mertz](https://twitter.com/arne_mertz)
  - [Arne Mertz on LinkedIn](https://de.linkedin.com/in/arne-mertz-b87311b0/en)
 
-###Links
+### Links ###
 
  - [Simplify C++](http://arne-mertz.de/)
  - [Soft Skills: The software developer's life manual](http://amzn.to/1XgKQSB)

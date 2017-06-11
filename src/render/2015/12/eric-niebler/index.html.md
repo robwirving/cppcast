@@ -12,18 +12,18 @@ Eric Niebler is an independent consultant specializing in C++ library developmen
 
 In a previous life, Eric drifted with no fixed address, writing C++ and blog entries from cafes and beaches around the world. Today, Eric is a family man living and working in the glorious Pacific Northwest near Seattle.
 
-###News
+### News ###
 
  - [Clang with Microsoft CodeGen in VS 2015 Update 1](http://blogs.msdn.com/b/vcblog/archive/2015/12/04/introducing-clang-with-microsoft-codegen-in-vs-2015-update-1.aspx)
  - [Conan a C/C++ package manager](https://www.reddit.com/r/cpp/comments/3v05s9/conan_a_cc_package_manager/)
  - [Getting started with Modules in C++](http://kennykerr.ca/2015/12/03/getting-started-with-modules-in-c/)
  
-###Eric Niebler
+### Eric Niebler ###
 
  - [@ericniebler](https://twitter.com/ericniebler)
  - [Eric Niebler's blog](http://ericniebler.com/)
 
-###Links
+### Links ###
 
  - [Range v3 Library](https://github.com/ericniebler/range-v3)
  - [C++ Extensions for Ranges](https://github.com/CaseyCarter/cmcstl2)

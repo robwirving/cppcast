@@ -12,19 +12,19 @@ Jeff is a Visualization Software Engineer at Intel, where he works on the open s
 
 In his spare time, Jeff enjoys powerlifting, golf, being an electric guitar nerd, and studying a wide spectrum of music ranging from progressive metal to ambient electronic music.
 
-###News
+### News ###
 
  - [A bit of background for concepts and C++17](https://isocpp.org/blog/2016/02/a-bit-of-background-for-concepts-and-cpp17-bjarne-stroustrup)
  - [Current Proposals for C++17](http://meetingcpp.com/index.php/br/items/current-proposals-for-c17.html)
  - [Why <cstdlib> is more complicated than you think](https://developerblog.redhat.com/2016/02/29/why-cstdlib-is-more-complicated-than-you-might-think/)
  
-###Jeff Amstutz
+### Jeff Amstutz ###
 
  - [@jeffamstutz](https://twitter.com/jeffamstutz)
  - [Jeff Amstutz on LinkedIn](http://www.linkedin.com/in/jeffersonamstutz)
  - [Jeff Amstutz on GitHub](https://github.com/jeffamstutz)
 
-###Links
+### Links ###
 
  - [SDVis](http://www.sdvis.org/)
  - [OSPRay](http://www.ospray.org/)

@@ -16,19 +16,19 @@ She was formerly the CTO of [Flat Iron School](http://flatironschool.com), a sch
 
 In 2010 she cofounded Girl Develop It, a non-profit focused on helping more women become software developers. Girl Develop It is in 45 cities, and has taught over 17,000 women how to build software. 
 
-###News
+### News ###
 
  - [The C++ Annotations, a free up-to-date learners book/reference manual](https://fbb-git.github.io/cppannotations/cppannotations/html/index.html)
  - [Choosing "Some C++" Over C](https://medium.com/@davidtstrauss/choosing-some-c-over-c-f5acb3dce4f5)
  - [GCC's move to C++](https://lwn.net/Articles/542457/)
  - [PacifiC++](https://www.pacificplusplus.com/)
  
-###Sara Chipps
+### Sara Chipps ###
 
  - [@SaraJChipps](https://twitter.com/SaraJChipps)
  - [Sara Chipps' Blog](http://sarajchipps.com/)
 
-###Links
+### Links ###
 
  - [Jewelbots](https://jewelbots.com/)
  - [Jewelbots Support](https://jewelbots.com/pages/support)
@@ -37,7 +37,7 @@ In 2010 she cofounded Girl Develop It, a non-profit focused on helping more wome
  - [Girl Develop It](https://www.girldevelopit.com/)
  - [Flat Iron School](https://flatironschool.com/)
 
-###Sponsors
+### Sponsors ###
 
 - [Incredibuild](https://www.incredibuild.com/cppoffer)
 - [JetBrains](https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp)

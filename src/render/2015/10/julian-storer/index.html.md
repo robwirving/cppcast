@@ -14,17 +14,17 @@ He also created the Tracktion audio workstation in 2002, which is still going st
 
 He lives in London, and likes to escape from the world of music technology by playing classical guitar
 
-###News
+### News ###
 
  - [CppCon 2016 Call for Class Proposals](http://cppcon.org/callforclasses2016/)
  - [Bjarne Stroustrup on the 30th anniversary of Cfront](https://www.reddit.com/r/programming/comments/3oqj59/bjarne_stroustrup_on_the_30th_anniversary_of/)
  - [Do you prefer fast or precise?](http://blogs.msdn.com/b/vcblog/archive/2015/10/19/do-you-prefer-fast-or-precise.aspx)
  
-###Julian Storer
+### Julian Storer ###
 
  - [Julian Storer](https://github.com/julianstorer)
 
-###Links
+### Links ###
 
  - [CppCon 2015: Julian Storer "The Projucer"](https://www.youtube.com/watch?v=pKvt5_FhziI)
  - [JUCE](http://www.juce.com/)

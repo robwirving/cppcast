@@ -12,13 +12,13 @@ Kate Gregory has been using C++ since before Microsoft had a C++ compiler, and h
 
 Kate runs a small consulting firm in rural Ontario and provides mentoring and management consultant services, as well as writing code every week. She has spoken all over the world, written over a dozen books, and helped thousands of developers to be better at what they do. Kate is a Microsoft Regional Director, a Visual C++ MVP, an Imagine Cup judge and mentor, and an active contributor to StackOverflow and other StackExchange sites. She develops courses for Pluralsight, primarily on C++ and Visual Studio. In 2014 and 2015 she was Open Content Chair for CppCon, the largest C++ conference ever held, where she also delivered sessions.
 
-###News
+### News ###
 
  - [Getting started with emscripten](http://www.davevoyles.com/getting-started-with-emscripten/)
  - [Range checks using a switch statement](http://stackoverflow.com/questions/33037832/range-checks-using-a-switch-statement)
  - [Debug Visualizers in Visual C++ 2015](http://blogs.msdn.com/b/vcblog/archive/2015/09/28/debug-visualizers-in-visual-c-2015.aspx)
  
-###Kate Gregory
+### Kate Gregory ###
 
  - [@gregcons](https://twitter.com/gregcons)
  - [Kate Gregory's Blog](http://www.gregcons.com/kateblog/)
@@ -26,7 +26,7 @@ Kate runs a small consulting firm in rural Ontario and provides mentoring and ma
  - [Kate Gregory's Pluralsight courses](http://www.pluralsight.com/author/kate-gregory)
  - [Kate Gregory's books on Amazon](http://amzn.to/1RLot5H)
 
-###Links
+### Links ###
 
  - [CppCon 2015: Kate Gregory "Stop Teaching C"](https://www.youtube.com/watch?v=YnWhqhNdYyk)
  - [CppCon 2015: Kate Gregory "Stop Teaching C" (Slides)](https://github.com/CppCon/CppCon2015/tree/master/Presentations/Stop%20Teaching%20C)

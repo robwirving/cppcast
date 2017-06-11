@@ -6,7 +6,7 @@ date: 2015-06-17
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-016.mp3
 ---
 
-###News
+### News ###
 
  - [Bloomberg C++ Challenge for Chance to Attend CppCon](https://isocpp.org/blog/2015/06/bloomberg-cpp-challenge-for-chance-to-attend-cppcon)
  - [Time to get moving](http://bulldozer00.com/2015/06/15/time-to-get-moving/)
@@ -18,7 +18,7 @@ audioUrl: http://traffic.libsyn.com/cppcast/cppcast-016.mp3
  - [Webinar: A Tour of Modern C++](https://isocpp.org/blog/2015/06/webinar-a-tour-of-modern-cpp-thursday-july-2nd-2015)
  - [Hitler on C++17 (Downfall Parody)](http://www.reddit.com/r/cpp/comments/398x7w/hitler_on_c17/)
  
-###Links
+### Links ###
 
  - [@robwirving](https://twitter.com/robwirving)
  - [@lefticus](https://twitter.com/lefticus)

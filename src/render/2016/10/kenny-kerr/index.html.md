@@ -10,7 +10,7 @@ guestImage: kenny-kerr.png
 
 Kenny Kerr is an engineer on the Windows team at Microsoft, an MSDN Magazine contributing editor, Pluralsight author, and creator of moderncpp.com (C++/WinRT). He writes at kennykerr.ca and you can find him on Twitter at @kennykerr.
 
-###News
+### News ###
 
  - [VOTE! Support debugging of C++ code with IntelliTrace](https://visualstudio.uservoice.com/forums/121579-visual-studio-2015/suggestions/2286557-support-debugging-of-c-code-with-intellitrace?tracking_code=bb4e02b5c270f6744cab8484acc7b28f)
  - [All CppCon 2016 Videos Are Up!](http://cppcon.org/all-cppcon-2016-videos-are-up/)
@@ -25,19 +25,19 @@ Kenny Kerr is an engineer on the Windows team at Microsoft, an MSDN Magazine con
  - [Faster C++ solution load with VS "15"](https://blogs.msdn.microsoft.com/vcblog/2016/10/05/faster-c-solution-load-with-vs-15/)
  - [C++ Core Check code analysis is included with VS "15"](https://blogs.msdn.microsoft.com/vcblog/2016/10/12/cppcorecheck/)
  
-###Kenny Kerr
+### Kenny Kerr ###
 
  - [@kennykerr](https://twitter.com/kennykerr)
  - [Kenny Kerr's Blog](https://kennykerr.ca/)
  
-###Links
+### Links ###
 
 - [C++/WinRT Available on GitHub](https://moderncpp.com/2016/10/13/cppwinrt-available-on-github/)
 - [cppwinrt repository on GitHub](https://github.com/microsoft/cppwinrt)
 - [CppCon 2016: Kenny Kerr & James McNellis "Embracing Standard C++ for the Windows Runtime"](https://www.youtube.com/watch?v=lm4IwfiJ3EU)
 - [CppCon 2016: Kenny Kerr & James McNellis "Putting Coroutines to Work with the Windows Runtime"](https://www.youtube.com/watch?v=v0SjumbIips)
  
-###Sponsor
+### Sponsor ###
 
 - [Backtrace](https://www.backtrace.io/cppcast)
 
