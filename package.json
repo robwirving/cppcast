@@ -31,5 +31,8 @@
     "node": "^4.2",
     "npm": "^3.5"
   },
-  "main": "./node_modules/docpad/bin/docpad-server"
+  "main": "./node_modules/docpad/bin/docpad-server",
+  "scripts": {
+    "start": "node ./node_modules/docpad/bin/docpad-server"
+  }
 }
