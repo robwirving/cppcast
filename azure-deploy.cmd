@@ -98,7 +98,7 @@ echo Installing npm packages...
 echo ---------------------------
 pushd "%DEPLOYMENT_SOURCE%"
 :: call !NPM_CMD! install --production
-IF !ERRORLEVEL! NEQ 0 goto error
+:: IF !ERRORLEVEL! NEQ 0 goto error
 popd
 
 :: 2. Build DocPad site
