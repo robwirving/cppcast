@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNum: 105
 title: stlab Concurrency
 guest: Felix Petriconi
 date: 2017-06-14
