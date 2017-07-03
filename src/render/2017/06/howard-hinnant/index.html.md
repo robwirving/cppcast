@@ -22,7 +22,8 @@ Howard Hinnant is a Senior Software Engineer at Ripple and the lead author of se
 
 ### Links ###
 
- - [CppCon 2016: Howard Hinnant "A <chrono> Tutorial"](https://www.youtube.com/watch?v=P32hvk8b13M)
+ - [CppCon 2016: Howard Hinnant "A \<chrono\> Tutorial"](https://www.youtube.com/watch?v=P32hvk8b13M)
+ - [CppCon 2015: Howard Hinnant “A C++14 approach to dates and times"](https://www.youtube.com/watch?v=tzyGjOm8AKo)
  - [CppCon 2016: Howard Hinnant "Welcome To The Time Zone"](https://www.youtube.com/watch?v=Vwd3pduVGKY)
  - [A Proposal to Add Move Semantics Support to the C++ Language](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2002/n1377.htm)
 
