@@ -25,10 +25,10 @@ Christopher Di Bella will soon be a Runtime Technology Engineer at Codeplay, and
 
 ### Links ###
 
+ - [CppCon: Exploring the C++ Standard Library](https://cppcon.org/exploring-the-cpp-standard-library/)
  - [Concepts TS](https://github.com/cplusplus/concepts-ts)
  - [Range v3 Library](https://github.com/ericniebler/range-v3)
  - [Range TS/STL2](https://github.com/ericniebler/stl2)
- - [C++ Extension for Ranges](https://github.com/CaseyCarter/cmcstl2)
  - [C++ Extension for Ranges](https://github.com/CaseyCarter/cmcstl2)
  - [Advanced C++ Programming Course Notes](https://github.com/cjdb/COMP6771-AdvancedCppProgramming)
 
