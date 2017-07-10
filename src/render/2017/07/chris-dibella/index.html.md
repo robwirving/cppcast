@@ -31,6 +31,10 @@ Christopher Di Bella will soon be a Runtime Technology Engineer at Codeplay, and
  - [Range TS/STL2](https://github.com/ericniebler/stl2)
  - [C++ Extension for Ranges](https://github.com/CaseyCarter/cmcstl2)
  - [Advanced C++ Programming Course Notes](https://github.com/cjdb/COMP6771-AdvancedCppProgramming)
+ - [Book: "Writing Secure Code"](https://www.amazon.com/Writing-Secure-Code-Developer-Practices-ebook/dp/B00JDMP718/)
+ - [Book: "Code Complete"](https://www.amazon.com/Code-Complete-Developer-Best-Practices-ebook/dp/B00JDMPOSY/)
+ - [Book: "A Tour of C++"](https://www.amazon.com/Tour-C-Depth/dp/0321958314)
+ - [Seth Bling "Hacking the Super Mario World"](https://www.youtube.com/watch?v=OG40yd0_nOs)
 
 ### Sponsors ###
 
