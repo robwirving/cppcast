@@ -1,7 +1,7 @@
 ---
 layout: post
 episodeNum: 109
-title: Copperspice
+title: CopperSpice
 guest: Barbara Geller and Ansel Sermersheim
 date: 2017-07-10
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-109.mp3
@@ -25,8 +25,9 @@ Ansel has been working as a programmer for over 15 years. Ansel worked for 8 yea
 
 ### Links ###
 
- - [Copperspice](http://www.copperspice.com/)
- - [Copperspice GitHub](https://github.com/copperspice/copperspice)
+ - [CopperSpice](http://www.copperspice.com/)
+ - [CopperSpice GitHub](https://github.com/copperspice/copperspice)
+ - [CopperSpice YouTube Channel](https://www.youtube.com/channel/UC-lNlWEq0kpMcThO-I81ZdQ)
  - [DoxyPress](http://www.copperspice.com/documentation-doxypress.html)
  - [CppCon 2015: Barbara Geller & Ansel Sermersheim "CopperSpice: A Pure C++ GUI Library"](https://www.youtube.com/watch?v=LIiwBNvTllk)
  - [CppCon 2015: Barbara Geller & Ansel Sermersheim "Doxygen to DoxyPress"](https://www.youtube.com/watch?v=hQphBQMwk7s)
