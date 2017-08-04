@@ -25,8 +25,8 @@ Niall Douglas is a consultant for hire, is one of the authors of the proposed Bo
 ### Links ###
 
  - [Google Summer of Code](https://summerofcode.withgoogle.com/)
- - [Boost.Outcome](https://ned14.github.io/boost.outcome/)
- - [Boost.AFIO v2](https://ned14.github.io/boost.afio/)
+ - [Boost.Outcome](https://github.com/ned14/outcome)
+ - [Boost.AFIO v2](https://github.com/ned14/afio)
  - [ACCU 2017: Niall Douglas "Mongrel Monads, Dirty, Dirty, Dirty"](https://youtu.be/XVofgKH-uu4)
  - [CppCon 2015: Niall Douglas "Racing the File System"](https://www.youtube.com/watch?v=uhRWMGBjlO8)
  - [CppCon 2016: Niall Douglas "Better mutual exclusion on the filesystem using Boost.AFIO](https://www.youtube.com/watch?v=9l28ax3Zq0w)
