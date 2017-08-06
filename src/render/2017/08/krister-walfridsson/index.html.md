@@ -18,7 +18,7 @@ Krister got introduced to low-level programming by the C64/Amiga demo scene in t
  - [6 Reasons Why We Distribute C++ Libraries as Source Code](https://hackernoon.com/6-reasons-why-we-distribute-c-libraries-as-source-code-2dc614d5ef1e)
  - [Undefined Behavior in 2017](https://blog.regehr.org/archives/1520)
  
-### Patrice Roy ###
+### Krister Walfridsson ###
 
  - [@kwalfridsson](https://twitter.com/kwalfridsson)
  - [Krister Walfridsson's Blog](https://kristerw.blogspot.se/)
