@@ -25,6 +25,7 @@ Samy Al Bahra is the cofounder of Backtrace, where he is helping build a modern 
 ### Links ###
 
  - [C++Now 2017: Samy Bahra "Multicore Synchronization: The Lesser-Known Primitives"](https://www.youtube.com/watch?v=OfTy3ymDwWE)
+ - ["Multicore Synchronization: The Lesser-Known Primitives" Slides](https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-20-2017_saturday/the_lesser_known_multicore_synchronization_primitives__samy_bahra__cppnow_05-20-2017.pdf)
  - [Concurrency Kit](http://concurrencykit.org/)
 
 ### Sponsors ###
