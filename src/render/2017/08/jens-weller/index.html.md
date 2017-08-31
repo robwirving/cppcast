@@ -30,7 +30,8 @@ Jens Weller is the organizer and founder of Meeting C++. Doing C++ since 1998, h
  - [/r/cpp_review](https://www.reddit.com/r/cpp_review/)
  - [Meeting Embedded](http://meetingembedded.com/)
  - [Ultimate List of Developer Podcasts](https://simpleprogrammer.com/2016/10/29/ultimate-list-developer-podcasts/)
- - [Dlib](http://dlib.net/) - a modern C++ toolkit containing machine learning algorithms
+ - [Dlib - a modern C++ toolkit containing machine learning algorithms](http://dlib.net/) 
+ - [The Cherno Project](https://www.youtube.com/user/TheChernoProject)
 
 ### Sponsors ###
 
