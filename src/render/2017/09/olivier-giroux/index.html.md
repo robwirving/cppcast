@@ -5,7 +5,7 @@ title: Volta and Cuda C++
 guest: Olivier Giroux
 date: 2017-09-01
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-116.mp3
-guestImage: jens-weller.jpg
+guestImage: olivier-giroux.jpg
 ---
 
 Olivier Giroux has worked on eight GPU and four SM architecture generations released by NVIDIA. Lately, he works to clarify the forms and semantics of valid GPU programs, present and future. He was the programming model lead for the new NVIDIA Volta architecture. He is a member of WG21, the ISO C++ committee, and is a passionate contributor to C++'s forward progress guarantees and memory model.
