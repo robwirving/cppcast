@@ -19,7 +19,7 @@ to keep up to date on new c++ developments. In his free time he enjoys playing v
  - [Build your first C++ app](https://tutorials.visualstudio.com/cpp-console/intro)
  - [Why undefined behavior may call a never-called function](https://kristerw.blogspot.com/2017/09/why-undefined-behavior-may-call-never.html)
  
-### Olivier Giroux ###
+### Jan Wilmans ###
 
  - [@janwilmans](https://twitter.com/janwilmans)
  - [Jan Wilmans' GitHub](https://github.com/janwilmans)
