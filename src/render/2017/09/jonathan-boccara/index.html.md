@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNum: 118
 title: FluentC++
 guest: Jonathan Boccara
 date: 2017-09-14
