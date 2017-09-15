@@ -26,7 +26,8 @@ Jonathan loves writing, making videos, reading programming books, hanging out at
 ### Links ###
 
  - [FluentC++](http://www.fluentcpp.com/)
- - [FluentC++: STL Learning Resource](https://www.fluentcpp.com/stl/)
+ - [STL Learning Resource](https://www.fluentcpp.com/stl/)
+ - [Spread Knowledge in Your Company with Your "Daily C++"](https://www.fluentcpp.com/2017/09/14/become-recognized-cpp-skills-dailies/)
  - [Murex](https://www.murex.com/)
  - [Going Native 2013: Sean Parent "C++ Seasoning"](https://channel9.msdn.com/Events/GoingNative/2013/Cpp-Seasoning)
 
