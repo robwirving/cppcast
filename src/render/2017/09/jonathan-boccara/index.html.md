@@ -19,7 +19,7 @@ Jonathan loves writing, making videos, reading programming books, hanging out at
  - [Two-phase name lookup support comes to MSVC](https://blogs.msdn.microsoft.com/vcblog/2017/09/11/two-phase-name-lookup-support-comes-to-msvc/)
  - [CppCast compiles on godbolt](http://godbolt.org/g/pqkxfY)
  
-### Olivier Giroux ###
+### Jonathan Boccara ###
 
  - [@JoBoccara](https://twitter.com/JoBoccara)
 
