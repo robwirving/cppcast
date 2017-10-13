@@ -25,7 +25,13 @@ Titus Winters has spent the past 6 years working on Google's core C++ libraries.
  - [Abseil](https://abseil.io/)
  - [CppCon 2017: Titus Winters C++ as a "Live at Head Language"](https://www.youtube.com/watch?v=tISy7EJQPzI)
  
-### Sponsor ###
+### Sponsors ###
 
 - [Backtrace](https://www.backtrace.io/cppcast)
+- [JetBrains](https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp)
+
+### Hosts ###
+
+- [@robwirving](https://twitter.com/robwirving)
+- [@lefticus](https://twitter.com/lefticus)
 
