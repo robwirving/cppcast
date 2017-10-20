@@ -8,7 +8,11 @@ audioUrl: http://traffic.libsyn.com/cppcast/cppcast-123.mp3
 guestImage: gina-stephens.jpg
 ---
 
-Titus Winters has spent the past 6 years working on Google's core C++ libraries. He's particularly interested in issues of large scale software engineer and codebase maintenance: how do we keep a codebase of over 100M lines of code consistent and flexible for the next decade? Along the way he has helped Google teams pioneer techniques to perform automated code transformations on a massive scale, and helps maintain the Google C++ Style Guide.
+Gina Stephens is a software engineer with over 20 years' experience, 13 of those years leading development teams. Most of her experience has been with C++, in addition to Java, .NET and various scripting language.  The breadth of her development experience includes DOD, FDA, DOI, Hospitality, and Finance.
+ 
+Gina has a Bachelors in Computer Science from MS&T in Rolla, MO and a Masters in Computer Science from the University of Missouri – STL. She also founded and runs the STL C++ User Group.
+ 
+Gina is also a Desert Storm Air Force veteran during which she worked on the B-52 bombers that were carpet-bombing Iraq. She is happily married with 2 sons, both of whom are serving in the US Navy.
 
 ### News ###
 
