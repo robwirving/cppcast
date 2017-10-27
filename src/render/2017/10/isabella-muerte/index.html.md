@@ -24,7 +24,7 @@ Isabella Muerte is a C++ Bruja and Build System Trash Goblin. She taught herself
 ### Links ###
 
  - [Millennials Are Killing the Modules TS](https://izzys.casa/posts/millennials-are-killing-the-modules-ts.html)
- - CppCon 2017: Isabella Muerte "There Will Be Build Systems: I Configure Your Milkshake" (Video currently offline due to Audio Sync issues)
+ - [CppCon 2017: Isabella Muerte "There Will Be Build Systems: I Configure Your Milkshake"](https://www.youtube.com/watch?v=7THzO-D0ta4)
  
 ### Sponsors ###
 
