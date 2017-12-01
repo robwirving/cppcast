@@ -3,7 +3,7 @@ layout: post
 episodeNum: 128
 title: Clang Power Tools
 guest: Victor Ciura
-date: 2017-11-23
+date: 2017-11-30
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-128.mp3
 guestImage: victor-ciura.jpg
 ---
