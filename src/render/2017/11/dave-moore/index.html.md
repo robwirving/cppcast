@@ -25,12 +25,12 @@ Dave Moore started programming after getting fired from his college work study j
 
  - [Oculus Developer Center](https://developer.oculus.com/)
  - [Oculus Research](https://www.oculus.com/research/)
+- [Oculus Connect 3 Opening Keynote: Michael Abrash](https://www.youtube.com/watch?v=AtyE5qOB4gw&t=360s)
  
 ### Sponsors ###
 
 - [Backtrace](https://www.backtrace.io/cppcast)
 - [JetBrains](https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp)
-- [Oculus Connect 3 Opening Keynote: Michael Abrash](https://www.youtube.com/watch?v=AtyE5qOB4gw&t=360s)
 
 ### Hosts ###
 
