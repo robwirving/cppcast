@@ -47,26 +47,31 @@ cacheable: true
 					<img src="/images/jetbrains_600x500.png" title="JetBrains" align="middle" />
 				</a>
 			</li>-->
-			<li>
+			<!--<li>
 				<a href='http://www.audibletrack.com/click.track?CID=102175&AFID=421325&ADID=1213642&SID='>
 					<img src='http://www.audibletrack.com/impression.track?CID=102175&AFID=421325&ADID=1213642&SID=' border='0' />
 				</a>
-			</li>
+			</li>-->
 			<!--<li>
 				<a href="https://www.incredibuild.com/cppoffer" title="Incredibuild">
 					<img src="/images/Incredibuild_600x500.jpg" title="Incredibuild" align="middle" />
 				</a>
 			</li>-->
 			<li>
+				<a href="https://embo.io" title="emBO++">
+					<img src="/images/emBOcppcast2.jpg" title="emBO++" />
+				</a>
+			</li>
+			<li>
 				<a href="http://www.cppcon.org" title="CppCon">
 					<img src="/images/cppcon-logo.png" title="CppCon" />
 				</a>
 			</li>
-			<li>
+			<!--<li>
 				<a href="https://meetingcpp.com/index.php/schedule16.html" title="Meeting C++">
 					<img src="/images/mcppcast.png" title="Meeting C++" />
 				</a>
-			</li>
+			</li>-->
 		</ul>
 	</nav>
     <nav class="sidebar-nav" id="subscribe-nav">
