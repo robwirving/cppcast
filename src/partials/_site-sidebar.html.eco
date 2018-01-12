@@ -27,16 +27,16 @@ cacheable: true
 					<img src="/images/Incredibuild_600x500.jpg" title="Incredibuild" align="middle" />
 				</a>
 			</li>-->
-			<li>
+			<!--<li>
 				<a href="https://undo.io/undodb/" title="Undo">
 					<img src="/images/Undo_220x250.jpg" title="Undo" align="middle" />
 				</a>
-			</li>
-			<!--<li>
+			</li>-->
+			<li>
 				<a href="http://backtrace.io/cppcast" title="Backtrace">
 					<img src="/images/Backtrace_900x193.png" title="Backtrace" align="middle" />
 				</a>
-			</li>-->
+			</li>
 			<!--<li>
 				<a href="http://conan.io" title="Conan">
 					<img src="/images/conan600x500.png" title="Conan" align="middle" />
@@ -62,11 +62,11 @@ cacheable: true
 					<img src="/images/emBOcppcast2.jpg" title="emBO++" />
 				</a>
 			</li>
-			<li>
+			<!--<li>
 				<a href="http://www.cppcon.org" title="CppCon">
 					<img src="/images/cppcon-logo.png" title="CppCon" />
 				</a>
-			</li>
+			</li>-->
 			<!--<li>
 				<a href="https://meetingcpp.com/index.php/schedule16.html" title="Meeting C++">
 					<img src="/images/mcppcast.png" title="Meeting C++" />
