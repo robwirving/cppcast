@@ -84,6 +84,7 @@ cacheable: true
 			<li><a href="http://player.fm/series/cppcast" title="Subscribe to CppCast via PlayerFM" target="_blank">PlayerFM</a></li>
 			<li><a href="http://app.stitcher.com/browse/feed/61449/details" title="Subscribe to CppCast via Stitcher" target="_blank">Stitcher</a></li>
 			<li><a href="http://tunein.com/radio/cppcast-p685561" title="Subscribe to CppCast via tunein" target="_blank">tunein</a></li>
+			<li><a href="https://www.youtube.com/channel/UCuCjADS4u3uJDTqUaG0H9dA" title="Subscribe to CppCast via YouTube" target="_blank">RSS</a></li>
 			<li><a href="http://cppcast.libsyn.com/rss" title="Subscribe to CppCast via RSS" target="_blank">RSS</a></li>
     	</ul>
     </nav>
