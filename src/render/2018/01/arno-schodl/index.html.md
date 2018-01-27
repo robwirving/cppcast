@@ -2,7 +2,7 @@
 layout: post
 episodeNum: 135
 title: Think-Cell Ranges
-guest: Arno Schödl 
+guest: Arno Schödl
 date: 2018-01-25
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-135.mp3
 guestImage: arno-schodl.jpg
@@ -10,7 +10,7 @@ guestImage: arno-schodl.jpg
 
 Arno Schödl, Ph.D. is the Co-Founder and Technical Director of think-cell Software GmbH, Berlin.
 think-cell is the de facto standard when it comes to professional presentations in Microsoft PowerPoint. Arno is responsible for the design, architecture and development of all our software products. He oversees think-cell’s R&D team, Quality Assurance and Customer Care.
-Before founding think-cell, Arno worked at Microsoft Research and McKinsey & Company. Arno studied computer science and management and holds a Ph.D. from the Georgia Institute of Technology with a specialization on Computer Graphics.
+Before founding think-cell, Arno worked at Microsoft Research and McKinsey & Company. Arno studied computer science and management and holds a Ph.D. from the Georgia Institute of Technology with a specialization in Computer Graphics.
 
 ### News ###
 
