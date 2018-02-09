@@ -3,7 +3,7 @@ layout: post
 episodeNum: 137
 title: Qt Mobile Development
 guest: Sarah Smith
-date: 2018-02-01
+date: 2018-02-09
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-137.mp3
 guestImage: sarah-smith.png
 ---
@@ -39,7 +39,7 @@ Sarah is an international speaker and expert in creative teams and agile project
 
 ### Sponsors ###
 
-- [Backtrace](https://www.backtrace.io/cppcast)
+- [think-cell software](www.think-cell.com/cppcast)
 - [Embo++](https://embo.io)
 
 ### Hosts ###
