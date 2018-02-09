@@ -32,16 +32,16 @@ cacheable: true
 					<img src="/images/Undo_220x250.jpg" title="Undo" align="middle" />
 				</a>
 			</li>-->
-			<li>
+			<!--<li>
 				<a href="http://backtrace.io/cppcast" title="Backtrace">
 					<img src="/images/Backtrace_900x193.png" title="Backtrace" align="middle" />
 				</a>
-			</li>
-			<!--<li>
+			</li>-->
+			<li>
 				<a href="http://think-cell.com/cppcast" title="think-cell">
 					<img src="/images/think-cell-banner.jpg" title="think-cell" align="middle" />
 				</a>
-			</li>-->
+			</li>
 			<!--<li>
 				<a href="http://conan.io" title="Conan">
 					<img src="/images/conan600x500.png" title="Conan" align="middle" />
