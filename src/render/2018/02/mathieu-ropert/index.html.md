@@ -5,7 +5,7 @@ title: API & ABI Versioning
 guest: Mathieu Ropert
 date: 2018-02-16
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-138.mp3
-guestImage: sarah-smith.png
+guestImage: mathieu-ropert.jpg
 ---
 
 Mathieu is a french C++ expert with an eclectic background. He's worked in various fields including kernels, virtualization, web development, databases, REST microservices, build systems and package management, all those in (or about) C or C++. 
