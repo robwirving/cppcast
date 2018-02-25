@@ -32,7 +32,7 @@ Conor Hoekstra works at Moody's Analytics as a C++ Software Developer helping ma
 
 ### Sponsors ###
 
-- [think-cell software](www.think-cell.com/cppcast)
+- [think-cell software](http://www.think-cell.com/cppcast)
 - [Embo++](https://embo.io)
 
 ### Hosts ###

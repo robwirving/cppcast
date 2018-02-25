@@ -39,7 +39,7 @@ Sarah is an international speaker and expert in creative teams and agile project
 
 ### Sponsors ###
 
-- [think-cell software](www.think-cell.com/cppcast)
+- [think-cell software](http://www.think-cell.com/cppcast)
 - [Embo++](https://embo.io)
 
 ### Hosts ###

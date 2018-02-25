@@ -32,7 +32,7 @@ Until then, Mathieu lives and works in Paris, France where he is also host of th
 
 ### Sponsors ###
 
-- [think-cell software](www.think-cell.com/cppcast)
+- [think-cell software](http://www.think-cell.com/cppcast)
 - [Embo++](https://embo.io)
 
 ### Hosts ###
