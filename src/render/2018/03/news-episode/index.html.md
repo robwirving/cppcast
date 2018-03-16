@@ -11,7 +11,7 @@ guestImage: rob-jason.jpg
 
  - [WG21 pre-Jacksonville telecon](https://isocpp.org/files/papers/n4730.pdf)
  - [Results summary: C++ Foundation Developer Survey](https://isocpp.org/blog/2018/03/results-summary-cpp-foundation-developer-survey-lite-2018-02)
- - [ClangFormat Support in Visual Studio 2017](https://blogs.msdn.microsoft.com/vcblog/2018/03/13/clangformat-support-in-visual-studio-2017-15-7-preview-1/a)
+ - [ClangFormat Support in Visual Studio 2017](https://blogs.msdn.microsoft.com/vcblog/2018/03/13/clangformat-support-in-visual-studio-2017-15-7-preview-1/)
  - [C++ Code Analysis Improvements for Visual Studio 2017](https://blogs.msdn.microsoft.com/vcblog/2018/03/13/c-code-analysis-improvements-for-visual-studio-2017-15-7-preview-1/7)
  - [Linux C++ Workload improvements to the Project System, Console Window, rsync and Attach to Process](https://blogs.msdn.microsoft.com/vcblog/2018/03/13/linux-c-workload-improvements-to-the-project-system-linux-console-window-rsync-and-attach-to-process/)
  - [LLVM 6.0 Release](https://lists.llvm.org/pipermail/llvm-announce/2018-March/000077.html)
