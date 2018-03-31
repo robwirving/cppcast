@@ -32,6 +32,10 @@ guestImage: olafur-waage.jpg
 - [Backtrace](https://www.backtrace.io/cppcast)
 - [JetBrains](https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp)
 
+### Listener Survey ###
+
+- [CppCast Listener Survey](http://bit.ly/CppCastSurvey)
+
 ### Hosts ###
 
 - [@robwirving](https://twitter.com/robwirving)
