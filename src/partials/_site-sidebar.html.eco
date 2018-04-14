@@ -84,7 +84,7 @@ cacheable: true
     	<ul>
 			<li><a href="https://itunes.apple.com/us/podcast/cppcast/id968703120" title="Subscribe to CppCast via iTunes" target="_blank">iTunes</a></li>
 			<li><a href="https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Ifdjr2ulzttywphhhlj6hqezjou?t%3DCppCast" title="Subscribe to CppCast via Google Play" target="_blank">Google Play</a></li>
-			<li><a href="http://cppcast.com/subscribe-windows-phone/" title="Subscribe to CppCast via Windows Phone" target="_blank">Windows Phone</a></li>
+			<!--<li><a href="http://cppcast.com/subscribe-windows-phone/" title="Subscribe to CppCast via Windows Phone" target="_blank">Windows Phone</a></li>-->
 			<li><a href="https://open.spotify.com/show/3NPVzS05lvJLv3ovgF3OAP" title="Subscribe to CppCast via Spotify" target="_blank">Spotify</a></li>
 			<li><a href="http://player.fm/series/cppcast" title="Subscribe to CppCast via PlayerFM" target="_blank">PlayerFM</a></li>
 			<li><a href="http://app.stitcher.com/browse/feed/61449/details" title="Subscribe to CppCast via Stitcher" target="_blank">Stitcher</a></li>
@@ -106,6 +106,13 @@ cacheable: true
 					<img src="/images/share-twitter.png" title="Follow @CppCast on Twitter" />
 				</a>
 			</li>
+    	</ul>
+    </nav>
+    <nav class="sidebar-nav" id="more-nav">
+    	<h2>More</h2>
+    	<ul>
+			<li><a href="https://www.patreon.com/CppCast" title="Patreon" target="_blank">Patreon</a></li>
+			<li><a href="https://shop.spreadshirt.com/CppCast/" title="Spreadshirt" target="_blank">Gear</a></li>
     	</ul>
     </nav>
 </aside>
