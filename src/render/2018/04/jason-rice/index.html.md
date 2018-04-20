@@ -1,7 +1,7 @@
 ---
 layout: post
 episodeNum: 146
-title: CppDoc and nbdl
+title: CppDock and nbdl
 guest: Jason Rice
 date: 2018-04-19
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-146.mp3
