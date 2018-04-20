@@ -12,7 +12,7 @@ Jason is a web applications programmer with an appetite for C++ metaprogramming 
 
 ### News ###
 
- - [#include <C++>](http://www.includecpp.org/)
+ - [#include C++](http://www.includecpp.org/)
  - [Blast from the Past: Borland C++ on Windows 98](http://nullprogram.com/blog/2018/04/13/)
  - [Boost 1.67.0 Released](https://lists.boost.org/boost-users/2018/04/88553.php)
  
