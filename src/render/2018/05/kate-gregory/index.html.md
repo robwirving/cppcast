@@ -29,7 +29,7 @@ Kate runs a small consulting firm in rural Ontario and provides mentoring and ma
 
  - [Meeting C++ 2017 - Kate Gregory: "It's Complicated"](https://www.youtube.com/watch?v=tTexD26jIN4)
  - [ACCU 2018 - Kate Gregory: "Simplicity: not just for beginners"](https://www.youtube.com/watch?v=O50qTuM5OT0)
- - [ACCU 2018 - Kevlin Henney: "Procedural Programming: It's Back? It Never Went Away"](https://www.youtube.com/watch?v=ARosL9xrozk)
+ - [Meeting C++ 2017 - Kate Gregory: "5 Things I figured out while..."](https://www.youtube.com/watch?v=ARosL9xrozk)
  - [Pluralsight: C++ Fundamentals Including C++17](https://www.pluralsight.com/courses/cplusplus-fundamentals-c17)
 
 ### Sponsors ###
