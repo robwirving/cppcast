@@ -23,7 +23,7 @@ Kate runs a small consulting firm in rural Ontario and provides mentoring and ma
 ### Kate Gregory ###
 
  - [@gregcons](https://twitter.com/gregcons)
- - [Kate Gregory's Blog](http://www.gregcons.com/kateblog/y)
+ - [Kate Gregory's Blog](http://www.gregcons.com/kateblog/)
 
 ### Links ###
 
