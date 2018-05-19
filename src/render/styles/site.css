@@ -1129,3 +1129,19 @@ body {
                 margin-right: 0; }
               #container #site-footer-container #site-footer .footer-nav.subscribe h1, #container #site-footer-container #site-footer .footer-nav.subscribe p, #container #site-footer-container #site-footer .footer-nav.subscribe li {
                 text-align: center; } }
+
+/**
+ * Media Playback speed styling
+ */
+.playback-rate-controls ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    background-color: rgba(255,255,255,.4); }
+  .playback-rate-controls li {
+    display: inline; }
+  .playback-rate-controls li:not(:last-of-type)::after {
+    content: " | "; }
+  .playback-rate-controls ul li a {
+	text-shadow: none; }
