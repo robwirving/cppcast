@@ -4,7 +4,7 @@ episodeNum: 155
 title: C++ Insights
 guest: Andreas Fertig
 date: 2018-06-21
-audioUrl: http://traffic.libsyn.com/cppcast/cppcast-153.mp3
+audioUrl: http://traffic.libsyn.com/cppcast/cppcast-155.mp3
 guestImage: andreas-fertig.png
 ---
 
