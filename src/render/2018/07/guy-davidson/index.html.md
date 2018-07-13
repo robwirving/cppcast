@@ -23,6 +23,7 @@ Guy Davidson is the Coding Manager of Creative Assembly, makers of the Total War
 
 ### Links ###
 
+ - [The 2D Graphics TS](https://hatcat.com/?p=63)
  - [2D or not 2D: that is the question: Rapperswil trip report](https://hatcat.com/?p=48)
  - [io2d](http://www.io2d.org)
 
