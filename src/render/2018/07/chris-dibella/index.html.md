@@ -4,8 +4,8 @@ episodeNum: 158
 title: Parallel Ranges
 guest: Christopher Di Bella
 date: 2018-07-19
-audioUrl: http://traffic.libsyn.com/cppcast/cppcast-159.mp3
-guestImage: dmitri-nesteruk.jpg
+audioUrl: http://traffic.libsyn.com/cppcast/cppcast-160.mp3
+guestImage: chris-dibella.jpg
 ---
 
 Christopher Di Bella is a Staff Software Engineer for Codeplay’s ComputeCpp Runtime Technology and a C++ teacher. He advocates for including the Concepts TS and the Ranges TS in C++20.
