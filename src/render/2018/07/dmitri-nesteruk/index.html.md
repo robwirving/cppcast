@@ -1,6 +1,6 @@
 ---
 layout: post
-episodeNum: 158
+episodeNum: 159
 title: Design Patterns in Modern C++
 guest: Dmitri Nesteruk
 date: 2018-07-19
