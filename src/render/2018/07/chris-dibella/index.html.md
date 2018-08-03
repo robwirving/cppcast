@@ -1,9 +1,9 @@
 ---
 layout: post
-episodeNum: 158
+episodeNum: 160
 title: Parallel Ranges
 guest: Christopher Di Bella
-date: 2018-07-19
+date: 2018-07-26
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-160.mp3
 guestImage: chris-dibella.jpg
 ---
