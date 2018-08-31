@@ -15,6 +15,10 @@ Matthew Fernandez is a Research Scientist with Intel Labs. Matt began his progra
  - [C++17 in Detail now available](https://leanpub.com/cpp17indetail/c/cppcast)
  - [Cross-language interfaces between C and C++](https://gustedt.wordpress.com/2017/08/08/cross-language-interfaces-between-c-and-c/)
  - [Spaceship Operator](https://blog.tartanllama.xyz/spaceship-operator/)
+ 
+### Matt Fernandez ###
+
+- [@wattsamata](https://twitter.com/wattsamata)
 
 ### Links ###
 
