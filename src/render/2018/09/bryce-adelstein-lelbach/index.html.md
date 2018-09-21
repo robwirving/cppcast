@@ -8,6 +8,7 @@ audioUrl: http://traffic.libsyn.com/cppcast/cppcast-168.mp3
 guestImage: bryce-adelstein-lelbach.jpg
 ---
 
+Bryce Adelstein Lelbach is a software engineer on the CUDA driver team at NVIDIA. Bryce is passionate about parallel programming. He maintains Thrust, the CUDA C++ core library. He is also one of the initial developers of the HPX C++ runtime system. He spent five years working on HPX while he was at Louisiana State University's Center for ComCppputation and Technology, and three years at Lawrence Berkeley National Laboratory (a US Department of Energy research facility) developing and analyzing new parallel programming models for exascale and post-Moore architectures. He also helped start the LLVMLinux initiative, and has occasionally contributed to the Boost C++ libraries. Bryce is an organizer for the C++Now and CppCon conferences as well as the Bay Area C++ user group, and he is passionate about C++ community development. He is a member of the ISO C++ standard committee. He worked on the C++17 parallel algorithms; today, he works on standardizing better futures, executors, and multi-dimensional arrays.
 
 ### News ###
 
