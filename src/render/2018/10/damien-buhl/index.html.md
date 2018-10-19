@@ -23,6 +23,7 @@ Damien was a Qt on Android Contributor which he presented at Droidcon 2011 in Be
 ### Links ###
 
  - [nxxm](https://nxxm.github.io/)
+ - [belle::vue open source project](https://github.com/nxxm/bellevue)
  - [C++ Everywhere with WebAssembly](https://cppcon2018.sched.com/event/FnKX/c-everywhere-with-webassembly)
  - [C++ Everywhere with WebAssembly Slidedeck](https://nxxm.github.io/cppcon2018/CPP_EVERYWHERE_WITH_WASM.html#/)
  - [Calls between Javascript and WebAssembly are finally fast](https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast-%F0%9F%8E%89/)
