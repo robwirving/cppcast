@@ -27,6 +27,7 @@ She studied computer science at Mendel university and subsequently taught severa
 ### Links ###
 
  - [Compile Time Regular Expression v2](https://github.com/hanickadot/compile-time-regular-expressions)
+ - [CppCon 2018: Hana Dusíková "Compile Time Regular Expressions"](https://www.youtube.com/watch?v=ekdWbrLXM7I)
  - [Compile Time Regular Expressions Presentation Slides](https://www.hanicka.net/ctre/#/)
  - [Avast Prague C++ Meetup](https://www.meetup.com/avast-prague-cpp/)
  - [P1235R0: Implicit constexpr](http://open-std.org/JTC1/SC22/WG21/docs/papers/2018/p1235r0.pdf)
