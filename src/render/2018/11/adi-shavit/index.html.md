@@ -17,7 +17,7 @@ Having worked on proprietary software for most of his career, his most visible c
  - [What Happens in 2098 with C++?](https://www.reddit.com/r/cpp/comments/9g3dkt/what_happens_in_2098_with_c/)
  - [JSON For Modern C++ version 3.3.0 released](https://www.reddit.com/r/cpp/comments/9llc9x/json_for_modern_c_version_330_released/)
  - [Meeting C++ 2018 Schedule](https://meetingcpp.com/2018/Schedule.html)
- - [San Diego Pregame - Optional Choices to Make](https://thephd.github.io/2018/10/25/Big-Papers-Optional.html)
+ - [San Diego Pregame - Optional Choices to Make](https://thephd.github.io/sandiego-2018-pregame-optional)
 
 ### Adi Shavit ###
 
