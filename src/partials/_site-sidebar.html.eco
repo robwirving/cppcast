@@ -47,11 +47,11 @@ cacheable: true
 					<img src="/images/conan600x500.png" title="Conan" align="middle" />
 				</a>
 			</li>-->
-			<!--<li>
+			<li>
 				<a href="https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp" title="JetBrains">
 					<img src="/images/jetbrains_600x500.png" title="JetBrains" align="middle" />
 				</a>
-			</li>-->
+			</li>
 			<!--<li>
 				<a href='http://www.audibletrack.com/click.track?CID=102175&AFID=421325&ADID=1213642&SID='>
 					<img src='http://www.audibletrack.com/impression.track?CID=102175&AFID=421325&ADID=1213642&SID=' border='0' />
