@@ -27,11 +27,10 @@ is currently the CTO of Appico. If he is not programming, he enjoys reading book
  - [Arvid Gerstmann's GitHub](https://github.com/Leandros/)
  
 ### Links ###
- 
+
  - [Appico](https://appico.com/)
  - [Cpp Tour](https://github.com/Leandros/cpp-tour)
  - [FASTBuild](http://www.fastbuild.org/docs/home.html) 
- - [Kai Wolf's Effective CMake Book](https://leanpub.com/effective-cmake)
  
 ### Sponsors ###
 
