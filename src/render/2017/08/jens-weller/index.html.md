@@ -25,7 +25,7 @@ Jens Weller is the organizer and founder of Meeting C++. Doing C++ since 1998, h
 
 ### Links ###
 
- - [Meeting C++](http://meetingcpp.com)
+ - [Meeting C++](https://github.com/TartanLlama/minidbg)
  - [Meeting C++ 2017 Conference](https://meetingcpp.com/index.php/mcpp2017.html)
  - [/r/cpp_review](https://www.reddit.com/r/cpp_review/)
  - [Meeting Embedded](http://meetingembedded.com/)
