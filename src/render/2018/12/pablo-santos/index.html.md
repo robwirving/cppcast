@@ -26,6 +26,7 @@ Prior to entering start-up mode to launch Plastic SCM back in 2005, Pablo worked
  - [Semantic Merge](http://semanticmerge.com/)
  - [Plastic SCM](https://www.plasticscm.com/)
  - [gmaster](https://www.gmaster.io/)
+ - [Plastic SCM Blog](http://blog.plasticscm.com/)
 
 ### Sponsors ###
 
