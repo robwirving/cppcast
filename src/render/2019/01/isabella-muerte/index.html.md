@@ -32,7 +32,7 @@ Isabella Muerte is a C++ Bruja, Build System Titan, and an open source advocate.
  - [P1275R0 Desert Sessions: Improving hostile environment interactions](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p1275r0.html)
  - [P1276R0 Void Main](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p1276r0.html)
  - [P1279R0 std::breakpoint](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p1279r0.html)
- - [P1280R0 Integer Width Literals](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p1276r0.html)
+ - [P1280R0 Integer Width Literals](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p1280r0.html)
  - [CppCon 2017: Isabella Muerte "There Will Be Build Systems: I Configure Your Milkshake"](https://www.youtube.com/watch?v=7THzO-D0ta4)
 
 ### Sponsors ###
