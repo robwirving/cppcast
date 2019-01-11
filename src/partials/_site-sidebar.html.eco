@@ -72,11 +72,11 @@ cacheable: true
 					<img src="/images/cppcon-logo.png" title="CppCon" />
 				</a>
 			</li>-->
-			<li>
+			<!--<li>
 				<a href="https://www.meetingcpp.com/2018/" title="Meeting C++">
 					<img src="/images/mcppcast.png" title="Meeting C++" />
 				</a>
-			</li>
+			</li>-->
 		</ul>
 	</nav>
     <nav class="sidebar-nav" id="subscribe-nav">
