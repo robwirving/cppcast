@@ -1,7 +1,7 @@
 ---
 layout: post
 episodeNum: 183
-title: \[Boost\] DI and SML
+title: Boost DI and SML
 guest: Kris Jusiak
 date: 2019-01-17
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-183.mp3
