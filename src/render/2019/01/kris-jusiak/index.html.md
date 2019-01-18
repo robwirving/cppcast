@@ -1,7 +1,7 @@
 ---
 layout: post
 episodeNum: 183
-title: [Boost] DI and SML
+title: \[Boost\] DI and SML
 guest: Kris Jusiak
 date: 2019-01-17
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-183.mp3
@@ -24,10 +24,10 @@ Kris is a C++ Software Engineer who currently lives a couple of doors down from 
 
 ### Links ###
 
- - [[Boost].DI](http://boost-experimental.github.io/di/)
- - [[Boost].SML](http://boost-experimental.github.io/sml/)
+ - [\[Boost\].DI](http://boost-experimental.github.io/di/)
+ - [\[Boost\].SML](http://boost-experimental.github.io/sml/)
  - [CppCon 2018: Kris Jusiak "State Machines Battlefield - Naive vs STL vs Boost"](https://www.youtube.com/watch?v=yZVby-PuXM0)
- - [CppCon 2018: Kris Jusiak "[Boost].DI - Inject all the things!"](https://www.youtube.com/watch?v=8HmjM3G8jhQ)
+ - [CppCon 2018: Kris Jusiak "\[Boost\].DI - Inject all the things!"](https://www.youtube.com/watch?v=8HmjM3G8jhQ)
  - [C++Now 2016: Kris Jusiak: A C++14 Dependency Injection Library](https://www.youtube.com/watch?v=comZthFv3PM)
  - [Concepts driven design - Kris Jusiak - Meeting C++ 2017](https://www.youtube.com/watch?v=TorW5ekkL_w)
 
