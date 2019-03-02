@@ -25,6 +25,7 @@ Peter Bindels is a C++ software engineer who prides himself on writing code that
 
  - [CppCon 2018: Peter Bindels "Build Systems: a Simple Solution to a Complicated Problem"](https://www.youtube.com/watch?v=mWOmkwv8N_U)
  - [C++Now 2018: Peter Bindels "A View to a View"](https://www.youtube.com/watch?v=T1WjKvLJGxg)
+ - [CppOnSea 2019: Peter Bindels "Designing for beginners: Simple graphics, a case study"](https://www.youtube.com/watch?v=0byac9a-PBM)
  - [Concerns about module toolability](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1427r0.pdf)
 
 ### Sponsors ###
