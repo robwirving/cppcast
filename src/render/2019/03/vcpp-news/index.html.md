@@ -5,7 +5,7 @@ title: Visual C++ Updates
 guest: Marian Luparu, Simon Brand, Tara Raj and Bob Brown
 date: 2019-03-21
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-191.mp3
-guestImage: vcppteam.jpg
+guestImage: vcppteam.png
 ---
 
 Marian Luparu is the Lead Program Manager of the C++ team responsible for the C++ experience in Visual Studio, VS Code as well as Vcpkg. 
