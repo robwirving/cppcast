@@ -1,6 +1,6 @@
 ---
 layout: post
-episodeNum: 193
+episodeNum: 194
 title: Linear Algebra and Audio
 guest: Guy Davidson
 date: 2019-04-11
