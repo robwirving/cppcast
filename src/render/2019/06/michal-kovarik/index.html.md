@@ -5,7 +5,7 @@ title: Factorio
 guest: Michal Kovařík
 date: 2019-06-14
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-202.mp3
-guestImage: michal-kovarik.jpg
+guestImage: michal-kovarik.png
 ---
 
 Michal is 34 years old and started programming when he was 11. C (and C++ soon after) became his favorite language soon afterwards.
