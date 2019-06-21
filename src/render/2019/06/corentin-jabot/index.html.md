@@ -27,7 +27,7 @@ He has been doing C++ for about 10 years and currently works with Mobsya, a swis
  - [p1207: Movability of Single-pass iterators](https://isocpp.org/files/papers/P1207R2.pdf)
  - [p1206: ranges::to: A function to convert any range to a container](https://isocpp.org/files/papers/p1206r1.pdf)
  - [p1634: Naming guidelines for modules](https://isocpp.org/files/papers/P1634R0.html)
- - [p1628: Unicode character properties](https://isocpp.org/files/papers/P1634R0.html)
+ - [p1628: Unicode character properties](https://isocpp.org/files/papers/P1628R0.pdf)
 
 ### Sponsors ###
 
