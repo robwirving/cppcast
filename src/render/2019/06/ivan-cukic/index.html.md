@@ -3,9 +3,9 @@ layout: post
 episodeNum: 204
 title: Functional Programming in C++
 guest: Ivan Čukić
-date: 2019-06-20
+date: 2019-06-27
 audioUrl: http://traffic.libsyn.com/cppcast/cppcast-204.mp3
-guestImage: ican-cukic.jpg
+guestImage: ivan-cukic.jpg
 ---
 
 Ivan Čukić is the author of "Functional Programming in C++" published by Manning.
