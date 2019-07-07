@@ -14,6 +14,7 @@ When not working on VTK-m, Robert is either; writing CMake code, teaching CMake,
 
 ### News ###
 
+ - [CppCheck detect more uninitalized variable usage](https://www.indiegogo.com/projects/cppcheck-detect-more-uninitalized-variable-usage/#/)
  - [In support of P1485 "Better keywords for coroutines"](https://quuxplusone.github.io/blog/2019/06/26/pro-p1485/)
  - [The power of Hidden Friends in C++](https://blogs.accu.org/?p=1974)
  - [CppCon Poster Submissions 2019](https://cppcon.org/poster-submissions-2019/)
