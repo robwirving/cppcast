@@ -16,6 +16,12 @@ Since 2017, she has used her spare time to work remotely with Llewellyn Falco on
     
 Clare was until recently a Principal Scientific Software Engineer at Cambridge Crystallographic Data Centre. She is the original author of their popular 3D crystal structure visualisation program [Mercury](https://www.ccdc.cam.ac.uk/mercury/).
 
+### News ###
+
+ - [Cmake 3.15 available](https://blog.kitware.com/cmake-3-15-0-available-for-download/)
+ - [Clang/LLVM Support for MSBuild Projects](https://devblogs.microsoft.com/cppblog/clang-llvm-support-for-msbuild-projects/)
+ - [LEAF light-weight error-handling lib seeking Boost review manager](https://old.reddit.com/r/cpp/comments/cdzy8w/leaf_a_lightweight_errorhandling_library_seeking/)
+
 ### Clare Macrae ###
 
  - [@ClareMacraeUK](https://twitter.com/ClareMacraeUK)
