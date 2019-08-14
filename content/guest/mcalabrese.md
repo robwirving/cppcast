@@ -1,0 +1,6 @@
++++
+Title = "Matt Calabrese"
+Twitter = "@cppsage"
+Thumbnail = "img/guest/matt-calabrese.jpg"
++++
+Matt Calabrese is a software engineer working primarily in C++. He started his programming career in the game industry and is now working on libraries at Google. Matt has been active in the Boost community for over a decade, is currently a member of the Boost Steering Committee, and is a member of the Program Committee for C++Now. Starting in the fall of 2015, he has been attending C++ Standards Committee meetings, authoring several proposals targeting the standard after C++17, notably including a proposal to turn the void type into an instantiable type and a proposal for the standard library to introduce a generic algorithm for invoking standard Callables with argument types and argument amounts that may be partially calculated at compile-time or at runtime. He is also the author of the controversial paper "Why I want Concepts, but why they should come later rather than sooner", which may have contributed to the decision to not include the concepts language feature in C++17.

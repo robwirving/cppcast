@@ -1,9 +1,0 @@
----
-cacheable: false
----
-<audio id="audioplayer" preload="none" controls="controls" class="podcast-audio" >
-    <source src="<%= @audioUrl %>" type="audio/mp3">
-        Your browser doesn't support the HTML audio tag. You can still <a href="<%= @audioUrl %>">download the show</a>, though!
-</audio>
-<p id="audioplayer_1"></p>
-<a href="<%= @audioUrl %>" class="audio-download" download="download">Direct Download</a>

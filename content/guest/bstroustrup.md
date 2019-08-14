@@ -1,0 +1,6 @@
++++
+Title = "Bjarne Stroustrup"
+Website = "http://www.stroustrup.com/"
+Thumbnail = "img/guest/bjarne-stroustrup.jpg"
++++
+Bjarne Stroustrup is the designer and original implementer of C++ as well as the author of The C++ Programming Language (Fourth Edition) and A Tour of C++, Programming: Principles and Practice using C++ (Second Edition), and many popular and academic publications. Dr. Stroustrup is a Managing Director in the technology division of Morgan Stanley in New York City as well as a visiting professor at Columbia University. He is a member of the US National Academy of Engineering, and an IEEE, ACM, and CHM fellow. His research interests include distributed systems, design, programming techniques, software development tools, and programming languages.  To make C++ a stable and up-to-date base for real-world software development, he has been a leading figure with the ISO C++ standards effort for more than 25 years. He holds a master’s in Mathematics from Aarhus University and a PhD in Computer Science from Cambridge University, where he is an honorary fellow of Churchill College. 

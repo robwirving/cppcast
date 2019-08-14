@@ -1,0 +1,87 @@
+languageCode = "en-us"
+title = "CppCast"
+theme = "castanet"
+BaseURL = "https://cppcasthugo.azurewebsites.net/"
+paginate = "6"
+#disqusShortName = "cppcast"
+
+[permalinks]
+	# page = "/:filename/"
+	about = "/:filename/"
+	episode = "/:filename/"
+
+[[Menu.Main]]
+    name = "About"
+    identifier = "about"
+    url = "about"
+
+[[Menu.Main]]
+    name = "Hosts"
+    identifier = "hosts"
+    url = "host"
+
+[[Menu.Main]]
+    name = "Guests"
+    identifier = "guests"
+    url = "guest"
+
+[params]
+custom_css = ["custom.css"]
+media_prefix = "http://traffic.libsyn.com/cppcast/"
+site_theme = "grey"
+site_layout = "row"
+enable_jumbo = "false"
+truncate = "500"
+about_logo = "../img/logo-square.png"
+itunes_subscribe = "https://itunes.apple.com/us/podcast/cppcast/id968703120"
+spotify_subscribe = "https://open.spotify.com/show/3NPVzS05lvJLv3ovgF3OAP"
+google_play_subscribe = "https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Ifdjr2ulzttywphhhlj6hqezjou?t%3DCppCast"
+stitcher_subscribe = "http://app.stitcher.com/browse/feed/61449/details"
+rss_subscribe = "http://cppcast.libsyn.com/rss"
+#disqusShortName = "cppcast"
+description = "CppCast is the first podcast for C++ developers by C++ developers!"
+favicon = "static/img/favicon.ico"
+
+  [params.feed]
+    itunes_owner_name = "Rob Irving"
+    itunes_image = "../img/logo-square.png"
+
+  [params.social]
+    twitter = "cppcast"
+    facebook = "CppCast"
+    youtube = "channel/UCuCjADS4u3uJDTqUaG0H9dA"
+
+  [params.authors]
+    [params.authors.irvingr]
+      name = "Rob Irving"
+      thumbnail = "img/host/rob-irving.jpg"
+      bio = "Rob Irving is a Senior Software Engineer and Development Team Lead with [PAR Government](http://www.pargovernment.com/) in Cary, NC. He is a polyglot with experience in C#, Objective-C, Java and Ruby but the majority of his time and expertise is in C++. He started the CppCast podcast in February 2015, frustrated by the lack of podcast content for C++ development.\n\nA believer in continuous education, he loves learning about new technologies, often through podcasts!"
+      [params.authors.irvingr.social]
+        twitter = "robwirving"
+
+    [params.authors.turnerj]
+      name = "Jason Turner"
+      thumbnail = "img/host/jason-turner.jpg"
+      bio = "Jason has been developing portable C++ since 2002. With very few exceptions, every line of code he has written since then has had to run on multiple platforms. He is an independent contractor and trainer focusing on cross-platform issues, utilization of C++ libraries from scripting languages and code quality assurance. He is the co-creator and maintainer of ChaiScript, a mature scripting language designed for modern C++. He is also the creator and curator of cppbestpractices.com an effort to gather the collective wisdom of the C++ community.\n\n[Contact Jason](http://articles.emptycrate.com/contact.html) if you are interested in having on-site C++ training for your company."
+      [params.authors.turnerj.social]
+        twitter = "lefticus"
+  
+  [params.sponsors]
+    [params.sponsors.backtrace]
+      name = "Backtrace"
+      url = "https://backtrace.io/?utm_source=CppCast&utm_medium=CppCast"
+      ad = "img/sponsors/Backtrace_900x193.png"
+
+    [params.sponsors.cppcon]
+      name = "CppCon"
+      url = "https://cppcon.org/"
+      ad = "img/sponsors/cppcon-logo.png"
+
+  [params.links]
+    [params.links.patreon]
+      name = "Patreon"
+      url = "https://www.patreon.com/CppCast"
+    [params.links.gear]
+      name = "Gear"
+      url = "https://shop.spreadshirt.com/CppCast/"
+
