@@ -1,7 +1,7 @@
 +++
 Description = "Rob and Jason are joined by Bryce Adelstein Lelbach from NVIDIA. They discuss the mdspan proposal that first introduced Bryce to the C++ ISO committee. They also review Bryce's role as moderator for the /r/cpp subreddit and talk about the upcoming CppCon 2019 conference."
 aliases = ["/210","/2019/08/bryce-lelbach"]
-Date = 2019-08-13
+Date = 2019-08-15
 guests = ["blelbach"]
 sponsors = ["backtrace","cppcon"]
 episode = "210"
