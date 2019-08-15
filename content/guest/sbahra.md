@@ -1,0 +1,6 @@
++++
+Title = "Samy Bahra"
+Twitter = "@0xF390"
+Thumbnail = "img/guest/samy-bahra.png"
++++
+Samy Al Bahra is the cofounder of Backtrace, where he is helping build a modern debugging platform for today’s complex applications. Prior to Backtrace, Samy was a principal engineer at AppNexus, where he played a lead role in the architecture and development of many mission-critical components of the ecosystem. His work at AppNexus was instrumental in scaling the system to 18 billion impressions with orders of magnitude in efficiency improvements. Prior to AppNexus, Samy was behind major performance improvements to the core technology at Message Systems. At the George Washington University High Performance Computing Laboratory, Samy worked on the UPC programming language, heterogeneous computing, and multicore synchronization. Samy is also the founder of the Concurrency Kit project, which several leading technology companies rely on for scalability and performance. Samy serves on the ACM Queue Editorial Board.

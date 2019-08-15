@@ -1,8 +1,0 @@
----
-layout: blank
-changefreq: daily
-priority: 0.8
-referencesOthers: true
----
-<% @document = @getCollection('posts').toJSON()[0] %>
-<%- @document.contentRendered %>

@@ -1,144 +1,18 @@
-@if "%SCM_TRACE_LEVEL%" NEQ "4" @echo off
+@ECHO ON
+REM Install Hugo if it's not installed
+pushd D:\home\site\deployments\tools 
+if not exist Hugo md Hugo
+cd Hugo 
+if exist bin goto build
+md bin
+cd bin
+:install
+curl -o hugo0563.zip -L https://github.com/gohugoio/hugo/releases/download/v0.56.3/hugo_0.56.3_Windows-64bit.zip
+echo Installing Hugo...
+SetLocal DisableDelayedExpansion & d:\7zip\7za x hugo0563.zip
 
-:: ----------------------
-:: KUDU Deployment Script
-:: ----------------------
-
-:: Prerequisites
-:: -------------
-
-:: Verify node.js installed
-where node 2>nul >nul
-IF %ERRORLEVEL% NEQ 0 (
-  echo Missing node.js executable, please install node.js, if already installed make sure it can be reached from current environment.
-  goto error
-)
-
-:: Setup
-:: -----
-
-setlocal enabledelayedexpansion
-
-SET ARTIFACTS=%~dp0%artifacts
-
-IF NOT DEFINED DEPLOYMENT_SOURCE (
-  SET DEPLOYMENT_SOURCE=%~dp0%.
-)
-
-IF NOT DEFINED DEPLOYMENT_TARGET (
-  SET DEPLOYMENT_TARGET=%ARTIFACTS%\wwwroot
-)
-
-IF NOT DEFINED NEXT_MANIFEST_PATH (
-  SET NEXT_MANIFEST_PATH=%ARTIFACTS%\manifest
-
-  IF NOT DEFINED PREVIOUS_MANIFEST_PATH (
-    SET PREVIOUS_MANIFEST_PATH=%ARTIFACTS%\manifest
-  )
-)
-
-IF NOT DEFINED KUDU_SYNC_CMD (
-  :: Install kudu sync
-  echo Installing Kudu Sync
-  call npm install kudusync -g --silent
-  IF !ERRORLEVEL! NEQ 0 goto error
-
-  :: Locally just running "kuduSync" would also work
-  SET KUDU_SYNC_CMD=node "%appdata%\npm\node_modules\kuduSync\bin\kuduSync"
-)
-goto Deployment
-
-:: Utility Functions
-:: -----------------
-
-:SelectNodeVersion
-
-IF DEFINED KUDU_SELECT_NODE_VERSION_CMD (
-  :: The following are done only on Windows Azure Websites environment
-  call %KUDU_SELECT_NODE_VERSION_CMD% "%DEPLOYMENT_SOURCE%" "%DEPLOYMENT_TARGET%" "%DEPLOYMENT_TEMP%"
-  IF !ERRORLEVEL! NEQ 0 goto error
-
-  IF EXIST "%DEPLOYMENT_TEMP%\__nodeVersion.tmp" (
-    SET /p NODE_EXE=<"%DEPLOYMENT_TEMP%\__nodeVersion.tmp"
-    IF !ERRORLEVEL! NEQ 0 goto error
-  )
-
-  IF NOT DEFINED NODE_EXE (
-    SET NODE_EXE=node
-  )
-
-  SET NPM_CMD="!NODE_EXE!" "%NPM_JS_PATH%"
-) ELSE (
-  SET NPM_CMD=npm
-  SET NODE_EXE=node
-)
-
-goto :EOF
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-:: Deployment
-:: ----------
-
-:Deployment
-echo ---------------------------
-echo Handling DocPad deployment.
-echo ---------------------------
-
-:: 0. Cleanup dir
-echo Cleaning up directories (trying to be fresh!)
-del /F /S /Q %DEPLOYMENT_SOURCE%\out\*
-del /F /S /Q %DEPLOYMENT_SOURCE%\node_modules\docpad-plugin-*
-
-:: 1. Select node version
-call :SelectNodeVersion
-"!NODE_EXE!" --version
-call !NPM_CMD! --version
-
-:: 2. Install npm packages
-echo ---------------------------
-echo Installing npm packages...
-echo ---------------------------
-pushd "%DEPLOYMENT_SOURCE%"
-call !NPM_CMD! install --production
-IF !ERRORLEVEL! NEQ 0 goto error
+REM Generate Hugo static site from source on GitHub
+:build
 popd
-
-:: 2. Build DocPad site
-echo ---------------------------
-echo Building DocPad site...
-echo ---------------------------
-pushd "%DEPLOYMENT_SOURCE%"
-rd /s /q out
-IF !ERRORLEVEL! NEQ 0 goto error
-"!NODE_EXE!" .\node_modules\docpad\bin\docpad -e static generate
-IF !ERRORLEVEL! NEQ 0 goto error
-popd
-
-:: 3. KuduSync
-echo ---------------------------
-echo Copying Files...
-echo ---------------------------
-call %KUDU_SYNC_CMD% -v 500 -i "posts;drafts" -f "%DEPLOYMENT_SOURCE%\out" -t "%DEPLOYMENT_TARGET%" -n "%NEXT_MANIFEST_PATH%" -p "%PREVIOUS_MANIFEST_PATH%"
-IF !ERRORLEVEL! NEQ 0 goto error
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-goto end
-
-:error
-echo ---------------------------
-echo An error has occurred during web site deployment.
-echo ---------------------------
-call :exitSetErrorLevel
-call :exitFromFunction 2>nul
-
-:exitSetErrorLevel
-exit /b 1
-
-:exitFromFunction
-()
-
-:end
-echo ---------------------------
-echo Finished successfully.
-echo ---------------------------
+call D:\home\site\deployments\tools\hugo\bin\hugo -d D:\home\site\wwwroot
+echo Hugo build finished successfully.

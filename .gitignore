@@ -1,7 +1,2 @@
-.idea
-npm-debug.log
-node_modules
-out
-*.db
-MyRequest.txt
-*.csr
+
+public/
