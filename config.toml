@@ -40,7 +40,7 @@ stitcher_subscribe = "http://app.stitcher.com/browse/feed/61449/details"
 rss_subscribe = "http://cppcast.libsyn.com/rss"
 #disqusShortName = "cppcast"
 description = "CppCast is the first podcast for C++ developers by C++ developers!"
-favicon = "static/img/favicon.ico"
+favicon = "favicon.ico"
 
   [params.feed]
     itunes_owner_name = "Rob Irving"
