@@ -4,6 +4,7 @@ episode = "147"
 title = "C++ Patterns"
 guests = ["khenney"]
 aliases = ["/147","/2018/04/kevlin-henney"]
+sponsors = ["pvs-studio","jetbrains"]
 Date = "2018-04-26"
 podcast_duration = "00:58:25"
 podcast_file = "cppcast-147.mp3"

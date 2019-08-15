@@ -4,6 +4,7 @@ episode = "177"
 title = "TDD, BDD, Low Latency and CppCon"
 guests = ["lmaiorani"]
 aliases = ["/177","/2018/11/lenny-maiorani"]
+sponsors = ["backtrace","jetbrains"]
 Date = "2018-11-29"
 podcast_duration = "00:56:32"
 podcast_file = "cppcast-177.mp3"

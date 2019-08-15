@@ -4,6 +4,7 @@ episode = "194"
 title = "Linear Algebra and Audio"
 guests = ["gdavidson"]
 aliases = ["/194","/2019/04/guy-davidson"]
+sponsors = ["backtrace"]
 Date = "2019-04-11"
 podcast_duration = "00:46:20"
 podcast_file = "cppcast-194.mp3"

@@ -4,6 +4,7 @@ episode = "191"
 title = "Visual C++ Updates"
 guests = ["mluparu","sbrand","traj","bbrown"]
 aliases = ["/191","/2019/03/vcpp-news"]
+sponsors = ["pvs-studio"]
 Date = "2019-03-21"
 podcast_duration = "00:49:10"
 podcast_file = "cppcast-191.mp3"

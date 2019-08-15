@@ -4,6 +4,7 @@ episode = "176"
 title = "SIMD Wrapper Libraries"
 guests = ["jamstutz"]
 aliases = ["/176","/2018/11/jeff-amstutz"]
+sponsors = ["pvs-studio","jetbrains"]
 Date = "2018-11-22"
 podcast_duration = "00:59:45"
 podcast_file = "cppcast-176.mp3"

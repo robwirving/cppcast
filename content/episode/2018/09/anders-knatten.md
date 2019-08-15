@@ -4,6 +4,7 @@ episode = "167"
 title = "CppQuiz"
 guests = ["aknatten"]
 aliases = ["/167","/2018/09/anders-knatten"]
+sponsors = ["pvs-studio"]
 Date = "2018-09-13"
 podcast_duration = "00:57:31"
 podcast_file = "cppcast-167.mp3"

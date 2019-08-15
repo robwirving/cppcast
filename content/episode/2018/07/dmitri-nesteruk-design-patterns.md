@@ -4,6 +4,7 @@ episode = "159"
 title = "Design Patterns in Modern C++"
 guests = ["dnesteruk"]
 aliases = ["/159","/2018/07/dmitri-nesteruk"]
+sponsors = ["pvs-studio"]
 Date = "2018-07-19"
 podcast_duration = "00:46:14"
 podcast_file = "cppcast-159.mp3"

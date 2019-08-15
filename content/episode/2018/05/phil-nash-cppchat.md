@@ -4,6 +4,7 @@ episode = "149"
 title = "CppChat"
 guests = ["pnash"]
 aliases = ["/149","/2018/05/phil-nash"]
+sponsors = ["pvs-studio"]
 Date = "2018-05-10"
 podcast_duration = "00:45:04"
 podcast_file = "cppcast-149.mp3"

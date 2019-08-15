@@ -4,6 +4,7 @@ episode = "195"
 title = "fmt"
 guests = ["vzverovich"]
 aliases = ["/195","/2019/04/victor-zverovich"]
+sponsors = ["pvs-studio"]
 Date = "2019-04-18"
 podcast_duration = "00:41:58"
 podcast_file = "cppcast-195.mp3"

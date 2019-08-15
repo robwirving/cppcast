@@ -4,6 +4,7 @@ episode = "188"
 title = "Kona Trip Report"
 guests = ["pbindels"]
 aliases = ["/188","/2019/02/peter-bindels"]
+sponsors = ["pvs-studio"]
 Date = "2019-02-28"
 podcast_duration = "00:57:36"
 podcast_file = "cppcast-188.mp3"

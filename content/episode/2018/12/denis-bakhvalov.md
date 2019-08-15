@@ -4,6 +4,7 @@ episode = "178"
 title = "Performance Analysis and Optimization"
 guests = ["dbakhvalov"]
 aliases = ["/178","/2018/12/denis-bakhvalov"]
+sponsors = ["backtrace","jetbrains"]
 Date = "2018-12-06"
 podcast_duration = "00:54:09"
 podcast_file = "cppcast-178.mp3"

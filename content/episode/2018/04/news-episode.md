@@ -3,6 +3,7 @@ Description = "Rob and Jason discuss Jacksonville trip reports, April Fools post
 episode = "144"
 title = "News Roundup"
 aliases = ["/144","/2018/04/news-episode"]
+sponsors = ["jetbrains"]
 Date = "2018-04-05"
 podcast_duration = "00:32:15"
 podcast_file = "cppcast-144.mp3"

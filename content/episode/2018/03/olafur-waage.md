@@ -4,6 +4,7 @@ episode = "143"
 title = "C++ and Typescript at Ubisoft Massive"
 guests = ["owaage"]
 aliases = ["/143","/2018/03/olafur-waage"]
+sponsors = ["backtrace","jetbrains"]
 Date = "2018-03-29"
 podcast_duration = "00:55:48"
 podcast_file = "cppcast-143.mp3"

@@ -4,6 +4,7 @@ episode = "166"
 title = "CppCon Poster Program and Interface Design"
 guests = ["bsteagall"]
 aliases = ["/166","/2018/09/bob-steagall"]
+sponsors = ["backtrace"]
 Date = "2018-09-07"
 podcast_duration = "00:59:30"
 podcast_file = "cppcast-166.mp3"

@@ -4,6 +4,7 @@ episode = "161"
 title = "Expectations and Exceptions"
 guests = ["sbrand"]
 aliases = ["/161","/2018/08/simon-brand"]
+sponsors = ["backtrace"]
 Date = "2018-08-02"
 podcast_duration = "00:49:18"
 podcast_file = "cppcast-161.mp3"

@@ -4,6 +4,7 @@ episode = "179"
 title = "San Diego EWGI Trip Report"
 guests = ["jfbastien"]
 aliases = ["/179","/2018/12/jf-bastien"]
+sponsors = ["pvs-studio","jetbrains"]
 Date = "2018-12-13"
 podcast_duration = "01:03:06"
 podcast_file = "cppcast-179.mp3"

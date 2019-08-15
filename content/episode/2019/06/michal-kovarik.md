@@ -4,6 +4,7 @@ episode = "202"
 title = "Factorio"
 guests = ["mkovarik"]
 aliases = ["/202","/2019/06/michal-kovarik"]
+sponsors = ["pvs-studio","jetbrains"]
 Date = "2019-06-14"
 podcast_duration = "01:02:00"
 podcast_file = "cppcast-202.mp3"

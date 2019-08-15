@@ -4,6 +4,7 @@ episode = "205"
 title = "CMake and VTK"
 guests = ["rmaynard"]
 aliases = ["/205","/2019/07/robert-maynard"]
+sponsors = ["pvs-studio"]
 Date = "2019-07-04"
 podcast_duration = "00:57:32"
 podcast_file = "cppcast-205.mp3"

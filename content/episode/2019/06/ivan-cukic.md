@@ -4,6 +4,7 @@ episode = "204"
 title = "Functional Programming in C++"
 guests = ["icukic"]
 aliases = ["/204","/2019/06/ivan-cukic"]
+sponsors = ["pvs-studio","jetbrains"]
 Date = "2019-06-27"
 podcast_duration = "00:45:17"
 podcast_file = "cppcast-204.mp3"

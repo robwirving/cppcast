@@ -4,6 +4,7 @@ episode = "169"
 title = "CppCon Lightning Interviews"
 guests = ["akazakova","tdoumler","pnash","stjernstrom","mvonarx","twasserka","jweller","agakh","bstanimirov","echung","jleroy"]
 aliases = ["/169","/2018/10/cppcon-lightning"]
+sponsors = ["backtrace"]
 Date = "2018-10-04"
 podcast_duration = "01:08:32"
 podcast_file = "cppcast-169.mp3"

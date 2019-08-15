@@ -4,6 +4,7 @@ episode = "168"
 title = "CppCon Preview"
 guests = ["blelbach"]
 aliases = ["/168","/2018/09/bryce-adelstein-lelbach"]
+sponsors = ["pvs-studio"]
 Date = "2018-09-20"
 podcast_duration = "01:02:42"
 podcast_file = "cppcast-168.mp3"

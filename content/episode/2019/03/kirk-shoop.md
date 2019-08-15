@@ -4,6 +4,7 @@ episode = "189"
 title = "RxCpp and Executors"
 guests = ["kshoop"]
 aliases = ["/189","/2019/03/kirk-shoop"]
+sponsors = ["backtrace"]
 Date = "2019-03-07"
 podcast_duration = "00:54:29"
 podcast_file = "cppcast-189.mp3"

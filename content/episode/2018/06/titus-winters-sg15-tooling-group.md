@@ -4,6 +4,7 @@ episode = "156"
 title = "SG15 Tooling Group"
 guests = ["twinters"]
 aliases = ["/156","/2018/06/titus-winters"]
+sponsors = ["pvs-studio"]
 Date = "2018-06-28"
 podcast_duration = "00:54:44"
 podcast_file = "cppcast-156.mp3"

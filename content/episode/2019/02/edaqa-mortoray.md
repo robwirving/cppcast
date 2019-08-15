@@ -4,6 +4,7 @@ episode = "186"
 title = "Leaf and 'What is Programming?'"
 guests = ["emortoray"]
 aliases = ["/186","/2019/02/edaqa-mortoray"]
+sponsors = ["backtrace"]
 Date = "2019-02-14"
 podcast_duration = "00:44:20"
 podcast_file = "cppcast-186.mp3"

@@ -4,6 +4,7 @@ episode = "148"
 title = "C++ Simplicity"
 guests = ["kgregory"]
 aliases = ["/148","/2018/05/kate-gregory"]
+sponsors = ["pvs-studio"]
 Date = "2018-05-03"
 podcast_duration = "00:53:00"
 podcast_file = "cppcast-148.mp3"

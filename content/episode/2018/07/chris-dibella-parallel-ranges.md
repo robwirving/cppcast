@@ -4,6 +4,7 @@ episode = "160"
 title = "Parallel Ranges"
 guests = ["cdibella"]
 aliases = ["/160","/2018/07/chris-dibella"]
+sponsors = ["pvs-studio"]
 Date = "2018-07-26"
 podcast_duration = "00:53:51"
 podcast_file = "cppcast-160.mp3"

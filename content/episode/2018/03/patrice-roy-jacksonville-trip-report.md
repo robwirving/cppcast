@@ -4,6 +4,7 @@ episode = "142"
 title = "Jacksonville Trip Report"
 guests = ["proy"]
 aliases = ["/142","/2018/03/patrice-roy"]
+sponsors = ["backtrace","jetbrains"]
 Date = "2018-03-22"
 podcast_duration = "01:00:58"
 podcast_file = "cppcast-142.mp3"

@@ -4,6 +4,7 @@ episode = "180"
 title = "Semantic Merge"
 guests = ["psantos"]
 aliases = ["/180","/2018/12/pablo-santos"]
+sponsors = ["pvs-studio","jetbrains"]
 Date = "2018-12-21"
 podcast_duration = "00:49:29"
 podcast_file = "cppcast-180.mp3"

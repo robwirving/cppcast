@@ -4,6 +4,7 @@ episode = "170"
 title = "WebAssembly and nxxm"
 guests = ["dbuhl"]
 aliases = ["/170","/2018/10/damien-buhl"]
+sponsors = ["backtrace"]
 Date = "2018-10-12"
 podcast_duration = "00:53:22"
 podcast_file = "cppcast-170.mp3"

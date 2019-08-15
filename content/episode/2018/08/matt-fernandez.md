@@ -4,6 +4,7 @@ episode = "165"
 title = "Formal Verification"
 guests = ["mfernandez"]
 aliases = ["/165","/2018/08/matt-fernandez"]
+sponsors = ["backtrace"]
 Date = "2018-08-31"
 podcast_duration = "00:55:10"
 podcast_file = "cppcast-165.mp3"

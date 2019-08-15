@@ -4,6 +4,7 @@ episode = "157"
 title = "Modern C++ in Embedded Systems"
 guests = ["mcaisse"]
 aliases = ["/157","/2018/07/michael-caisse"]
+sponsors = ["backtrace"]
 Date = "2018-07-05"
 podcast_duration = "00:46:48"
 podcast_file = "cppcast-157.mp3"

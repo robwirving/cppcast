@@ -4,6 +4,7 @@ episode = "184"
 title = "SG20"
 guests = ["cdibella"]
 aliases = ["/184","/2019/01/chris-dibella"]
+sponsors = ["pvs-studio"]
 Date = "2019-01-24"
 podcast_duration = "00:46:32"
 podcast_file = "cppcast-184.mp3"

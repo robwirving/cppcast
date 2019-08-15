@@ -3,6 +3,7 @@ Description = "Rob and Jason catch up on some news at the end of a week of trave
 episode = "190"
 Title = "News Roundup"
 aliases = ["/190","/2019/03/news-episode"]
+sponsors = ["backtrace"]
 Date = "2019-03-15"
 podcast_duration = "00:36:11"
 podcast_file = "cppcast-190.mp3"

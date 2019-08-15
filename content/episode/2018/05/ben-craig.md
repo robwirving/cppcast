@@ -4,6 +4,7 @@ episode = "150"
 title = "Freestanding Proposal"
 guests = ["bcraig"]
 aliases = ["/150","/2018/05/ben-craig"]
+sponsors = ["pvs-studio"]
 Date = "2018-05-17"
 podcast_duration = "00:58:41"
 podcast_file = "cppcast-150.mp3"

@@ -4,6 +4,7 @@ episode = "192"
 title = "Reverse Engineering C++"
 guests = ["gzaban"]
 aliases = ["/192","/2019/03/gal-zaban"]
+sponsors = ["pvs-studio"]
 Date = "2019-03-28"
 podcast_duration = "00:45:23"
 podcast_file = "cppcast-192.mp3"

@@ -4,6 +4,7 @@ episode = "181"
 title = "ISO Papers and Merged Modules"
 guests = ["imuerte"]
 aliases = ["/181","/2019/01/isabella-muerte"]
+sponsors = ["backtrace"]
 Date = "2019-01-03"
 podcast_duration = "01:00:09"
 podcast_file = "cppcast-181.mp3"

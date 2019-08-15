@@ -4,6 +4,7 @@ episode = "175"
 title = "San Diego LEWG Trip Report"
 guests = ["ahedberg"]
 aliases = ["/175","/2018/11/ashley-hedberg"]
+sponsors = ["pvs-studio","jetbrains"]
 Date = "2018-11-15"
 podcast_duration = "00:52:34"
 podcast_file = "cppcast-175.mp3"

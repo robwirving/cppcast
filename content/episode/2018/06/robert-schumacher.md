@@ -4,6 +4,7 @@ episode = "153"
 title = "Vcpkg"
 guests = ["rschumacher"]
 aliases = ["/153","/2018/06/robert-schumacher"]
+sponsors = ["backtrace"]
 Date = "2018-06-07"
 podcast_duration = "00:47:55"
 podcast_file = "cppcast-153.mp3"

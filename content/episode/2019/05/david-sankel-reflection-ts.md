@@ -4,6 +4,7 @@ episode = "197"
 Title = "Reflection TS"
 guests = ["dsankel"]
 aliases = ["/197","/2019/05/david-sankel"]
+sponsors = ["backtrace"]
 Date = "2019-05-02"
 podcast_duration = "00:41:41"
 podcast_file = "cppcast-197.mp3"

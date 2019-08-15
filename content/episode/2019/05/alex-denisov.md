@@ -4,6 +4,7 @@ episode = "198"
 Title = "Mutation Testing with Mull"
 guests = ["adenisov"]
 aliases = ["/198","/2019/05/alex-denisov"]
+sponsors = ["backtrace"]
 Date = "2019-05-09"
 podcast_duration = "00:43:10"
 podcast_file = "cppcast-198.mp3"

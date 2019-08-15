@@ -4,6 +4,7 @@ episode = "173"
 title = "C++ Bestiary"
 guests = ["ashavit"]
 aliases = ["/173","/2018/11/adi-shavit"]
+sponsors = ["backtrace"]
 Date = "2018-11-01"
 podcast_duration = "00:52:45"
 podcast_file = "cppcast-173.mp3"

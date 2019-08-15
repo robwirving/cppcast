@@ -4,6 +4,7 @@ episode = "172"
 title = "Meeting C++ and Embedded"
 guests = ["jweller"]
 aliases = ["/172","/2018/10/jens-weller"]
+sponsors = ["pvs-studio"]
 Date = "2018-10-26"
 podcast_duration = "00:46:46"
 podcast_file = "cppcast-172.mp3"

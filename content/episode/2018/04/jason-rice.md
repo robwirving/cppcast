@@ -4,6 +4,7 @@ episode = "146"
 title = "CppDock and nbdl"
 guests = ["jrice"]
 aliases = ["/146","/2018/04/jason-rice"]
+sponsors = ["pvs-studio","jetbrains"]
 Date = "2018-04-19"
 podcast_duration = "00:46:36"
 podcast_file = "cppcast-146.mp3"

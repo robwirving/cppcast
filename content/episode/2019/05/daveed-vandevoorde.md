@@ -4,6 +4,7 @@ episode = "199"
 title = "Constexpr Evaluation"
 guests = ["dvandevoorde"]
 aliases = ["/199","/2019/05/daveed-vandevoorde"]
+sponsors = ["pvs-studio","jetbrains"]
 Date = "2019-05-23"
 podcast_duration = "00:54:01"
 podcast_file = "cppcast-199.mp3"

@@ -4,6 +4,7 @@ episode = "171"
 title = "Compile Time Regular Expressions"
 guests = ["hdusikova"]
 aliases = ["/171","/2018/10/hana-dusikova"]
+sponsors = ["pvs-studio"]
 Date = "2018-10-19"
 podcast_duration = "00:45:39"
 podcast_file = "cppcast-171.mp3"

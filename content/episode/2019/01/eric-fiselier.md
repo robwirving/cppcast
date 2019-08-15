@@ -4,6 +4,7 @@ episode = "185"
 title = "libc++"
 guests = ["efiselier"]
 aliases = ["/185","/2019/01/eric-fiselier"]
+sponsors = ["backtrace"]
 Date = "2019-01-31"
 podcast_duration = "00:51:48"
 podcast_file = "cppcast-185.mp3"

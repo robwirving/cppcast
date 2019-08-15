@@ -4,6 +4,7 @@ episode = "182"
 title = "Trivially Relocatable"
 guests = ["aodwyer"]
 aliases = ["/182","/2019/01/arthur-odwyer"]
+sponsors = ["backtrace"]
 Date = "2019-01-10"
 podcast_duration = "01:00:45"
 podcast_file = "cppcast-182.mp3"

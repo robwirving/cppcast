@@ -4,6 +4,7 @@ episode = "174"
 title = "Learning C++"
 guests = ["dlabrie"]
 aliases = ["/174","/2018/11/devon-labrie"]
+sponsors = ["backtrace"]
 Date = "2018-11-08"
 podcast_duration = "00:50:23"
 podcast_file = "cppcast-174.mp3"

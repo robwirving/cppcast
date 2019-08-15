@@ -4,6 +4,7 @@ episode = "162"
 title = "The Art of C++ Libraries"
 guests = ["chirsch"]
 aliases = ["/162","/2018/08/colin-hirsch"]
+sponsors = ["backtrace"]
 Date = "2018-08-09"
 podcast_duration = "00:56:26"
 podcast_file = "cppcast-162.mp3"

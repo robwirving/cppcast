@@ -4,6 +4,7 @@ episode = "155"
 title = "C++ Insights"
 guests = ["afertig"]
 aliases = ["/155","/2018/06/andreas-fertig"]
+sponsors = ["pvs-studio"]
 Date = "2018-06-21"
 podcast_duration = "00:50:01"
 podcast_file = "cppcast-155.mp3"

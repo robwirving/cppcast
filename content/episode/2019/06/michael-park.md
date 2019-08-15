@@ -4,6 +4,7 @@ episode = "201"
 title = "Pattern Matching"
 guests = ["mpark"]
 aliases = ["/201","/2019/06/michael-park"]
+sponsors = ["pvs-studio","jetbrains"]
 Date = "2019-06-05"
 podcast_duration = "00:52:19"
 podcast_file = "cppcast-201.mp3"

@@ -4,6 +4,7 @@ episode = "152"
 title = "C++ London Uni"
 guests = ["tbreza","oddin","tbrindle"]
 aliases = ["/152","/2018/05/tom-oliver-tristan"]
+sponsors = ["pvs-studio"]
 Date = "2018-05-31"
 podcast_duration = "01:02:17"
 podcast_file = "cppcast-152.mp3"

@@ -4,6 +4,7 @@ episode = "200"
 title = "Simplifying C++"
 guests = ["hsutter"]
 aliases = ["/200","/2019/05/herb-sutter"]
+sponsors = ["pvs-studio","jetbrains"]
 Date = "2019-05-28"
 podcast_duration = "01:07:39"
 podcast_file = "cppcast-200.mp3"

@@ -4,6 +4,7 @@ episode = "196"
 title = "CPPP"
 guests = ["ftingaud","jfalcou"]
 aliases = ["/196","/2019/04/fred-joel"]
+sponsors = ["pvs-studio"]
 Date = "2019-04-25"
 podcast_duration = "00:55:53"
 podcast_file = "cppcast-196.mp3"

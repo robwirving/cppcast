@@ -4,6 +4,7 @@ episode = "158"
 title = "Future of 2D Graphics Proposal"
 guests = ["gdavidson"]
 aliases = ["/158","/2018/07/guy-davidson"]
+sponsors = ["backtrace"]
 Date = "2018-07-12"
 podcast_duration = "00:46:37"
 podcast_file = "cppcast-158.mp3"

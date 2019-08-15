@@ -4,6 +4,7 @@ episode = "203"
 title = "Movable Iterators"
 guests = ["cjabot"]
 aliases = ["/203","/2019/06/corentin-jabot"]
+sponsors = ["pvs-studio","jetbrains"]
 Date = "2019-06-20"
 podcast_duration = "00:48:33"
 podcast_file = "cppcast-203.mp3"

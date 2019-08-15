@@ -4,6 +4,7 @@ episode = "164"
 title = "SYCL"
 guests = ["gbrown"]
 aliases = ["/164","/2018/08/gordon-brown"]
+sponsors = ["pvs-studio"]
 Date = "2018-08-24"
 podcast_duration = "00:46:29"
 podcast_file = "cppcast-164.mp3"

@@ -4,6 +4,7 @@ episode = "187"
 title = "Analyzing Undefined Behavior"
 guests = ["jregehr"]
 aliases = ["/187","/2019/02/john-regehr"]
+sponsors = ["pvs-studio"]
 Date = "2019-02-21"
 podcast_duration = "00:54:14"
 podcast_file = "cppcast-187.mp3"

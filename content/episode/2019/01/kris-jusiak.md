@@ -4,6 +4,7 @@ episode = "183"
 title = "Boost DI and SML"
 guests = ["kjusiak"]
 aliases = ["/183","/2019/01/kris-jusiak"]
+sponsors = ["pvs-studio"]
 Date = "2019-01-17"
 podcast_duration = "00:55:36"
 podcast_file = "cppcast-183.mp3"

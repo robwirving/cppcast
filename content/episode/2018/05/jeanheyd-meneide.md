@@ -4,6 +4,7 @@ episode = "151"
 title = "sol2 and std::embed"
 guests = ["jmeneide"]
 aliases = ["/151","/2018/05/jeanheyd-meneide"]
+sponsors = ["pvs-studio"]
 Date = "2018-05-24"
 podcast_duration = "00:58:18"
 podcast_file = "cppcast-151.mp3"

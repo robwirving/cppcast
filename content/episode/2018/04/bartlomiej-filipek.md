@@ -4,6 +4,7 @@ episode = "145"
 title = "Blogging and Text Processing"
 guests = ["bfilipek"]
 aliases = ["/145","/2018/04/bartlomiej-filipek"]
+sponsors = ["jetbrains"]
 Date = "2018-04-12"
 podcast_duration = "01:03:38"
 podcast_file = "cppcast-145.mp3"
