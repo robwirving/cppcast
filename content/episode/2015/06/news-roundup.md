@@ -2,7 +2,7 @@
 Description = "Rob and Jason discuss recent C++ news and events."
 episode = "16"
 title = "News Roundup"
-aliases = ["/16","/2015/06/news-roundup"]
+aliases = ["/2015/06/news-roundup"]
 Date = "2015-06-17"
 podcast_duration = "00:39:09"
 podcast_file = "cppcast-016.mp3"

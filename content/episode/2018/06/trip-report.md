@@ -2,7 +2,7 @@
 Description = "Rob and Jason discuss the Rapperswil trip report and other C++ news."
 episode = "154"
 title = "Rapperswil Trip Report"
-aliases = ["/154","/2018/06/trip-report"]
+aliases = ["/2018/06/trip-report"]
 sponsors = ["backtrace"]
 Date = "2018-06-15"
 podcast_duration = "00:45:34"

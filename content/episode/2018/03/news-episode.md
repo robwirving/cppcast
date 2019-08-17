@@ -2,7 +2,7 @@
 Description = "Rob and Jason discuss catch up on two weeks' worth of C++ news on a very special Pi day episode."
 episode = "141"
 title = "News Roundup"
-aliases = ["/141","/2018/03/news-episode"]
+aliases = ["/2018/03/news-episode"]
 sponsors = ["jetbrains"]
 Date = "2018-03-15"
 podcast_duration = "00:31:23"

@@ -2,7 +2,7 @@
 Description = "Episode 68 of CppCast recorded September 1st 2016"
 episode = "68"
 title = "News Roundup"
-aliases = ["/68","/2016/09/news-roundup"]
+aliases = ["/2016/09/news-roundup"]
 Date = "2016-09-01"
 podcast_duration = "00:35:52"
 podcast_file = "cppcast-068.mp3"

@@ -2,7 +2,7 @@
 Description = "Rob and Jason discuss Jacksonville trip reports, April Fools posts and more."
 episode = "144"
 title = "News Roundup"
-aliases = ["/144","/2018/04/news-episode"]
+aliases = ["/2018/04/news-episode"]
 sponsors = ["jetbrains"]
 Date = "2018-04-05"
 podcast_duration = "00:32:15"

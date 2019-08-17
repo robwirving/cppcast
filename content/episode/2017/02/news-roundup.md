@@ -2,7 +2,7 @@
 Description = "Rob and Jason are joined by Miodrag Milanovic to discuss his work on the MAME emulation project, its history and moving the MAME codebase from C to C++."
 episode = "87"
 title = "News Roundup"
-aliases = ["/87","/2017/02/news-roundup"]
+aliases = ["/2017/02/news-roundup"]
 Date = "2017-02-01"
 podcast_duration = "00:33:54"
 podcast_file = "cppcast-087.mp3"

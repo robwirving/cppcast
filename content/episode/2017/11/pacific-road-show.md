@@ -2,7 +2,7 @@
 Description = "Rob and Jason discuss recent news and the first ever Pacific++ conference in New Zealand."
 episode = "125"
 title = "Pacific++ Road Show"
-aliases = ["/125","/2017/11/pacific-road-show"]
+aliases = ["/2017/11/pacific-road-show"]
 Date = "2017-11-02"
 podcast_duration = "00:37:42"
 podcast_file = "cppcast-125.mp3"
