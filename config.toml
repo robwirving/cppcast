@@ -66,6 +66,11 @@ favicon = "favicon.ico"
         twitter = "lefticus"
   
   [params.sponsors]
+    [params.sponsors.pvs-studio]
+      name = "PVS-Studio"
+      url = "http://bit.ly/2KBeGnC"
+      ad = "img/sponsors/PVS-Studio_banner.png"
+
     [params.sponsors.backtrace]
       name = "Backtrace"
       url = "https://backtrace.io/?utm_source=CppCast&utm_medium=CppCast"
