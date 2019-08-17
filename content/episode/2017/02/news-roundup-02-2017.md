@@ -1,5 +1,5 @@
 +++
-Description = "Rob and Jason are joined by Miodrag Milanovic to discuss his work on the MAME emulation project, its history and moving the MAME codebase from C to C++."
+Description = "Rob and Jason discuss two weeks worth of C++ news, updates and blog posts."
 episode = "87"
 title = "News Roundup"
 aliases = ["/2017/02/news-roundup"]
