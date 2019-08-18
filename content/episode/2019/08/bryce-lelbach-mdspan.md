@@ -19,7 +19,7 @@ title = "mdspan and /r/cpp"
 
 ### Links ###
 
- - [P0009r6: mdspan: A Non-Owning Multidimensional Array Reference](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0009r6.html)
+ - [P0009r9: mdspan: A Non-Owning Multidimensional Array Reference](https://wg21.link/p0009)
  - [P1684r0: mdarray: An Owning Multidimensional Array Analog of mdspan](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1684r0.pdf)
  - [P1767r0: Packaging C++ Modules](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1767r0.html)
  - [/r/cpp/](https://www.reddit.com/r/cpp/)
