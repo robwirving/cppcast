@@ -9,3 +9,22 @@
     max-width: 100%;
     height: auto;
     border: #9b4f96 0.5em solid; }
+
+/**
+ * Media Playback speed styling
+ */
+
+.podcast-audio {
+width: 100%; }
+
+.playback-rate-controls ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-align: center; }
+.playback-rate-controls li {
+  display: inline; }
+.playback-rate-controls li:not(:last-of-type)::after {
+  content: " | "; }
+.playback-rate-controls ul li a {
+text-shadow: none; }

@@ -46,7 +46,7 @@
     {{- with .Params.podcast_file -}}
       <div class="row">
         <div class="col-md-12 player_row">
-          <audio src="{{ $.Site.Params.media_prefix }}{{ . }}" preload="auto"/>
+          <audio id="audioplayer" src="{{ $.Site.Params.media_prefix }}{{ . }}" controls="controls" class="podcast-audio" preload="none"/>
         </div>
       </div>
       <div class="row">

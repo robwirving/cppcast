@@ -1,4 +1,5 @@
 <script src={{ "js/castanet-min.js" | absURL }}></script>
+<script src={{ "js/site.audioplayer.js" | absURL }}></script>
 <script>
     $("#share").jsSocials({
         shares: [
@@ -27,7 +28,7 @@
     ],
     });
 </script>
-<script>
+<!-- <script>
 audiojs.events.ready(function() {
   var as = audiojs.createAll({
     imageLocation: '{{"img/player-graphics.gif" | relURL}}',
@@ -35,5 +36,5 @@ audiojs.events.ready(function() {
     swfLocation: '{{"swf/audiojs.swf" | relURL}}'
    });
  });
-</script>
+</script> -->
 {{ template "_internal/google_analytics_async.html" . }}
