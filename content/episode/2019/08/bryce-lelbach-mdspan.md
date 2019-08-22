@@ -6,7 +6,7 @@ guests = ["blelbach"]
 sponsors = ["backtrace","cppcon"]
 episode = "210"
 episode_image = "img/episode/2019/08/bryce-lelbach.jpg"
-podcast_duration = "00:00:00"
+podcast_duration = "00:52:37"
 podcast_file = "cppcast-210.mp3"
 title = "mdspan and /r/cpp"
 +++
