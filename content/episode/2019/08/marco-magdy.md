@@ -6,7 +6,7 @@ guests = ["mmagdy"]
 sponsors = ["backtrace","cppcon"]
 episode = "211"
 episode_image = "img/episode/2019/08/marco-magdy.jpg"
-podcast_duration = "00:00:00"
+podcast_duration = "00:45:36"
 podcast_file = "cppcast-211.mp3"
 title = "AWS Lambda"
 +++
