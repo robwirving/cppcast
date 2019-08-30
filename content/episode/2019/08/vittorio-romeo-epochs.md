@@ -1,7 +1,7 @@
 +++
 Description = "Rob and Jason are joined by Vittorio Romeo from Bloomberg. They first discuss some changes in the recent Visual Studio update for cross platform linux development, and some post-Cologne ISO developments. Then Vittorio goes into more detail on his proposal for C++ epochs, which could allow the language to more easily introduce breaking changes in the future."
 aliases = ["/2019/08/vittorio-romeo-epochs"]
-Date = 2019-08-30
+Date = 2019-08-29
 guests = ["vromeo"]
 sponsors = ["pvs-studio","cppcon"]
 episode = "212"
