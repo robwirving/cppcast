@@ -2,12 +2,13 @@
 Title = "Vittorio Romeo"
 Twitter = "@supahvee1234"
 GitHub = "SuperV1234"
+Facebook = "vittorioromeovee"
+YouTube = "channel/UC1XihgHdkNOQd5IBHnIZWbA"
 Website = "http://vittorioromeo.info/"
 Thumbnail = "img/guest/vittorio-romeo.jpg"
 +++
-Vittorio Romeo is an undergraduate Computer Science student at "Università degli Studi di Messina".
-Since childhood he has always been interested in programming, and learned to develop applications and games as an autodidact.
-After discovering C++ a few years ago, Vittorio became extremely passionate about its evolution and its community.
-He currently works on open-source general-purpose C++14 libraries and develops free open-source games.
-Vittorio also loves teaching: he manages a well-received C++11/C++14 video tutorial series and he talked about game development in C++ at CppCon 2014.
-When he's not in front of a computer, Vittorio enjoys fitness activities (weightlifting, swimming, running) and reading.
+Vittorio Romeo has been a Software Engineer at Bloomberg for more than 3 years, working on mission-critical company C++ infrastructure and providing Modern C++ training to hundreds of fellow employees.
+
+He began programming around the age of 8 and quickly became a C++ enthusiast. Vittorio created several open-source C++ libraries and games, published many video courses and tutorials, and actively participates in the ISO C++ standardization process.
+
+He is also an active member of the C++ community and has an ardent desire to share his knowledge and learn from others. When he’s not writing code, Vittorio enjoys weightlifting and fitness-related activities, competitive/challenging computer gaming and sci-fi movies/TV-series.
