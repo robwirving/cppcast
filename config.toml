@@ -76,6 +76,11 @@ favicon = "favicon.ico"
       url = "https://backtrace.io/?utm_source=CppCast&utm_medium=CppCast"
       ad = "img/sponsors/Backtrace_900x193.png"
 
+    [params.sponsors.jetbrains]
+      name = "JetBrains"
+      url = "https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp"
+      ad = "img/sponsors/jetbrains_600x500.png"
+
     [params.sponsors.cppcon]
       name = "CppCon"
       url = "https://cppcon.org/"
