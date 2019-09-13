@@ -6,7 +6,7 @@ guests = ["cscott"]
 sponsors = ["pvs-studio","cppcon","jetbrains"]
 episode = "213"
 episode_image = "img/episode/2019/09/craig-scott.png"
-podcast_duration = "00:00:00"
+podcast_duration = "00:46:44"
 podcast_file = "cppcast-213.mp3"
 title = "Professional CMake"
 +++
