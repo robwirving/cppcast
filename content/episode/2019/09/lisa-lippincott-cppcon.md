@@ -1,5 +1,5 @@
 +++
-Description = "Rob and Jason are joined by Miro Knejp. They first discuss a blog post from Tanker covering their strategy to successfully use C++ for cross-platform mobile development. Then Miro gives them a preview of his upcoming CppCon talk and tells us about some of the C++ extensions that are out there and probably won't ever be standardized."
+Description = "Rob and Jason are joined by Lisa Lippincott in this special episode recorded at CppCon. They first discuss some of the conference highlights and favorite talks so far. Then Lisa gives an overview of her "Truth of a Procedure" talk. Later they talk about Lisa's work on the ISO committee, her thoughts on Contracts and much more."
 aliases = ["/2019/09/lisa-lippincott"]
 Date = 2019-09-19
 guests = ["llippincott"]
