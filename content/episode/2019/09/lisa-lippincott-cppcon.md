@@ -1,5 +1,5 @@
 +++
-Description = "Rob and Jason are joined by Lisa Lippincott in this special episode recorded at CppCon. They first discuss some of the conference highlights and favorite talks so far. Then Lisa gives an overview of her "Truth of a Procedure" talk. Later they talk about Lisa's work on the ISO committee, her thoughts on Contracts and much more."
+Description = "Rob and Jason are joined by Lisa Lippincott in this special episode recorded at CppCon. They first discuss some of the conference highlights and favorite talks so far. Then Lisa gives an overview of her 'Truth of a Procedure' talk. Later they talk about Lisa's work on the ISO committee, her thoughts on Contracts and much more."
 aliases = ["/2019/09/lisa-lippincott"]
 Date = 2019-09-19
 guests = ["llippincott"]
