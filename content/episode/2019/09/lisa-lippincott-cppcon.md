@@ -13,7 +13,7 @@ title = "Provable Functions at CppCon 2019"
 
 ### Links ###
 
- - [C++Now 2019: Lisa Lippincott "The Truth of a Procedure"](https://www.youtube.com/watch?v=DfNJR0wYRK4&t=1s)
+ - [C++Now 2019: Lisa Lippincott "The Truth of a Procedure"](https://www.youtube.com/watch?v=DfNJR0wYRK4)
  - [C++Now 2018: Lisa Lippincott "The Shape of a Program"](https://www.youtube.com/watch?v=QFIOE1jKv30)
  - [Layout-compatibility and Pointer-interconvertibility Traits](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p0466r4.pdf)
  - [Signed Integers are Two's Complement](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0907r4.html)
