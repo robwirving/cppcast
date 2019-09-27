@@ -8,23 +8,14 @@ sponsors = ["backtrace"]
 Date = "2018-08-02"
 podcast_duration = "00:49:18"
 podcast_file = "cppcast-161.mp3"
-episode_image = "img/episode/2018/08/simon-brand.jpg"
+episode_image = "img/episode/2018/08/sy-brand.jpg"
 +++
-
-Simon is a GPGPU toolchain developer at Codeplay Software in Edinburgh. He turns into a metaprogramming fiend every full moon, when he can be found bringing compilers to their knees with template errors and debating undefined behaviour on the C++ Slack channel. He co-organises the Edinburgh C++ user group and contributes to various programming standards bodies.
- 
-Outside of programming, he enjoys experimental films, homebrewing, and board games.
 
 ### News ###
 
  - [The value of undefined behavior](https://nullprogram.com/blog/2018/07/20/)
  - [Qt Creator 4.7 released](http://blog.qt.io/blog/2018/07/18/qt-creator-4-7-0-released/)
  - [Coroutines and Qt](http://jefftrull.github.io/qt/c++/coroutines/2018/07/21/coroutines-and-qt.html)
- 
-### Simon Brand ###
-
- - [@TartanLlama](https://twitter.com/TartanLlama)
- - [Simon Brand's GitHub](https://github.com/TartanLlama)
 
 ### Links ###
 

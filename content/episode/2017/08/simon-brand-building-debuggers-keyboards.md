@@ -7,12 +7,8 @@ aliases = ["/2017/08/simon-brand"]
 Date = "2017-08-17"
 podcast_duration = "00:48:41"
 podcast_file = "cppcast-114.mp3"
-episode_image = "img/episode/2017/08/simon-brand.jpg"
+episode_image = "img/episode/2017/08/sy-brand.jpg"
 +++
-
-Simon is a GPGPU toolchain developer at Codeplay Software in Edinburgh. He turns into a metaprogramming fiend every full moon, when he can be found bringing compilers to their knees with template errors and debating undefined behaviour on the C++ Slack channel. He co-organises the Edinburgh C++ user group and contributes to various programming standards bodies.
-
-Outside of programming, he enjoys experimental films, homebrewing, and board games.
 
 ### News ###
 
@@ -20,11 +16,6 @@ Outside of programming, he enjoys experimental films, homebrewing, and board gam
  - [C++ London "University"](https://www.meetup.com/CppLondon/messages/boards/thread/51036970)
  - [C++17 Features and STL Fixes in VS 2017 15.3](https://blogs.msdn.microsoft.com/vcblog/2017/08/11/c17-features-and-stl-fixes-in-vs-2017-15-3/)
  - [The reviews have begun](http://meetingcpp.com/index.php/br/items/the-reviews-have-begun.html)
- 
-### Simon Brand ###
-
- - [@TartanLlama](https://twitter.com/TartanLlama)
- - [Simon Brand's GitHub](https://github.com/TartanLlama)
 
 ### Links ###
 
