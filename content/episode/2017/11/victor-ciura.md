@@ -19,7 +19,7 @@ Currently, he spends most of his time working with his team on improving and ext
 
 ### News ###
 
- - [Simon Brand Meeting C++ Trip Report](https://blog.tartanllama.xyz/meetingcpp-2017/)
+ - [Sy Brand Meeting C++ Trip Report](https://blog.tartanllama.xyz/meetingcpp-2017/)
  - [C++ Coroutines: Understanding operator co_await](https://lewissbaker.github.io/2017/11/17/understanding-operator-co-await)
  - [Cmake 3.1.0 released](https://blog.kitware.com/cmake-3-10-0-available-for-download/)
  - [Launching Tech Talks in your workplace](https://patviafore.com/2017/11/22/launching-tech-talks-in-your-workplace/)

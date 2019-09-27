@@ -1,5 +1,5 @@
 +++
-Description = "Rob and Jason are joined by Simon Brand from Codeplay Software to talk about building C++ debuggers and the hardware and C++ firmware of a custom keyboard."
+Description = "Rob and Jason are joined by Sy Brand from Codeplay Software to talk about building C++ debuggers and the hardware and C++ firmware of a custom keyboard."
 episode = "114"
 title = "Building Debuggers and Keyboards"
 guests = ["sbrand"]

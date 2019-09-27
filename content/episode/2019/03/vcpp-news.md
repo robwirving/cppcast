@@ -13,13 +13,13 @@ episode_image = "img/episode/2019/03/vcppteam.png"
 
 Marian Luparu is the Lead Program Manager of the C++ team responsible for the C++ experience in Visual Studio, VS Code as well as Vcpkg. 
 
-Simon Brand is Microsoft’s C++ Developer Advocate. Their background is in compilers and debuggers for embedded accelerators, but they’re also interested in generic library design, metaprogramming, functional-style C++, undefined behaviour, and making our communities more welcoming and inclusive.
+Sy Brand is Microsoft’s C++ Developer Advocate. Their background is in compilers and debuggers for embedded accelerators, but they’re also interested in generic library design, metaprogramming, functional-style C++, undefined behaviour, and making our communities more welcoming and inclusive.
 
 Tara Raj is the Program Manager for the C++ experience in Visual Studio Code and Vcpkg. She is interested in developer tools and Linux.
 
 Bob Brown is the engineering manager for C++ experiences in Visual Studio and Visual Studio Code.
 
-### Marian Luparu, Simon Brand, Tara Raj and Bob Brown ###
+### Marian Luparu, Sy Brand, Tara Raj and Bob Brown ###
 
  - [@mluparu](https://twitter.com/mluparu)
  - [@TartanLlama](https://twitter.com/TartanLlama)

@@ -1,5 +1,5 @@
 +++
-Description = "Rob and Jason are joined by Simon Brand to discuss his upcoming CppCon talks covering exceptions, value wrappers, debuggers and more."
+Description = "Rob and Jason are joined by Sy Brand to discuss his upcoming CppCon talks covering exceptions, value wrappers, debuggers and more."
 episode = "161"
 title = "Expectations and Exceptions"
 guests = ["sbrand"]
