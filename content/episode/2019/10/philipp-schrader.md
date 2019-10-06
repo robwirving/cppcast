@@ -1,5 +1,5 @@
 +++
-Description = "Rob and Jason are joined by Philipp Schrader. They first discuss some post CppCon news and the LLVM 9.0 release. Then Phil talks about the work he's doing at Peleton Technology to enable the 'platooning' of trucks with software written in C++."
+Description = "Rob and Jason are joined by Philipp Schrader. They first discuss some post CppCon news and the LLVM 9.0 release. Then Phil talks about the work he's doing at Peloton Technology to enable the 'platooning' of trucks with software written in C++."
 aliases = ["/2019/10/philipp-schrader"]
 Date = 2019-10-03
 guests = ["pschrader"]
