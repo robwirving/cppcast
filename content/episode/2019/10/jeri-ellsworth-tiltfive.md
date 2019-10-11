@@ -6,7 +6,7 @@ guests = ["jellsworth"]
 sponsors = ["backtrace","jetbrains"]
 episode = "218"
 episode_image = "img/episode/2019/10/jeri-ellsworth.jpg"
-podcast_duration = "00:56:04"
+podcast_duration = "01:10:42"
 podcast_file = "cppcast-218.mp3"
 title = "Commodore 64 and Tilt Five AR"
 +++
