@@ -6,7 +6,7 @@ guests = ["paas"]
 sponsors = ["backtrace","jetbrains"]
 episode = "219"
 episode_image = "img/episode/2019/10/patricia-aas.jpg"
-podcast_duration = "01:10:42"
+podcast_duration = "01:02:46"
 podcast_file = "cppcast-219.mp3"
 title = "Election Security"
 +++
