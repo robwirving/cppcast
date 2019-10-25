@@ -6,7 +6,7 @@ guests = ["nliber"]
 sponsors = ["pvs-studio","jetbrains"]
 episode = "220"
 episode_image = "img/episode/2019/10/nevin-liber.jpg"
-podcast_duration = "01:02:46"
+podcast_duration = "00:53:49"
 podcast_file = "cppcast-220.mp3"
 title = "Becoming involved with the C++ committee"
 +++
