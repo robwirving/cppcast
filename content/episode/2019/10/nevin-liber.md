@@ -11,13 +11,16 @@ podcast_file = "cppcast-220.mp3"
 title = "Becoming involved with the C++ committee"
 +++
 
+### News ###
+
+ - [Pack the Bits - Adventures in small_bit_vector](https://thephd.github.io/small-bit-vector)
+ - [ISO 2019-10 Mailing](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/#mailing2019-10)
+ - [Meetup: Payment changes comings soon](https://www.meetup.com/lp/paymentchanges)
+ - [C++ On Sea Registration](https://cpponsea.uk/registration/)
+
 ### Links ###
 
- - [NDC TechTown 2019 Keynote: Elections: Trust and Critical Infrastructure - Patricia Aas](https://www.youtube.com/watch?v=evV1brjMuH8)
- - [TurtleSec](https://turtlesec.no/)
- - [Tech Women Norway](https://techwomen.no/)
- - [Oslo C++ Users Group](https://twitter.com/OsloCpp)
- - [#include<C++> discord](https://discordapp.com/invite/ZPErMGW)
+ - [Argonne National Lab](https://www.anl.gov/)
  
 ### Sponsors ###
 
