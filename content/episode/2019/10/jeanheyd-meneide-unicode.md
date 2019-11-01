@@ -6,7 +6,7 @@ guests = ["jmeneide"]
 sponsors = ["pvs-studio"]
 episode = "221"
 episode_image = "img/episode/2019/10/jeanheyd-meneide.png"
-podcast_duration = "01:10:42"
+podcast_duration = "01:00:44"
 podcast_file = "cppcast-221.mp3"
 title = "Unicode for C++23"
 +++
