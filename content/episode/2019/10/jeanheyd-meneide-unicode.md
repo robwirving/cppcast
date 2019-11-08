@@ -23,6 +23,7 @@ title = "Unicode for C++23"
  - [CppCon 2019: JeanHeyd Meneide "Catch ⬆️: Unicode for C++23"](https://www.youtube.com/watch?v=BdUipluIf1E&)
  - [Text for C++](https://thephd.github.io/portfolio/text)
  - [Embed (Library)](https://github.com/ThePhD/embed)
+ - [Embed on Godbolt](https://godbolt.org/z/PPAWM0)
  - [Support (Patreon/GitHub Sponsors)](https://thephd.github.io/support/)
  
 ### Sponsors ###
