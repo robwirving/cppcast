@@ -121,11 +121,11 @@
       {{ end }}
       
       <!-- next page button -->
-      {{- with $paginator.HasNext -}}
+      <!--{{- with $paginator.HasNext -}}-->
       <li class="page-item">
         <a href="{{ $paginator.Next.URL }}" class="page-link"> &raquo; </a>
       </li>
-      {{ end }}
+      <!--{{ end }}-->
       
       <!-- last page button -->
       {{ if lt $paginator.PageNumber (sub $paginator.TotalPages 1) }}
