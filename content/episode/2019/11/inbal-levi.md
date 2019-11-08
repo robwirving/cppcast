@@ -5,8 +5,8 @@ Date = 2019-11-07
 guests = ["ilevi"]
 sponsors = ["pvs-studio","jetbrains"]
 episode = "222"
-episode_image = "img/episode/2019/10/inbal-levi.jpg"
-podcast_duration = "01:00:44"
+episode_image = "img/episode/2019/11/inbal-levi.jpg"
+podcast_duration = "00:50:04"
 podcast_file = "cppcast-222.mp3"
 title = "CRTP and Israel joining the C++ ISO"
 +++
