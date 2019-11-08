@@ -5,19 +5,12 @@
 {{ end }}
 <div class="row hero_container">
 
-  <div id="site-header-container" class="header-center" >
-    <!-- <header id="site-header" > -->
-        <!-- <aside id="header-logo"> -->
-            <a href="/">
-                <img class="img-fluid" src="/img/logo@2x.png" alt="cppcast logo" title="cppcast" />
-            </a>
-        <!-- </aside> -->
-    <!-- </header> -->
-  </div>
-
   <div class="col-md-12">
+  <h2>
+  Latest Episode
+  </h2>
 
-  {{ range first 1 (where .Data.Pages "Type" "episode") }}
+  {{ range first 1 (where site.RegularPages "Type" "in" site.Params.mainSections) }}
     {{- with .Params.truncate -}}
       {{- $.Scratch.Set "truncate" . }}
     {{- else -}}
@@ -82,7 +75,7 @@
     {{- if .Params.episode_image -}}
       <div class = "row homepage_episode_row">
         <div class = "col-md-3">
-          <a href="{{ .Permalink }}"><img class = "img-fluid" src = "{{ .Params.episode_image | absURL }}" /></a><!--<img class = "hero-img" src = "{{ .Params.episode_image | absURL }}" /></a>-->
+          <a href="{{ .Permalink }}"><img class = "img-fluid" src = "{{ .Params.episode_image | absURL }}" /></a>
         </div>
         <div class = "col-md-8">
           {{- if ge (countrunes .Description ) ($.Scratch.Get "truncate") -}}
@@ -116,9 +109,9 @@
 
 <section class="episode-list">
 <!-- rest of episodes -->
-{{- if (where .Data.Pages "Type" "episode") -}}
-{{- $paginator := .Paginate (after 1 (where .Data.Pages "Type" "episode")) 5 -}}
-{{- $list := (where .Data.Pages "Type" "episode") -}}
+{{- if (where site.RegularPages "Type" "in" site.Params.mainSections) -}}
+{{- $paginator := .Paginate (after 1 (where site.RegularPages "Type" "in" site.Params.mainSections)) 5 -}}
+{{- $list := (where site.RegularPages "Type" "in" site.Params.mainSections) -}}
 {{- $len := (len $list) -}}
 <div class="row main_container">
 {{- with .Site.Params.enable_jumbo -}}
@@ -178,7 +171,7 @@
       {{- with .Params.podcast_file -}}
         <div class = "row homepage_episode_row">
           <div class = "col-md-12 player_row">
-              <audio id="audioplayer" src="{{ $.Site.Params.media_prefix }}{{ . }}" controls="controls" class="podcast-audio" preload="none" />
+            <audio id="audioplayer" src="{{ $.Site.Params.media_prefix }}{{ . }}" controls="controls" class="podcast-audio" preload="none" />
           </div>
         </div>
       {{- end -}}
