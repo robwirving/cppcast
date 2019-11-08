@@ -12,17 +12,17 @@ paginate = "6"
 [[Menu.Main]]
     name = "About"
     identifier = "about"
-    url = "about"
+    url = "/about"
 
 [[Menu.Main]]
     name = "Hosts"
     identifier = "hosts"
-    url = "host"
+    url = "/host"
 
 [[Menu.Main]]
     name = "Guests"
     identifier = "guests"
-    url = "guest"
+    url = "/guest"
 
 [params]
 custom_css = ["custom.css"]
