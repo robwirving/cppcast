@@ -6,7 +6,7 @@ guests = ["tdoumler"]
 sponsors = ["pvs-studio","jetbrains"]
 episode = "223"
 episode_image = "img/episode/2019/11/timur-doumler.jpg"
-podcast_duration = "00:50:04"
+podcast_duration = "00:54:07"
 podcast_file = "cppcast-223.mp3"
 title = "Belfast Trip Report"
 +++
