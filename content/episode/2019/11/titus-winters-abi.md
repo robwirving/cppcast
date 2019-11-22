@@ -29,6 +29,7 @@ title = "The C++ ABI"
 ### Sponsors ###
 
 - [Backtrace](https://backtrace.io/?utm_source=CppCast&utm_medium=CppCast)
+- [Software Crash Management for Embedded Devices and IOT Projects](https://hello.backtrace.io/sw-crash-management-for-embedded-devices-12/5/2019?utm_campaign=IoT%2FEmbedded%20Devices%20-%20Webinar%20-%20SW%20Crash%2012%2F5%2F2019%20-%20CPP%20Cast&utm_source=CPPCast)
 - [Announcing Visual Studio Extension - Integrated Crash Reporting in 5 Minutes](https://backtrace.io/blog/features/visual-studio/)
 
 - [JetBrains](https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp)
