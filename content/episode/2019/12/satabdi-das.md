@@ -24,7 +24,7 @@ title = "Difficult Bugs"
  - [Hack && Tell Boston](https://www.meetup.com/Hack-Tell-Boston/)
  - [The Recurse Center](https://www.recurse.com/)
 
- ### Sponsors ###
+### Sponsors ###
 
 - [Write the hashtag #cppcast when requesting the license here](https://www.viva64.com/en/pvs-studio-download/)
 - [One Day from PVS-Studio User Support](https://www.viva64.com/en/b/0671/)
