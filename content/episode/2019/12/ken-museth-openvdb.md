@@ -6,7 +6,7 @@ guests = ["kmuseth"]
 sponsors = ["pvs-studio","jetbrains"]
 episode = "227"
 episode_image = "img/episode/2019/12/ken-museth.jpg"
-podcast_duration = "00:44:02"
+podcast_duration = "00:57:16"
 podcast_file = "cppcast-227.mp3"
 title = "OpenVDB"
 +++
