@@ -1,5 +1,5 @@
 +++
-Description = "Rob and Jason are joined by Saar Raz. They first discuss blog posts covering a new project management tool for C++ and another about improving Clang support for large integer arrays. Then they talk to Saar Raz about his work to add Concepts support to the Clang compiler."
+Description = "Rob and Jason are joined by Phil Nash, Adi Shavit and Fred Tingaud. They talk with the three meetup and conference organizers about their motivations for launching new C++ conferences last year and discuss some of the work involved in doing so."
 aliases = ["/2020/01/saar-raz"]
 Date = 2020-01-16
 guests = ["pnash","ashavit","ftingaud"]
