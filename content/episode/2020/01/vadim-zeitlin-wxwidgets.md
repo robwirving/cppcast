@@ -1,5 +1,5 @@
 +++
-Description = "Rob and Jason are joined by Vadim Zeitlin one of the maintainers of WxWidgets. They first talk about a blog post describing a fantastic bug and another responding to the changes announced by Qt."
+Description = "Rob and Jason are joined by Vadim Zeitlin one of the maintainers of WxWidgets. They first talk about a blog post describing a fantastic bug and another responding to the changes announced by Qt. Then Vadim tells them about how he got involved contributing to WxWidgets, the cross platform C++ GUI library."
 aliases = ["/2020/01/vadim-zeitlin"]
 Date = "2020-01-30"
 guests = ["vzeitlin"]
