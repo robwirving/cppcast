@@ -6,7 +6,7 @@ guests = ["blarson"]
 sponsors = ["pvs-studio"]
 episode = "234"
 episode_image = "img/episode/2020/02/brad-larson.jpg"
-podcast_duration = "00:58:45"
+podcast_duration = "00:52:39"
 podcast_file = "cppcast-234.mp3"
 title = "C++ on a Watch"
 +++
