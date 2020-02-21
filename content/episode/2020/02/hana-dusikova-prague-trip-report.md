@@ -1,7 +1,7 @@
 +++
 Description = "Rob and Jason are joined by Hana Dusikova from Avast. They talk about the final changes that went into the C++20 draft which should become the official new standard in 3 or 4 months. They also discuss the direction of C++23 and some of the papers that were proposed in Prague."
 aliases = ["/2020/02/hana-dusikova"]
-Date = "2020-02-13"
+Date = "2020-02-21"
 guests = ["hdusikova"]
 sponsors = ["pvs-studio"]
 episode = "235"
