@@ -19,7 +19,7 @@ title = "Prague Trip Report"
 ### Links ###
 
  - [To boldly suggest an overall plan for C++23](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p0592r4.html)
- - [ABI - Now or Never](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p0592r4.html)
+ - [ABI - Now or Never](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1863r0.pdf)
  - [Epochs: a backward-compatible language evolution mechanism](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p1881r1.html)
  - [std::embed](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p1040r5.html)
 
