@@ -25,5 +25,5 @@ title = "Prague Trip Report"
 
 ### Sponsors ###
 
-- [Write #cppcast in the message field on the download page and get one month license](http://bit.ly/2YOH7re)
+- [PVS-Studio.](http://bit.ly/2YOH7re) Write #cppcast in the message field on the download page and get one month license
 - Read the article ["Zero, one, two, Freddy's coming for you"](http://bit.ly/2STw7D9) about a typical pattern of typos related to the usage of numbers 0, 1, 2
