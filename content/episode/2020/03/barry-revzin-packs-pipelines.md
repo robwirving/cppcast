@@ -21,7 +21,7 @@ title = "Packs and Pipelines"
 ### Links ###
 
  - [P1061R1 Structured Bindings can introduce a Pack](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1061r1.html)
- - [P1185R1](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1185r1.html)
+ - [P1185R2 &lt;=&gt; != ==](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1185r2.html)
  - [P1858R1 Generalized pack declaration and usage](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p1858r1.html)
  - [P2011R0 A pipeline-rewrite operator](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p2011r0.html)
 
