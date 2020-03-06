@@ -6,7 +6,7 @@ guests = ["brevzin"]
 sponsors = ["backtrace"]
 episode = "237"
 episode_image = "img/episode/2020/03/barry-revzin.jpg"
-podcast_duration = "00:57:20"
+podcast_duration = "00:53:26"
 podcast_file = "cppcast-237.mp3"
 title = "Packs and Pipelines"
 +++
