@@ -1,5 +1,5 @@
 +++
-Description = "Rob and Jason are joined by Barry Revzin. They first discuss a blog post about how to declare a class's data members and methods. They then discuss some of his contributions to C++20 including some necessary fixes to spaceship operator, and some proposals he is working on for C++23 including pack declaration and a new pipe operator."
+Description = "Rob and Jason are joined by Yuri Minaev from PVS-Studio. They first discuss a blog posts on ISO's recent decision not to break the C++ ABI in C++23 and getting rid of volatile in the Qt codebase. Then they talk to Yuri Minaev, one of the developers at PVS Studio working on the static analyzer. They discuss some of the forms of analysis that the tool excels at and how it's changed the way Yuri programs."
 aliases = ["/2020/02/yuri-minaev"]
 Date = "2020-03-12"
 guests = ["yminaev"]
