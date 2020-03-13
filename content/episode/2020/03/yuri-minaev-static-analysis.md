@@ -6,7 +6,7 @@ guests = ["yminaev"]
 sponsors = ["pvs-studio"]
 episode = "238"
 episode_image = "img/episode/2020/03/yuri-minaev.png"
-podcast_duration = "00:53:26"
+podcast_duration = "00:40:53"
 podcast_file = "cppcast-238.mp3"
 title = "PVS-Studio Static Analysis"
 +++
