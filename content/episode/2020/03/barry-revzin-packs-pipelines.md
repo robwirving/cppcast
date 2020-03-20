@@ -1,6 +1,6 @@
 +++
 Description = "Rob and Jason are joined by Barry Revzin. They first discuss a blog post about how to declare a class's data members and methods. They then discuss some of his contributions to C++20 including some necessary fixes to spaceship operator, and some proposals he is working on for C++23 including pack declaration and a new pipe operator."
-aliases = ["/2020/02/barry-revzin"]
+aliases = ["/2020/03/barry-revzin"]
 Date = "2020-03-05"
 guests = ["brevzin"]
 sponsors = ["backtrace"]

@@ -1,7 +1,8 @@
 +++
 Title = "Jussi Pakkanen"
 Twitter = "@jpakkane"
+GitHub = "jpakkane"
 Website = "http://nibblestew.blogspot.com/"
 Thumbnail = "img/guest/jussi-pakkanen.jpg"
 +++
-Jussi Pakkanen got his doctoral degree in computer science from the Helsinki University of Technology in 2006. Since then he has worked on various problem areas ranging from mail sorting to the software stacks of Ubuntu desktop and phone. Most recently he was the SDK lead developer at Jolla. Currently he is open for new development challenges. During his spare time he has been known to be a photographer, movie director, magician, gastronomist, computer game designer and watercolour painter.
+Jussi Pakkanen is the original creator and project lead of the Meson build system. This has lead to many interesting things such as people coming up to him at conferences to compete in who has the most terrible build system setup inside their corporate walls. His prior work experience has ranged from desktop Linux to mail sorting, mobile development, slot machines and computer security. His hobbies at the time of writing include sitting at home waiting for the corona virus lockdown procedures to end.
