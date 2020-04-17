@@ -2,7 +2,7 @@
 Description = "Rob and Jason are joined by Andrew Leaver-Fay from UNC and Jack Maguire from Menten AI. They first discuss a proposal to update both C and C++ and create a unified common core for the languages. Then they talk to Andrew and Jack about Rosetta, a C++ protein modeling library, it's history being ported from Fortran and some of its use cases such as creating HIV vaccines."
 aliases = ["/2020/04/jonathan-turner"]
 Date = "2020-04-16"
-guests = ["aleaverfay","jmaguire]
+guests = ["aleaverfay","jmaguire"]
 sponsors = ["pvs-studio"]
 episode = "243"
 episode_image = "img/episode/2020/04/andrew-jack-rosetta.png"
