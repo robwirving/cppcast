@@ -6,7 +6,7 @@ guests = ["mklein"]
 sponsors = ["pvs-studio","jetbrains"]
 episode = "245"
 episode_image = "img/episode/2020/04/matt-klein.jpg"
-podcast_duration = "00:24:13"
+podcast_duration = "00:54:13"
 podcast_file = "cppcast-245.mp3"
 title = "Envoy Proxy"
 +++
