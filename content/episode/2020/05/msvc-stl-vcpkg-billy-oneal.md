@@ -1,6 +1,6 @@
 +++
 Description = "Rob and Jason are joined by Billy O'Neal from Microsoft. They first discuss some news from various conferences and user groups that are going online. Then they talk to Billy O'Neal from Microsoft's Visual C++ team. He tells them how he joined the team and some of the projects he's worked on, including some recent work on vcpkg."
-aliases = ["/2020/04/billy-oneal"]
+aliases = ["/2020/05/billy-oneal"]
 Date = "2020-05-07"
 guests = ["boneal"]
 sponsors = ["pvs-studio","jetbrains"]

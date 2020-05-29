@@ -1,6 +1,6 @@
 +++
 Description = "Rob and Jason are joined by Mateusz Pusz. They first discuss the 10.1 update of GCC and an article from Raymond Chen. Then they talk to Mateusz about his physical units library and his efforts to get physical units into the standard."
-aliases = ["/2020/04/mateusz-pusz"]
+aliases = ["/2020/05/mateusz-pusz"]
 Date = "2020-05-14"
 guests = ["mpusz"]
 sponsors = ["pvs-studio","jetbrains"]

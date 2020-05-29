@@ -1,6 +1,6 @@
 +++
 Description = "Rob and Jason are joined by Martin Hořeňovský. They first discuss some ISO papers and Jason learning Rust from his cousin Jonathan. Then Martin tells them about his work maintaining Catch 2, including his plans for future updates of the unit testing library. Martin also talks about SAT solvers and problems with std::random."
-aliases = ["/2020/04/martin-horenovsky"]
+aliases = ["/2020/05/martin-horenovsky"]
 Date = "2020-05-21"
 guests = ["mhorenovsky"]
 sponsors = ["pvs-studio","jetbrains"]
