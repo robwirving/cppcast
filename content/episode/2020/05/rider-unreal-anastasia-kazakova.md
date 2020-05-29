@@ -1,5 +1,5 @@
 +++
-Description = "Rob and Jason are joined by Anastasia Kazakova. They first discuss news from Herb Sutter that the November ISO meeting has been postponed and a new Visual Studio preview release. Then they talk to Anastasia Kazakova from JetBrains about Rider for Unreal Engine and other updates to CLion and Resharper for C++ as well as information about the C++ ecosystem."
+Description = "Rob and Jason are joined by Anastasia Kazakova. They first discuss news from Herb Sutter that the November ISO meeting has been postponed and a new Visual Studio preview release. Then they talk to Anastasia Kazakova from JetBrains about Rider for Unreal Engine and other updates to CLion and ReSharper for C++ as well as information about the C++ ecosystem."
 aliases = ["/2020/05/anastasia-kazakova"]
 Date = "2020-05-28"
 guests = ["akazakova"]
