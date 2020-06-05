@@ -66,6 +66,11 @@ favicon = "favicon.ico"
         twitter = "lefticus"
   
   [params.sponsors]
+    [params.sponsors.clang-power-tools]
+      name = "Clang Power Tools"
+      url = "https://clangpowertools.com/?utm_source=cppcast&utm_medium=podcast&utm_campaign=promo_cppcast"
+      ad = "img/sponsors/ClangPowerToolsBanner.png"
+
     [params.sponsors.pvs-studio]
       name = "PVS-Studio"
       url = "http://bit.ly/2KBeGnC"
