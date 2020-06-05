@@ -6,7 +6,7 @@ guests = ["njosuttis"]
 sponsors = ["clang-power-tools","jetbrains"]
 episode = "250"
 episode_image = "img/episode/2020/05/nico-josuttis.jpg"
-podcast_duration = "00:53:33"
+podcast_duration = "00:55:16"
 podcast_file = "cppcast-250.mp3"
 title = "Move Semantics"
 +++
