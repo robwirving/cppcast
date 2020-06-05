@@ -32,4 +32,6 @@ title = "Move Semantics"
 
 ### Sponsors ###
 
+- [Clang Power Tools](https://clangpowertools.com/?utm_source=cppcast&utm_medium=podcast&utm_campaign=promo_cppcast)
+
 - Use code JetBrainsForCppCast during checkout at [JetBrains.com](http://www.jetbrains.com/) for a 25% discount
