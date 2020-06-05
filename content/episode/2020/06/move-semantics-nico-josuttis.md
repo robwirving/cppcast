@@ -1,5 +1,5 @@
 +++
-Description = "Rob and Jason are joined by Anastasia Kazakova. They first discuss news from Herb Sutter that the November ISO meeting has been postponed and a new Visual Studio preview release. Then they talk to Anastasia Kazakova from JetBrains about Rider for Unreal Engine and other updates to CLion and ReSharper for C++ as well as information about the C++ ecosystem."
+Description = "Rob and Jason are joined by author and ISO committee member Nico Josuttis. They first discuss a blog post on faster integer parsing and CppCon registration opening up. Then they talk to Nico about the book he is currently finishing on C++ Move Semantics and other books he's written in the past. They also discuss proposals that Nico has worked on for the ISO committee."
 aliases = ["/2020/05/nico-josuttis"]
 Date = "2020-06-04"
 guests = ["njosuttis"]
