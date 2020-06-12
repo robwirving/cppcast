@@ -6,7 +6,7 @@ guests = ["bsmith"]
 sponsors = ["clang-power-tools","jetbrains"]
 episode = "251"
 episode_image = "img/episode/2020/06/ben-smith.jpg"
-podcast_duration = "00:55:16"
+podcast_duration = "00:57:34"
 podcast_file = "cppcast-251.mp3"
 title = "Web Assembly"
 +++
