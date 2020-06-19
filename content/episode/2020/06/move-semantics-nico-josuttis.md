@@ -1,6 +1,6 @@
 +++
 Description = "Rob and Jason are joined by author and ISO committee member Nico Josuttis. They first discuss a blog post on faster integer parsing and CppCon registration opening up. Then they talk to Nico about the book he is currently finishing on C++ Move Semantics and other books he's written in the past. They also discuss proposals that Nico has worked on for the ISO committee."
-aliases = ["/2020/05/nico-josuttis"]
+aliases = ["/2020/06/nico-josuttis"]
 Date = "2020-06-04"
 guests = ["njosuttis"]
 sponsors = ["clang-power-tools","jetbrains"]

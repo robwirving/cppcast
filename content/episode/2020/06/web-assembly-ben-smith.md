@@ -1,6 +1,6 @@
 +++
 Description = "Rob and Jason are joined by Ben Smith from Google, chair of the Web Assembly working group. They first discuss a blog post on how to ask for C++ coding help, conference news and a discussion on C++ IDEs and tools. Then Ben talks to them about the current state of Web Assembly, the future and alternative uses for Web Assembly like Virtual Machines and Emulators."
-aliases = ["/2020/05/ben-smith"]
+aliases = ["/2020/06/ben-smith"]
 Date = "2020-06-11"
 guests = ["bsmith"]
 sponsors = ["clang-power-tools","jetbrains"]
