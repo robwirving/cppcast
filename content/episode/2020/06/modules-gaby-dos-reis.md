@@ -24,6 +24,7 @@ title = "Modules Present and Future"
  - [Peeking Safely at a Table with Concepts with Gabriel Dos Reis](https://www.youtube.com/watch?v=xO7JG0GarG4)
  - [CppCon 2019: Gabriel Dos Reis "Programming with C++ Modules: Guide for the Working"](https://www.youtube.com/watch?v=tjSuKOz5HK4)
  - [CPPP 2019 - C++ Modules: What You Should Know - Gabriel Dos Reis](https://www.youtube.com/watch?v=MP6SJEBt6Ss)
+ - [RustSec Advisory Database](https://rustsec.org/advisories/)
 
 ### Sponsors ###
 
