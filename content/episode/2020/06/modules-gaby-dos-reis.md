@@ -8,7 +8,7 @@ episode = "252"
 episode_image = "img/episode/2020/06/gabriel-dos-reis.jpg"
 podcast_duration = "00:58:39"
 podcast_file = "cppcast-252.mp3"
-title = "Modules Present and Future" 
+title = "Modules Present and Future"
 +++
 
 ### News ###
