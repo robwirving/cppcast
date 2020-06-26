@@ -69,7 +69,7 @@ favicon = "favicon.ico"
     [params.sponsors.clang-power-tools]
       name = "Clang Power Tools"
       url = "https://clangpowertools.com/?utm_source=cppcast&utm_medium=podcast&utm_campaign=promo_cppcast"
-      ad = "img/sponsors/ClangPowerToolsBanner.png"
+      ad = "img/sponsors/clangpowertools.png"
 
     [params.sponsors.pvs-studio]
       name = "PVS-Studio"
