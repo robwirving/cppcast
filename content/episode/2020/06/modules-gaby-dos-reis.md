@@ -1,7 +1,7 @@
 +++
 Description = "Rob and Jason are joined by Gabriel Dos Reis from Microsoft. They first discuss the recent articles about Microsoft switching from C++ to Rust and let Gaby set the record straight. Then Gaby talks about the final state of Modules, how Microsoft is using them internally, and Gaby's plans for the future of Modules and much more."
 aliases = ["/2020/06/gaby-dos-reis"]
-Date = "2020-06-11"
+Date = "2020-06-18"
 guests = ["gdosreis"]
 sponsors = ["clang-power-tools","jetbrains"]
 episode = "252"
