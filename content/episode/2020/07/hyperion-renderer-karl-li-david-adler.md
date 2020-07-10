@@ -5,7 +5,7 @@ guests = ["kli","dadler"]
 sponsors = ["clang-power-tools"]
 episode = "255"
 episode_image = "img/episode/2020/07/hyperion-renderer.jpg"
-podcast_duration = "01:01:16"
+podcast_duration = "00:52:09"
 podcast_file = "cppcast-255.mp3"
 title = "Hyperion Renderer"
 +++
