@@ -1,5 +1,5 @@
 +++
-Description = "Rob and Jason are joined by Yining Karl Li and David Adler from Disney Animation Studios. They first discuss C++ conformance changes in Visual Studio 2019. Then Karl and David  Then Michael shares an announcement of a new version of SYCL that was just released. And shares information about the multiple standards groups he is a member or chair of."
+Description = "Rob and Jason are joined by Yining Karl Li and David Adler from Disney Animation Studios. They first discuss C++ conformance changes in Visual Studio 2019. Then Karl and David talk about the Hyperion Renderer and more."
 Date = "2020-07-09"
 guests = ["kli","dadler"]
 sponsors = ["clang-power-tools"]
