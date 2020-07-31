@@ -5,7 +5,7 @@ guests = ["jfilstrup"]
 sponsors = ["pvs-studio"]
 episode = "258"
 episode_image = "img/episode/2020/07/josh-filstrup.jpg"
-podcast_duration = "00:51:34"
+podcast_duration = "01:00:49"
 podcast_file = "cppcast-258.mp3"
 title = "Visual Effects"
 +++
