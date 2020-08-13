@@ -2,7 +2,7 @@
 Description = "Rob and Jason are joined by Ian Lance Taylor from Google. They first discuss an announcement from Conan and a blog post about embedding files into C++ applications using string literals. Then they talk to Ian Lance Taylor about the Go programming language."
 Date = "2020-08-06"
 guests = ["itaylor"]
-sponsors = ["pvs-studio"]
+sponsors = ["clang-power-tools"]
 episode = "259"
 episode_image = "img/episode/2020/08/ian-taylor.jpg"
 podcast_duration = "00:43:48"
