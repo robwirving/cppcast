@@ -18,8 +18,8 @@ title = "Modern C++ for Absolute Beginners"
 
 ### Links ###
 
- - [Apress: Modern C++ for Absolute Beginners](https://www.apress.com/gp/book/9781484260463)
  - [Amazon: Modern C++ for Absolute Beginners](https://amzn.to/2DMShDs)
+ - [Apress: Modern C++ for Absolute Beginners](https://www.apress.com/gp/book/9781484260463)
 
 ### Sponsors ###
 
