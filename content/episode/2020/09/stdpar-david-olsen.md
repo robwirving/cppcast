@@ -18,7 +18,7 @@ title = "stdpar"
 
 ### Links ###
 
- - [Accelerating Standard C++ with GPUs using stdpar](https://developer.nvidia.com/blog/accelerating-standard-c-with-gpus-using-stdpar/)
+ - [Accelerating Standard C++ with GPUs using stdpar](https://developer.nvidia.com/blog/accelerating-standard-c-with-gpus-using-stdpar/?ncid=partn-19574#cid=hpc06_partn_en-us)
  - [P1467R4 Extended floating-point types and standard names](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p1467r4.html)
 
 ### Sponsors ###
