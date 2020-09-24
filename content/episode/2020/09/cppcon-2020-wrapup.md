@@ -4,8 +4,8 @@ Date = "2020-09-23"
 guests = ["jkalb"]
 sponsors = ["pvs-studio"]
 episode = "266"
-episode_image = "img/episode/2020/09/msvc-cppcon-2020.png"
-podcast_duration = "00:57:35"
+episode_image = "img/episode/2020/09/jon-kalb.jpg"
+podcast_duration = "00:56:17"
 podcast_file = "cppcast-266.mp3"
 title = "CppCon 2020 Wrapup"
 +++
