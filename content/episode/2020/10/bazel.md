@@ -2,7 +2,7 @@
 Description = "Rob and Jason are joined by Lukács Berki and Julio Merino from Google's Bazel team. They discuss CppCon trip reports, the cpp subreddit and a video on C++ 20 Concepts. Then Lukács and Julio talk all about the advantages of Bazel and some of the key features of Google's open source build tool."
 Date = "2020-10-16"
 guests = ["lberki","jmerino"]
-episode = "268"
+episode = "269"
 episode_image = "img/episode/2020/10/bazel.jpg"
 podcast_duration = "00:52:09"
 podcast_file = "cppcast-269.mp3"
