@@ -4,7 +4,7 @@ Date = "2020-10-23"
 guests = ["bdeane"]
 episode = "270"
 episode_image = "img/episode/2020/10/ben-deane.jpg"
-podcast_duration = "00:52:09"
+podcast_duration = "00:53:39"
 podcast_file = "cppcast-270.mp3"
 title = "Programming History, JIT Compilations and Generic Algorithms"
 +++
