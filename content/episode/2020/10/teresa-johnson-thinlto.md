@@ -4,7 +4,7 @@ Date = "2020-10-30"
 guests = ["tjohnson"]
 episode = "271"
 episode_image = "img/episode/2020/10/teresa-johnson.jpg"
-podcast_duration = "00:53:39"
+podcast_duration = "00:52:12"
 podcast_file = "cppcast-271.mp3"
 title = "ThinLTO"
 +++
