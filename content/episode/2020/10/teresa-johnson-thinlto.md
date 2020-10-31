@@ -18,7 +18,7 @@ title = "ThinLTO"
 
  - [ThinLTO](https://clang.llvm.org/docs/ThinLTO.html)
  - [CppCon 2017: Teresa Johnson "ThinLTO: Scalable and Incremental Link-Time Optimization"](https://www.youtube.com/watch?v=p9nH2vZ2mNo)
- - [Keynotes at Meeting C++ 2020](https://www.meetingcpp.com/meetingcpp/news/items/Keynotes-at-Meeting-Cpp-2020.html)
+ - [Meeting C++ 2020 - ThinLTO Whole Program Optimization: Past, Present and Future](https://meetingcpp.com/mcpp/schedule/talkview.php?tid=81)
 
 ### Sponsors ###
 
