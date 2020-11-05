@@ -13,7 +13,7 @@ title = "ThinLTO"
 
  - [Qt 6.0 Beta Released](https://www.qt.io/blog/qt-6.0-beta-released)
  - [Range_ref](https://artificial-mind.net/blog/2020/10/24/range_ref)
- - [Rob and Jason AMA](https://meetingcpp.com/meetingcpp/news/items/Jason-Turner-and-Rob-Irving-join-Meeting-Cpp-2020-for-an-shared-AMA.html
+ - [Rob and Jason AMA](https://meetingcpp.com/meetingcpp/news/items/Jason-Turner-and-Rob-Irving-join-Meeting-Cpp-2020-for-an-shared-AMA.html)
 
 ### Links ###
 
