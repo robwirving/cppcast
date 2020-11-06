@@ -1,5 +1,7 @@
 +++
 Title = "JeanHeyd Meneide"
+Twitter = "@__phantomderp"
+GitHub = "ThePhD"
 Date = "2020-11-05"
 Website = "https://thephd.github.io/"
 Type = "host"

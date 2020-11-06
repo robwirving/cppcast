@@ -1,6 +1,6 @@
 +++
 Title = "JeanHeyd Meneide"
-Twitter = "thephantomderp"
+Twitter = "__phantomderp"
 GitHub = "ThePhD"
 Website = "https://thephd.github.io/"
 Thumbnail = "img/guest/jeanheyd-meneide.png"
