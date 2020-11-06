@@ -5,7 +5,7 @@ guests = ["aballman","pbrett"]
 hosts = ["irvingr","meneidej"]
 episode = "272"
 episode_image = "img/episode/2020/11/unicode-cpp-c-studygroup.png"
-podcast_duration = "00:52:12"
+podcast_duration = "00:59:42"
 podcast_file = "cppcast-272.mp3"
 title = "Unicode Progress and C++/C Study Group"
 +++
