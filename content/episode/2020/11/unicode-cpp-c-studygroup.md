@@ -1,7 +1,8 @@
 +++
 Description = "Rob and JeanHeyd are joined by Aaron Ballman and Peter Brett, both members of the ISO C++ committee. They first talk about an extension for Visual Studio and Visual Code for visualizing struct layout and a blog post proposing a  safer boolean type. Then they talk about Aaron and Peter about progress being made at virtual ISO meetings and the upcoming virtual Plenary meeting."
 Date = "2020-11-05"
-guests = ["aballman","pbrett","jmeneide"]
+guests = ["aballman","pbrett"]
+hosts = ["irvingr","meneidej"]
 episode = "272"
 episode_image = "img/episode/2020/11/unicode-cpp-c-studygroup.png"
 podcast_duration = "00:52:12"
