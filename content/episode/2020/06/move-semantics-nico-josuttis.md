@@ -26,9 +26,9 @@ title = "Move Semantics"
  - [C++ Move Semantics - The Complete Guide](http://www.cppmove.com/)
  - [CppCon 2019: Nicolai Josuttis "When C++ Style Guides Contradict"](https://www.youtube.com/watch?v=WRQ1xqYBKgc)
  - [p0660 - Stop Tokens and a Joining Thread](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p0660r8.pdf)
- - [The C++ Standard Library](www.cppstdlib.com)
- - [C++ Templates - The Complete Guide](www.tmplbook.com)
- - [C++17 - The Complete Guide](www.cppstd17.com)
+ - [The C++ Standard Library](http://www.cppstdlib.com)
+ - [C++ Templates - The Complete Guide](http://www.tmplbook.com)
+ - [C++17 - The Complete Guide](http://www.cppstd17.com)
 
 ### Sponsors ###
 
