@@ -46,11 +46,10 @@
     {{- with .Params.podcast_file -}}
       <div class="row">
         <div class="col-md-12 player_row">
-          <audio id="audioplayer" src="{{ $.Site.Params.media_prefix }}{{ . }}" controls="controls" class="podcast-audio" preload="auto"/>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-11 col-md-offset-1">
+
+        <audio id="player2" style="width: 100%" controls preload="none">
+          <source src="{{ $.Site.Params.media_prefix }}{{ . }}" type="audio/mp3">
+          </audio>
           <a href="{{ $.Site.Params.media_prefix }}{{ . }}">Direct Download</a>
         </div>
       </div>
@@ -65,12 +64,30 @@
     </div>
   {{- end -}}
 
+        <!-- transcript POC begin-->
+        {{- with .Params.transcript -}}
+        <p>
+          <!-- <a class="btn btn-default" href="/"><i class="fab fa-spotify"></i>&nbsp;Spotify</a> -->
+          <button class="hide_transcript btn btn-secondary">Hide Transcript</button>
+          <button class="show_transcript btn btn-secondary">Display Transcript</button>
+          </p> 
+        <div class="row transcript">
+          <div class="col-md-12">
+            <h2>Transcript</h2>
+            {{ (readFile .) | markdownify}}
+          </div>
+        </div>
+        {{- end -}}
+        <!-- transcript POC end -->
+
   <div class="row">
     <div class="col">
       <h2>Show Notes</h2>
       {{ .Content }}
     </div>
   </div>
+
+
 
   {{ with .Params.guests }}
         <div class="row">
@@ -96,7 +113,7 @@
                     {{- end -}}
                   </div>
                   <div class="col-md-8">
-                    <h2><a href = "{{(printf "guest/%s" .File.BaseFileName) | absURL }}">{{ .Title }}</a></h2>
+                    <h2><a href = "{{(printf "guest/%s/" .File.BaseFileName) | absURL }}">{{ .Title }}</a></h2>
                     {{ .Content }}
                     {{- with .Params.Website -}}
                       <a href="{{ . }}">
@@ -114,7 +131,7 @@
                       </a>
                     {{- end -}}
                     {{- with .Params.LinkedIn -}}
-                      <a href="https://www.linkedin.com/in/{{ . }}">
+                      <a href="https://www.linkedin.com/in/{{ . }}/">
                         <i class="fab fa-linkedin fa-2x"></i>
                       </a>
                     {{- end -}}
@@ -138,6 +155,11 @@
                         <i class="fab fa-youtube-square fa-2x"></i>
                       </a>
                     {{- end -}}
+                    {{- with .Params.Twitch -}}
+                    <a href="https://twitch.tv/{{ . }}">
+                      <i class="fab fa-twitch fa-2x"></i>
+                    </a>
+                  {{- end -}}
                   </div>
                   </div>
                 {{- $.Scratch.Set "guest-exist" "false" -}}
@@ -173,7 +195,7 @@
                           <a href = "https://github.com/{{ $p.GitHub}}"><i class="fab fa-github-square fa-2x"></i></a>
                         {{ end }}
                         {{ if isset $p "linkedin" }}
-                          <a href = "https://www.linkedin.com/in/{{ $p.LinkedIn}}"><i class="fab fa-linkedin-square fa-2x"></i></a>
+                          <a href = "https://www.linkedin.com/in/{{ $p.LinkedIn}}/"><i class="fab fa-linkedin-square fa-2x"></i></a>
                         {{ end }}
                         {{ if isset $p "facebook" }}
                           <a href = "{{ $p.Facebook}}"><i class="fab fa-facebook-square fa-2x"></i></a>
@@ -210,7 +232,7 @@
               {{- end -}}
             </div>
             <div class="col-md-8">
-              <h2><a href = "{{(printf "host/%s" .File.BaseFileName) | absURL }}">{{ .Title }}</a></h2>
+              <h2><a href = "{{(printf "host/%s/" .File.BaseFileName) | absURL }}">{{ .Title }}</a></h2>
               {{ .Content }}
               {{- with .Params.Website -}}
                 <a href="{{ . }}">
@@ -228,7 +250,7 @@
                 </a>
               {{- end -}}
               {{- with .Params.LinkedIn -}}
-                <a href="https://www.linkedin.com/in/{{ . }}">
+                <a href="https://www.linkedin.com/in/{{ . }}/">
                   <i class="fab fa-linkedin fa-2x"></i>
                 </a>
               {{- end -}}
@@ -252,6 +274,11 @@
                   <i class="fab fa-youtube-square fa-2x"></i>
                 </a>
               {{- end -}}
+              {{- with .Params.Twitch -}}
+              <a href="https://twitch.tv/{{ . }}">
+                <i class="fab fa-twitch fa-2x"></i>
+              </a>
+            {{- end -}}
             </div>
             </div>
           {{- $.Scratch.Set "host-exist" "false" -}}
@@ -294,6 +321,7 @@ See a mistake? <a href="https://github.com/robwirving/cppcast/edit/master/conten
       </div>
       <!-- disqus ends -->
       {{ end }}
+
       <div class="row">
         <!-- pager begin -->
         <div class="col-md-12">

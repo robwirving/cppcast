@@ -1,5 +1,4 @@
-<script src={{ "js/castanet-min.js" | absURL }}></script>
-<script src={{ "js/site.audioplayer.js" | absURL }}></script>
+<script src='{{ "js/castanet-min.js" | absURL }}'></script>
 <script>
     $("#share").jsSocials({
         shares: [
@@ -14,7 +13,7 @@
         {{ if (isset .Site.Params.social "twitter" )}}
           via: "{{ .Site.Params.social.twitter }}",       // custom twitter sharing param 'via' (optional)
         {{ end }}
-        url: "{{ .Params.permalink }}",
+        url: "{{ .Permalink }}",
         text: "{{ title .Title }}"
       },
       {
@@ -28,13 +27,36 @@
     ],
     });
 </script>
-<!-- <script>
-audiojs.events.ready(function() {
-  var as = audiojs.createAll({
-    imageLocation: '{{"img/player-graphics.gif" | relURL}}',
-    retinaImageLocation: '{{"img/player-graphics@2x.gif" | relURL}}',
-    swfLocation: '{{"swf/audiojs.swf" | relURL}}'
+
+<script>
+  $(document).ready(function() {
+
+    $('.transcript').hide();
+    $(".hide_transcript").hide();
+    $(".hide_transcript").click(function () {
+    $(".transcript").hide("fast");
+    $(".show_transcript").show();
+    $(".hide_transcript").hide();
    });
- });
-</script> -->
+
+    $(".show_transcript").click(function () {
+    $(".transcript").show(500);
+    $(".hide_transcript").show();
+    $(".show_transcript").hide();
+   });
+
+  });
+
+</script>
+
+<script>
+  var player = new MediaElementPlayer('player2', {
+      features: ['playpause', 'current', 'progress', 'duration', 'volume','speed'],
+      defaultSpeed: 1.0,
+      // other configuration elements
+  });
+</script>
+
+
+
 {{ template "_internal/google_analytics_async.html" . }}
