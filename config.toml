@@ -66,15 +66,15 @@ favicon = "favicon.ico"
         twitter = "lefticus"
   
   [params.sponsors]
-    [params.sponsors.clang-power-tools]
-      name = "Clang Power Tools"
-      url = "https://clangpowertools.com/?utm_source=cppcast&utm_medium=podcast&utm_campaign=promo_cppcast"
-      ad = "img/sponsors/clangpowertools.png"
-
     [params.sponsors.pvs-studio]
       name = "PVS-Studio"
       url = "http://bit.ly/2KBeGnC"
       ad = "img/sponsors/PVS-Studio_banner.png"
+
+    [params.sponsors.jetbrains]
+      name = "JetBrains"
+      url = "https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp"
+      ad = "img/sponsors/jetbrains_600x500.png"
 
   [params.links]
     [params.links.patreon]
