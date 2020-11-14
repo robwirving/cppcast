@@ -100,7 +100,7 @@
   {{- with .Params.podcast_file -}}
     <div class = "row">
       <div class = "col-md-12">
-      <audio id="audioplayer" src="{{ $.Site.Params.media_prefix }}{{ . }}" controls="controls" class="podcast-audio" preload="auto" />
+        <audio id="player2" style="width: 100%" controls preload="none">
           <source src="{{ $.Site.Params.media_prefix }}{{ . }}" type="audio/mp3">
         </audio>
       </div>
