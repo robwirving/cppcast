@@ -1,5 +1,5 @@
 +++
-Description = "Rob and Jason are joined by Joël Lamotte. They first talk about C++20 Modules support in GCC and MSVC and a micro benchmarking library. Then they talk to Joël about how he got involved in C++, and his experiences working on indie video games, robotics and his recent transition to the audio industry working on a web assembly powered website."
+Description = "Rob and Jason are joined by Conor Hoekstra. They first talk about new and updated libraries in Boost and Herb Sutter's trip report covering news from the recent virtual ISO plenary meeting where the first new features were voted into C++23. Then they talk to Conor about some of his recent conference talks on Algorithm Intuition and Concepts vs typeclasses."
 Date = "2020-11-19"
 guests = ["choekstra"]
 episode = "274"
