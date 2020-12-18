@@ -2,6 +2,7 @@
 Description = "Rob and Jason are joined by Teresa Johnson from Google. They first discuss the Qt6 beta release and a blog post proposing range_ref, a lightweight view for ranges. Then they talk to Teresa about ThinLTO, the scalable and incremental Link Time Optimization built into LLVM."
 Date = "2020-10-30"
 guests = ["tjohnson"]
+sponsors = ["pvs-studio","jetbrains"]
 episode = "271"
 episode_image = "img/episode/2020/10/teresa-johnson.jpg"
 podcast_duration = "00:52:12"

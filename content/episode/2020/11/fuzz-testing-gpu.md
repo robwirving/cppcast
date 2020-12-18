@@ -2,6 +2,7 @@
 Description = "Rob and Jason are joined by Artem Dinaburg and Ryan Eberhardt. They first talk about a new version of CMake that was just released, an interview with Bjarne Stroustrup and another month of new ISO papers. Then they talk to Artem and Ryan who talk about fuzz testing, including a new fuzz testing project being worked at Trail of Bits to enable fuzz testing on the GPU."
 Date = "2020-11-27"
 guests = ["adinaburg","reberhardt"]
+sponsors = ["pvs-studio","jetbrains"]
 episode = "275"
 episode_image = "img/episode/2020/11/trail-of-bits.png"
 podcast_duration = "01:04:21"

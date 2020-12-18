@@ -2,6 +2,7 @@
 Description = "Rob and Jason are joined by Joël Lamotte. They first talk about C++20 Modules support in GCC and MSVC and a micro benchmarking library. Then they talk to Joël about how he got involved in C++, and his experiences working on indie video games, robotics and his recent transition to the audio industry working on a web assembly powered website."
 Date = "2020-11-12"
 guests = ["jlamotte"]
+sponsors = ["pvs-studio","jetbrains"]
 episode = "273"
 episode_image = "img/episode/2020/11/joel-lamotte.jpg"
 podcast_duration = "00:59:38"

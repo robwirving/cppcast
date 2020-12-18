@@ -2,6 +2,7 @@
 Description = "Rob and Jason are joined by Ben Deane from Quantlab. They first discuss the 11.0 update of Clang and an a blog post highlighting some of the smaller features that were added in C++17. They then talk to Ben about some of his recent CppCon talks including one on what we can learn from the history of programming languages and another on the ability to JIT C++ code."
 Date = "2020-10-23"
 guests = ["bdeane"]
+sponsors = ["pvs-studio","jetbrains"]
 episode = "270"
 episode_image = "img/episode/2020/10/ben-deane.jpg"
 podcast_duration = "00:53:39"

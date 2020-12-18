@@ -2,6 +2,7 @@
 Description = "Rob and Jason are joined by Conor Hoekstra. They first talk about new and updated libraries in Boost and Herb Sutter's trip report covering news from the recent virtual ISO plenary meeting where the first new features were voted into C++23. Then they talk to Conor about some of his recent conference talks on Algorithm Intuition and Concepts vs typeclasses."
 Date = "2020-11-19"
 guests = ["choekstra"]
+sponsors = ["pvs-studio","jetbrains"]
 episode = "274"
 episode_image = "img/episode/2020/11/conor-hoekstra.png"
 podcast_duration = "00:59:38"
