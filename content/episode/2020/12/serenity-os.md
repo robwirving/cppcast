@@ -19,9 +19,9 @@ title = "SerenityOS"
 
 ### Links ###
 
- - [SrenityOS](http://serenityos.org/)
+ - [SerenityOS](http://serenityos.org/)
  - [Serenity on GitHub](https://github.com/SerenityOS/serenity)
- - [Andreas Kling's YouTube](https://www.youtube.com/channel/UC3ts8coMP645hZw9JSD3pqQ)
+ - [Andreas Kling's YouTube](https://www.youtube.com/andreaskling)
 
 ### Sponsors ###
 
