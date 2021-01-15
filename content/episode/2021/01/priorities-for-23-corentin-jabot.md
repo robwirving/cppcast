@@ -5,7 +5,7 @@ guests = ["cjabot"]
 sponsors = ["pvs-studio","jetbrains"]
 episode = "282"
 episode_image = "img/episode/2021/01/corentin-jabot.png"
-podcast_duration = "00:56:29"
+podcast_duration = "00:53:50"
 podcast_file = "cppcast-282.mp3"
 title = "Priorities for C++23"
 +++
