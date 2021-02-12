@@ -1,5 +1,5 @@
 +++
-Description = "Rob and Jason are joined by Sebastian Theophil from Think-Cell. They first talk discuss a blog post on building a 1 billion LOC project with the Threadripper 3990X and a browser extension for easily searching for C++ reference help. Then they talk to Sebastian about his teams efforts to port their Windows C++ codebase onto MacOS and some of the challenges they dealt with, as well as recent efforts to start porting some of the code into Web Assembly."
+Description = "Rob and Jason are joined by Sebastian Theophil from think-cell. They first talk discuss a blog post on building a 1 billion LOC project with the Threadripper 3990X and a browser extension for easily searching for C++ reference help. Then they talk to Sebastian about his teams efforts to port their Windows C++ codebase onto MacOS and some of the challenges they dealt with, as well as recent efforts to start porting some of the code into Web Assembly."
 Date = "2021-02-12"
 guests = ["stheophil"]
 sponsors = ["visual-assist"]
@@ -18,7 +18,7 @@ title = "Going Cross Platform"
 
 ### Links ###
 
- - [Think-Cell: Join us as a C++ developer](https://www.think-cell.com/en/career/jobs/development.html)
+ - [think-cell: Join us as a C++ developer](https://www.think-cell.com/en/career/jobs/development.html)
  - [Windows, macOS and the Web: Lessons from cross-platform development at think-cell](https://cppconf-piter.ru/en/2020/spb/talks/7n4qbinocb8yk01lqx7f0q/)
  - [tcjs library for generating type-safe JavaScript bindings for C++/Emscripten](https://github.com/think-cell/tcjs)
 
