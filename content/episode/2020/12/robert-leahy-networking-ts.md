@@ -2,12 +2,17 @@
 Description = "Rob and Jason are joined by Robert Leahy. They first talk about an open source flappy bird clone and the C++ framework it was built with. Then they talk to Robert Leahy about the Networking TS that will hopefully be a major feature of C++23."
 Date = "2020-12-03"
 guests = ["rleahy"]
+sponsors = ["pvs-studio","jetbrains"]
 episode = "276"
 episode_image = "img/episode/2020/12/robert-leahy.jpg"
 podcast_duration = "00:56:29"
 podcast_file = "cppcast-276.mp3"
 title = "Networking TS"
 +++
+
+### Transcript ###
+
+ - [CppCast 276: Networking TS Transcript from PVS Studio](https://www.viva64.com/cppcast_276)
 
 ### News ###
 
