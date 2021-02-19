@@ -7,7 +7,7 @@ episode = "287"
 episode_image = "img/episode/2021/02/carl-cook.jpg"
 podcast_duration = "00:53:53"
 podcast_file = "cppcast-287.mp3"
-title = "High Frequency Trading"
+title = "Trading Systems"
 +++
 
 ### News ###
