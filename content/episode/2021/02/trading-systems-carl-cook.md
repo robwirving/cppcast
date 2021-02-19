@@ -3,6 +3,7 @@ Description = "Rob and Jason are joined by Carl Cook from Optiver. They first ta
 Date = "2021-02-19"
 guests = ["ccook"]
 sponsors = ["pvs-studio"]
+aliases = ["/2021/02/high-frequency-trading-carl-cook"]
 episode = "287"
 episode_image = "img/episode/2021/02/carl-cook.jpg"
 podcast_duration = "00:53:53"
