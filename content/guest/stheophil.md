@@ -1,6 +1,6 @@
 +++
 Title = "Sebastian Theophil"
-GitHub = "steophil"
+GitHub = "stheophil"
 LinkedIn = "sebastian-theophil-945563b"
 Thumbnail = "img/guest/sebastian-theophil.jpg"
 +++
