@@ -1,5 +1,5 @@
 +++
-Description = "Rob and Jason are joined by Nicole Mazucca from Microsoft. They first talk about a differential equation library, and modules support in build2 and meson. Then they talk to Nicole from Microsoft's vcpkg team about some new features in vcpkg to enable teams to host their own libraries."
+Description = "Rob and Jason are joined by Nicole Mazzuca from Microsoft. They first talk about a differential equation library, and modules support in build2 and meson. Then they talk to Nicole from Microsoft's vcpkg team about some new features in vcpkg to enable teams to host their own libraries."
 Date = "2021-02-26"
 guests = ["nmazzuca"]
 sponsors = ["pvs-studio"]
