@@ -24,6 +24,7 @@ title = "Reducing Memory Allocations"
 ### Links ###
 
  - [Reducing Memory Allocations in a Large C++ Application - Arnaud Desitter [ C++ on Sea 2020 ]](https://www.youtube.com/watch?v=ZXTI5iWHhrg)
+ - [Reducing Memory Allocations in a Large C++ Application - Slides- Arnaud Desitter [ C++ on Sea 2020 ]](https://github.com/adesitter/accu_presentations/blob/master/ReducingMemoryAllocations_CppOnSea_2020.pdf)
  - [heaptrack](https://github.com/KDE/heaptrack)
 
 
