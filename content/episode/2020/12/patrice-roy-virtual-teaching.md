@@ -2,12 +2,17 @@
 Description = "Rob and Jason are joined by Patrice Roy. They first talk discuss JeanHeyd Meneide's blog post regarding ABI breakage in C and C++. Then they talk to Patrice Roy about his experience teaching C++ during the COVID pandemic, the first ISO Virtual Plenary and more."
 Date = "2020-12-10"
 guests = ["proy"]
+sponsors = ["pvs-studio"]
 episode = "277"
 episode_image = "img/episode/2020/12/patrice-roy.jpg"
 podcast_duration = "00:56:29"
 podcast_file = "cppcast-277.mp3"
 title = "Virtual Teaching and Plenary"
 +++
+
+### Transcript ###
+
+ - [CppCast 277: Virtual Teaching and Plenary from PVS Studio](https://www.viva64.com/en/b/0806/)
 
 ### News ###
 
