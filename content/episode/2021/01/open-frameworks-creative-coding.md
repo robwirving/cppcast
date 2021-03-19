@@ -10,6 +10,10 @@ podcast_file = "cppcast-281.mp3"
 title = "Open Frameworks and Creative Coding"
 +++
 
+### Transcript ###
+
+ - [Text Broadcast of CppCast 281 from PVS Studio](https://www.viva64.com/en/b/0813/)
+
 ### News ###
 
  - [Firsts in 2020](https://herbsutter.com/2020/12/30/firsts-in-2020-or-a-little-dose-of-good-news/)
