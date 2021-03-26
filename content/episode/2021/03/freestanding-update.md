@@ -7,7 +7,7 @@ episode = "292"
 episode_image = "img/episode/2021/03/ben-craig.jpg"
 podcast_duration = "00:59:53"
 podcast_file = "cppcast-292.mp3"
-title = "Freestanding Proposal"
+title = "Freestanding Update"
 +++
 
 ### News ###
