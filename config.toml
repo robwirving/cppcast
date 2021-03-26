@@ -76,10 +76,10 @@ favicon = "favicon.ico"
       url = "https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp"
       ad = "img/sponsors/jetbrains_600x500.png"
 
-    [params.sponsors.visual-assist]
-      name = "Visual Assist"
-      url = "https://www.wholetomato.com/downloads?utm_source=CppCast&utm_medium=Affiliate&utm_content=PodcastSponsorship"
-      ad = "img/sponsors/WholeTomatoBanner.png"
+    [params.sponsors.cpp-builder]
+      name = "C++ Builder"
+      url = "https://www.embarcadero.com/products/cbuilder/start-for-free?utm_source=CppCast&utm_medium=AffiliateOutreach&utm_content=BannerCppCast"
+      ad = "img/sponsors/Cpp-Builder.png"
 
   [params.links]
     [params.links.patreon]
