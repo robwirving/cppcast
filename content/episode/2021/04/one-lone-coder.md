@@ -15,7 +15,7 @@ title = "One Lone Coder"
  - [Freestanding avr-libstdc++](https://gitlab.com/avr-libstdcxx)
  - [Calc.exe is now open source](https://arstechnica.com/gadgets/2019/03/calc-exe-is-now-open-source-theres-surprising-depth-in-its-ancient-code/)
  - [Cmake 3.20.0 available for download](https://discourse.cmake.org/t/cmake-3-20-0-available-for-download/2999)
- - [ISO C++ March Mailing](http://w77w.open-std.org/jtc1/sc22/wg21/docs/papers/2021/#mailing2021-03)
+ - [ISO C++ March Mailing](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/#mailing2021-03)
 
 ### Links ###
 
