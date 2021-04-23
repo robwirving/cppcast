@@ -71,15 +71,15 @@ favicon = "favicon.ico"
       url = "http://bit.ly/2KBeGnC"
       ad = "img/sponsors/PVS-Studio_banner.png"
 
-    [params.sponsors.jetbrains]
-      name = "JetBrains"
+    [params.sponsors.incredibuild]
+      name = "Incredibuild"
       url = "https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp"
       ad = "img/sponsors/jetbrains_600x500.png"
 
     [params.sponsors.cpp-builder]
       name = "C++ Builder"
-      url = "https://www.embarcadero.com/products/cbuilder/start-for-free?utm_source=CppCast&utm_medium=AffiliateOutreach&utm_content=BannerCppCast"
-      ad = "img/sponsors/Cpp-Builder.png"
+      url = "https://www.incredibuild.com/cppcast"
+      ad = "img/sponsors/Incredibuild_300x250.gif"
 
   [params.links]
     [params.links.patreon]
