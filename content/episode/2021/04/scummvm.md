@@ -1,5 +1,5 @@
 +++
-Description = "Rob and Jason are joined by David Millington from Embarcadero. They first discuss a blog post on Thread Sanitizer and a very unique implementation of unique_ptr. Then they talk to David Millington from Embarcadero about C++ Builder, it's history and the state of the tool today. Including some of its extensions built into their version of Clang."
+Description = "Rob and Jason are joined by Eugene Sandulenko. They first discuss the announcement of Visual Studio 2022 and Facebook open sourcing a new machine learning library. Then they talk to Eugene Sandulenko all about ScummVM, how the project got started and more."
 Date = "2021-04-23"
 guests = ["esandulenko"]
 sponsors = ["incredibuild"]
