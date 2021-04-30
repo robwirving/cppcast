@@ -7,7 +7,7 @@ episode = "297"
 episode_image = "img/episode/2021/04/jeanheyd-meneide.png"
 podcast_duration = "00:59:53"
 podcast_file = "cppcast-297.mp3"
-title = "Defer is better then Destructors"
+title = "Defer is better than Destructors"
 +++
 
 ### News ###
