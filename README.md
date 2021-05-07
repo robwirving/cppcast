@@ -4,7 +4,7 @@
 
 The first podcast by C++ developers for C++ developers! Hosted by Rob Irving and Jason Turner.
 
-Subscribe to the show using our [RSS Feed](http://cppcast.libsyn.com/rss), or search for "CppCast" in your favorite podcast app.
+Subscribe to the show using our [RSS Feed](https://cppcast.libsyn.com/rss), or search for "CppCast" in your favorite podcast app.
 
 ## Getting Started with Hugo
 The _CppCast_ site utilizes Hugo, a static site generation tool, to build its website and resources. Follow the installation steps below to run a local copy of the site.
