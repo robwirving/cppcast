@@ -1,5 +1,5 @@
 +++
-Description = "Rob and Jason are joined by Todd Gamblin and Greg Becker. They first discuss a documentation tool, a blog post about floating point numbers, and yet another post about ABI changes. Then they talk to Todd and Greg from Lawrence Livermore National Laboratory (LLNL) who both work on Spack, the populat open source package manager aimed at HPC."
+Description = "Rob and Jason are joined by Todd Gamblin and Greg Becker. They first discuss a documentation tool, a blog post about floating point numbers, and yet another post about ABI changes. Then they talk to Todd and Greg from Lawrence Livermore National Laboratory (LLNL) who both work on Spack, the popular open source package manager aimed at HPC."
 Date = "2021-05-28"
 guests = ["tgamblin","gbecker"]
 sponsors = ["pvs-studio"]
