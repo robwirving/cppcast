@@ -6,7 +6,7 @@ sponsors = ["pvs-studio"]
 episode = "306"
 episode_image = "img/episode/2021/07/ondrej-certik.jpg"
 podcast_duration = "00:59:53"
-podcast_file = "cppcast-305.mp3"
+podcast_file = "cppcast-306.mp3"
 title = "LFortran"
 +++
 
