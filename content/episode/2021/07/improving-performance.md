@@ -24,6 +24,6 @@ title = "Improving Performance"
 
 ### Sponsors ###
 
-- [PVS-Studio.](https://www.viva64.com/pvs-download-cppcast-t) Write #cppcast in the message field on the download page and get one month license
 - [PVS-Studio Team: Switching to Clang Improved PVS-Studio C++ Analyzer's Performance](https://pvs-studio.com/clang)
-- [COVID-19 Research and Uninitialized Variables](https://www.viva64.com/covid-19)
+- [Beta-Testing of PVS-Studio Plugin for JetBrains CLion](https://pvs-studio.com/beta_clion)
+- [PVS-Studio podcast transcripts](https://pvs-studio.com/broadcasting)
