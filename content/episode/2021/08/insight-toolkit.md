@@ -1,5 +1,5 @@
 +++
-Description = "Rob and Matt are joined by Matt McCormick from Kitware. They first discuss a blog post on using C++20 modules with GCC11 and Qt Multimedia support in Web Assembly. Then they talk to Matt about the history of Insight Toolkit, some of its applications and its role in the origin of CMake."
+Description = "Rob and Jason are joined by Matt McCormick from Kitware. They first discuss a blog post on using C++20 modules with GCC11 and Qt Multimedia support in Web Assembly. Then they talk to Matt about the history of Insight Toolkit, some of its applications and its role in the origin of CMake."
 Date = "2021-08-26"
 guests = ["mmcormick"]
 sponsors = ["cpp-builder"]

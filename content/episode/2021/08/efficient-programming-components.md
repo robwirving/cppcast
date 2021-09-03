@@ -1,5 +1,5 @@
 +++
-Description = "Rob and Matt are joined by Justin Meiners. They first talk about a big boost library update, and whether Valgrind is still useful compared to sanitizers. Then they talk to Justin Meiners about Alex Stepanov, his contribution to the STL and some of his courses that are still relevant to today's C++ programmers."
+Description = "Rob and Jason are joined by Justin Meiners. They first talk about a big boost library update, and whether Valgrind is still useful compared to sanitizers. Then they talk to Justin Meiners about Alex Stepanov, his contribution to the STL and some of his courses that are still relevant to today's C++ programmers."
 Date = "2021-08-19"
 guests = ["jmeiners"]
 sponsors = ["cpp-builder"]
