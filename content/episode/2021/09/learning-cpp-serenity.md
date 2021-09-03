@@ -1,6 +1,6 @@
 +++
 Description = "Rob and Matt are joined by Linus Groh. They first discuss a new feature of Compiler Explorer and some ISO papers. Then they talk to Linus about his involvement in the Serenity project, learning C++ as he became a contributor."
-Date = "2021-08-05"
+Date = "2021-09-02"
 guests = ["lgroh"]
 sponsors = ["pvs-studio"]
 episode = "315"
