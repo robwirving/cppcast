@@ -6,7 +6,7 @@ sponsors = ["cpp-builder"]
 episode = "316"
 episode_image = "img/episode/2021/09/phil-nash.jpg"
 podcast_duration = "00:59:53"
-podcast_file = "cppcast-314.mp3"
+podcast_file = "cppcast-316.mp3"
 title = "Podcasting and Advocating"
 +++
 
