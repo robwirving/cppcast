@@ -28,4 +28,4 @@ title = "Dart and Crafting Interpreters"
 
 ### Sponsors ###
 
-- Use code JetBrainsForCppCast during checkout at [JetBrains.com](http://www.jetbrains.com/) for a 25% discount
+- Use code JetBrainsForCppCast during checkout at [JetBrains.com](https://jb.gg/cppcast) for a 25% discount
