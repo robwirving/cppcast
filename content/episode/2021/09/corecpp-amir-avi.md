@@ -6,7 +6,7 @@ sponsors = ["jetbrains"]
 episode = "318"
 episode_image = "img/episode/2021/09/corecpp-amir-avi.png"
 podcast_duration = "00:59:53"
-podcast_file = "cppcast-317.mp3"
+podcast_file = "cppcast-318.mp3"
 title = "CoreCpp 2021"
 +++
 
