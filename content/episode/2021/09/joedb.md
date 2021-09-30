@@ -1,6 +1,6 @@
 +++
 Description = "Rob and Jason are joined by Remi Coulom from Kayufu. They first discuss another blog posts about the ongoing ABI problems in C++ and another on common mistakes with comparison functions. Then they talk to Remi about Joedb, the Journal-Only Embedded Database."
-Date = "2021-09-23"
+Date = "2021-09-30"
 guests = ["rcoulom"]
 sponsors = ["pvs-studio"]
 episode = "319"
