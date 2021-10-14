@@ -1,8 +1,13 @@
 +++
 Title = "Joel Falcou"
-Twitter = "@joel_f"
+Twitter = "@CppSpelunker"
 GitHub = "jfalcou"
 Thumbnail = "img/guest/joel-falcou.jpg"
 +++
-Computer Science Engineer, PhD, Associate professor at University Paris Saclay, Joël Falcou is the creator and president of C++FrUG, C++ Meetup host and an International speaker.
-Joel has been actively participating in the C++ international community with more than 7 years of international talks at BoostCon, C++Now, C++Russia, C++Con and Meeting-C++. He is also a member of the C++Now and CppCon Program Committee. He is a member of the French National Body of the ISO Standard Committee for C++ since 2014.
+Joel is an associate professor at the University Paris-Saclay and Researcher at the Laboratoire de Recherche d’Informatique in Orsay, France. His research focuses on studying generative programming idioms and techniques to design tools for parallel software development.
+
+The main parts of his work are:
+• the exploration of Embedded Domain Specific Language design for parallel computing on various architectures;
+• the definition of a formal framework for reasoning about meta-programs.
+
+Joel is the co-host of the C++FRUG Meetup, president of the C++FRUG Association, co-organizes the CPPP Conference, and is part entrepreneur, being one of the co-founder of CODE RECKONS, a company focused on bringing people and company up to date to the best and newest C++.
