@@ -7,6 +7,7 @@ episode = "322"
 episode_image = "img/episode/2021/10/hal-finkel.jpg"
 podcast_duration = "00:59:53"
 podcast_file = "cppcast-322.mp3"
+YouTube = "https://youtu.be/gG4dN4XvvhI"
 title = "JIT Compilation and Exascale Computing"
 +++
 
