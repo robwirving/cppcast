@@ -1,5 +1,5 @@
 +++
-Description = "Rob and Conor are joined by Gašper Ažman. They first talk about some resources for learning C++ and learning how to work on the LLVM compiler. Then they talk to Gašper about the Deducing This feature coming  to C++23, how the feature worked its way through the ISO committee and what it will change."
+Description = "Rob and Jason are joined by Gašper Ažman. They first talk about some resources for learning C++ and learning how to work on the LLVM compiler. Then they talk to Gašper about the Deducing This feature coming  to C++23, how the feature worked its way through the ISO committee and what it will change."
 Date = "2021-11-11"
 guests = ["gazman"]
 hosts = ["irvingr","hoekstrac"]
