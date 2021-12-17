@@ -1,5 +1,5 @@
 +++
-Description = "Rob and Jason are joined by Daniel Ruoso and Bret Brown from Bloomberg. They first talk about Jason's new Object Lifetime Puzzle book and a blost post from Kevlin Henney on Agile processes. Then they talk to Daniel and Brett about their research into using Modules at Bloomberg, and some of the changes still needed from compilers and build systems to use Modules in large scale software development."
+Description = "Rob and Jason are joined by Daniel Ruoso and Bret Brown from Bloomberg. They first talk about Jason's new Object Lifetime Puzzle book and a blost post from Kevlin Henney on Agile processes. Then they talk to Daniel and Bret about their research into using Modules at Bloomberg, and some of the changes still needed from compilers and build systems to use Modules in large scale software development."
 Date = "2021-12-16"
 guests = ["druoso","bbrown2"]
 sponsors = ["jetbrains"]
