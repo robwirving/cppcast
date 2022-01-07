@@ -1,8 +1,8 @@
 +++
 Title = "Slobodan Dmitrović"
 LinkedIn = "slobodan-dmitrovic"
+Twitter = "@slobodandmitrov"
 Website = "https://www.cppandfriends.com/"
 Thumbnail = "img/guest/slobodan-dmitrovic.jpg"
 +++
-Slobodan Dmitrović is a software development consultant and author from Serbia. He specializes in C++ training, technical analysis, and software architecture. He is a highly visible member of the SE European C++ community and a StackOverflow contributor. Slobodan has gained international experience working as a software consultant in Denmark, Poland, Croatia, China, and the Philippines.
-Slobodan maintains a website at www.cppandfriends.com.
+Slobodan is a software development consultant, C and C++ trainer, and author of two programming books. He specializes in training, research and development, and consulting. Slobodan has been working as a professional software developer for more than twenty years. Since 2019 he has been dedicated to providing training and consulting services, speaking at conferences, and writing programming books. Slobodan provides C and C++ training services to corporate clients through his company.
