@@ -20,6 +20,7 @@ title = "C++ Compile Time Parser Generator"
 
  - [C++ Compile Time Parser Generator](https://github.com/peter-winter/ctpg)
  - [Peter Winter's Blog](http://peter-winter.com/)
+ - [Deadline24 2013 | Future Processing](https://www.youtube.com/watch?v=SSYSqLWXgO4)
 
 ### Sponsors ###
 
