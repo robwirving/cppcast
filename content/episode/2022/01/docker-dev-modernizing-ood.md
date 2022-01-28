@@ -12,6 +12,8 @@ title = "Docker Development and Modernizing OOD"
 
 ### News ###
 
+ - [Amazon: Copy and Reference Puzzlers](https://amzn.to/3rWRBQU)
+ - [Leanpub: Copy and Reference Puzzlers](https://leanpub.com/copyandreferencepuzzlers_book1/)
  - [ISO January Mailing](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/#mailing2022-01)
  - [C++ Discord Bot Library](https://github.com/RealTimeChris/DiscordCoreAPI)
  - [CLIon UX Study](https://surveys.jetbrains.com/s3/clion-diary4)
