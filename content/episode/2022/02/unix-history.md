@@ -1,6 +1,6 @@
 +++
 Description = "Brian Kernighan joins Rob and Jason. They first talk about the pros and cons of virtual teaching and training during COVID times, and the news that BOLT has been merged into LLVM. Then they talk to Brian about the history of UNIX and C development at Bell Labs."
-Date = "2022-02-03"
+Date = "2022-02-04"
 guests = ["bkernighan"]
 sponsors = ["pvs-studio"]
 episode = "335"
