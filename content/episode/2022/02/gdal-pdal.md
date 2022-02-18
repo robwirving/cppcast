@@ -23,6 +23,7 @@ title = "GDAL and PDAL"
  - [GDAL on GitHub](https://github.com/OSGeo/gdal)
  - [PDAL](http://pdal.io/)
  - [PDAL on GitHub](https://github.com/PDAL/PDAL)
+ - [Cloud Optimized Point Cloud](https://copc.io/)
 
 ### Sponsors ###
 
