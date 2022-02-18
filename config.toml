@@ -73,7 +73,7 @@ favicon = "favicon.ico"
 
     [params.sponsors.jetbrains]
       name = "JetBrains"
-      url = "https://www.jetbrains.com/cpp/?utm_source=cppcast&utm_medium=podcast&utm_content=cppcast-podcast&utm_campaign=cpp"
+      url = "https://jb.gg/cppcast"
       ad = "img/sponsors/jetbrains_600x500.png"
 
     [params.sponsors.cpp-builder]
