@@ -2,7 +2,7 @@
 Description = "Khalil Estell joins Rob and Jason. They first talk about Matt Godbolt's recent keynote at CPPP on C++'s Superpower. Then they talk to Khalil about teaching C++ embedded development and some of his thoughts on embedded development, including why not to avoid runtime polymorphism."
 Date = "2022-02-25"
 guests = ["kestell"]
-sponsors = ["pvs-studio"]
+sponsors = ["jetbrains"]
 episode = "338"
 episode_image = "img/episode/2022/02/khalil-estell.png"
 podcast_duration = "00:59:53"
@@ -25,7 +25,5 @@ title = "Teaching Embedded Development"
 
 ### Sponsors ###
 
-- Indicate the #cppcast hashtag and request your PVS-Studio one-month trial license here [https://pvs-studio.com/try_free](https://pvs-studio.com/try_free)
-- C++ tools evolution: static code analyzers:
-[https://pvs-studio.com/0873](https://pvs-studio.com/0873)
+- Use code JetBrainsForCppCast during checkout at [JetBrains.com](https://jb.gg/cppcast) for a 25% discount
 
