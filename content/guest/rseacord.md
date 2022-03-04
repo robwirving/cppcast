@@ -1,6 +1,6 @@
 +++
 Title = "Robert Seacord"
-Twitter = "RSC"
+Twitter = "@RCS"
 LinkedIn = "robertseacord"
 Thumbnail = "img/guest/robert-seacord.jpg"
 +++
