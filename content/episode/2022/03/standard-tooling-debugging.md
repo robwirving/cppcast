@@ -1,5 +1,5 @@
 +++
-Description = "René Ferdinand Rivera Morell joins Rob and Jason. They first talk about a new cmake initialization project and some projects in the C++ show and tell. Then they talk to René about his open letter to the C++ committee about expanding it's scope to include tooling and other related technologies."
+Description = "René Ferdinand Rivera Morell joins Rob and Jason. They first talk about a new cmake initialization project and some projects in the C++ show and tell. Then they talk to René about his open letter to the C++ committee about expanding its scope to include tooling and other related technologies."
 Date = "2022-03-10"
 guests = ["rrivera"]
 sponsors = ["pvs-studio"]
