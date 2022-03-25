@@ -76,11 +76,6 @@ favicon = "favicon.ico"
       url = "https://jb.gg/cppcast"
       ad = "img/sponsors/jetbrains_600x500.png"
 
-    [params.sponsors.cpp-builder]
-      name = "C++ Builder"
-      url = "https://www.embarcadero.com/products/cbuilder/start-for-free?utm_source=CppCast&utm_medium=AffiliateOutreach&utm_content=BannerCppCast"
-      ad = "img/sponsors/Cpp-Builder.png"
-
   [params.links]
     [params.links.patreon]
       name = "Patreon"
