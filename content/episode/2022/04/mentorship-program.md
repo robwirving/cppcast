@@ -1,10 +1,10 @@
 +++
 Description = "Rainer Grimm joins Rob and Jason. They first talk about a new implementation of the ninja build system and updates to Qt Creator and CMake. Then they talk to Rainer Grimm about his mentorship program, and history of teaching C++."
-Date = "2022-03-31"
+Date = "2022-04-07"
 guests = ["rgrimm"]
 sponsors = ["jetbrains"]
 episode = "344"
-episode_image = "img/episode/2022/03/rainer-grimm.jpg"
+episode_image = "img/episode/2022/04/rainer-grimm.jpg"
 podcast_duration = "00:59:53"
 podcast_file = "cppcast-344.mp3"
 title = "Mentorship"
