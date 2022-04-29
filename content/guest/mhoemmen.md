@@ -1,6 +1,7 @@
 +++
 Title = "Mark Hoemmen"
 GitHub = "mhoemmen"
+Twitter = "@mhoemmen"
 LinkedIn = "markhoemmen"
 Thumbnail = "img/guest/mark-hoemmen.jpg"
 +++
