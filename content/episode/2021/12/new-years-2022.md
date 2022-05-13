@@ -1,5 +1,5 @@
 +++
-Description = "Rob and Jason are discuss various news articles, libraries and announcements on the last episode of 2021 before the new year."
+Description = "Rob and Jason discuss various news articles, libraries and announcements on the last episode of 2021 before the new year."
 Date = "2021-12-31"
 hosts = ["irvingr","turnerj"]
 sponsors = ["jetbrains"]
