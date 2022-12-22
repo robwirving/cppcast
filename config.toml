@@ -47,7 +47,6 @@ favicon = "favicon.ico"
 
   [params.social]
     twitter = "cppcast"
-    facebook = "CppCast"
     youtube = "channel/UCuCjADS4u3uJDTqUaG0H9dA"
 
   [params.authors]
@@ -66,10 +65,10 @@ favicon = "favicon.ico"
         twitter = "lefticus"
   
   [params.sponsors]
-    [params.sponsors.pvs-studio]
-      name = "PVS-Studio"
-      url = "http://bit.ly/2KBeGnC"
-      ad = "img/sponsors/PVS-Studio_banner.png"
+    [params.sponsors.sonar]
+      name = "Sonar"
+      url = "https://sonarsource.com"
+      ad = "img/sponsors/sonar-light-bg.png"
 
     [params.sponsors.jetbrains]
       name = "JetBrains"
@@ -77,9 +76,6 @@ favicon = "favicon.ico"
       ad = "img/sponsors/jetbrains_600x500.png"
 
   [params.links]
-    [params.links.patreon]
-      name = "Patreon"
-      url = "https://www.patreon.com/CppCast"
     [params.links.gear]
       name = "Gear"
       url = "https://shop.spreadshirt.com/CppCast/"
